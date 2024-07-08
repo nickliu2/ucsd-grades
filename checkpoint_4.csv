@@ -1,0 +1,1431 @@
+,instructor,course,term,avg_grade,avg_hours,student_learning_rating,course_structure_rating,class_environment_rating,num_enrolled,resp_rate
+0,"Vecchio, Kenneth S",NANO 100L - Physical Prop.of Materials Lab (A00),FA23,3.68,10.00,3.73,4.0,4.0,10,0.4
+1,"Tao, Andrea Rae",NANO 102 - Foundatn NanoEng: Chem Princpl (A00),FA23,3.09,6.00,3.85,3.72,4.12,50,0.3
+2,"Jahed Motlagh, Zeinab",NANO 103 - Foundatn NanoEng/Biochem Princ (A00),SP24,3.57,5.53,4.42,4.45,4.3,34,0.4706
+3,"Sirbuly, Donald",NANO 104 - Foundatn NanoEng/Physical Prin (A00),WI24,3.41,5.75,4.06,3.98,4.34,44,0.3636
+4,"Cubukcu, Ertugrul",NANO 107 - Elect Dev&Circuits for NanoEng (A00),WI24,3.18,5.38,4.56,4.53,4.51,48,0.3333
+5,"Lubarda, Vlado",NANO 108 - Materials Science & Engineerng (A00),SP24,3.71,5.34,3.87,3.92,4.35,45,0.6444
+6,"Meyers, Marc",NANO 108 - Materials Science & Engineerng (A00),WI24,3.42,3.75,4.02,3.75,4.31,24,1.0
+7,"Pascal, Tod A",NANO 110 - Modeling of Nanoscale Systems (A00),FA23,3.19,9.29,4.4,4.28,4.64,37,0.7568000000000001
+8,"Vecchio, Kenneth S",NANO 111 - Characterization/NanoEng Systm (A00),FA23,3.28,7.50,3.83,3.5,4.54,41,0.1463
+9,"Vazquez Mena, Oscar",NANO 112 - Synthesis/Fabricatn/NanoEngSys (A00),SP24,3.53,4.50,4.72,4.72,4.81,35,0.6857
+10,"Jahed Motlagh, Zeinab",NANO 114 - Prob and Stat Methods for Eng (A00),WI24,3.11,4.60,4.55,4.35,4.35,6,0.8333
+11,"Jahed Motlagh, Zeinab",NANO 114 - Prob and Stat Methods for Eng (A00),FA23,3.11,6.82,4.45,4.45,4.48,15,0.7333
+12,"Jahed Motlagh, Zeinab",NANO 114 - Prob and Stat Methods for Eng (A00),S223,3.11,6.67,4.0,3.75,3.79,13,0.4615
+13,"Yang, Kesong",NANO 115L - NanoEngineering Laboratory (A00),SP24,3.4,5.40,4.05,4.0,4.42,15,0.3333
+14,"Xu, Sheng",NANO 115L - NanoEngineering Laboratory (B00),SP24,3.83,3.40,4.75,4.78,4.95,26,0.1923
+15,"Cubukcu, Ertugrul",NANO 117 - Multi-scale Transport (A00),WI24,3.29,5.00,4.5,4.58,4.56,53,0.1698
+16,"Vazquez Mena, Oscar",NANO 119 - NanoEng System Design Seminar (A00),FA23,3.93,5.00,4.5,4.6,4.54,31,0.6452
+17,"Vazquez Mena, Oscar",NANO 119 - NanoEng System Design Seminar (B00),FA23,3.77,5.00,4.58,4.63,4.69,12,0.6667000000000001
+18,"Yang, Kesong",NANO 120A - NanoEng Systems Design I (A),WI23,,-1,15.17,-1.0,-1.0,-1,-0.01
+19,"Horvath, Stephen",NANO 120A - NanoEng Systems Design I (B),WI23,,3.48 (B+),7.59,-1.0,-1.0,-1,-0.01
+20,"Yang, Kesong",NANO 120A - NanoEng Systems Design I (A),WI22,,3.71 (A-),6.71,-1.0,-1.0,-1,-0.01
+21,"Xu, Sheng",NANO 120A - NanoEng Systems Design I (B),WI22,,3.63 (B+),8.0,-1.0,-1.0,-1,-0.01
+22,"Jokerst, Jesse Vincent",NANO 120A - NanoEng Systems Design I (A),WI21,,3.57 (B+),12.06,-1.0,-1.0,-1,-0.01
+23,"Xu, Sheng",NANO 120A - NanoEng Systems Design I (B),WI21,,-1,9.79,-1.0,-1.0,-1,-0.01
+24,"Sirbuly, Donald",NANO 120A - NanoEng Systems Design I (A),WI20,,3.39 (B+),13.59,-1.0,-1.0,-1,-0.01
+25,"Jokerst, Jesse Vincent",NANO 120A - NanoEng Systems Design I (B),WI20,,3.44 (B+),12.83,-1.0,-1.0,-1,-0.01
+26,"Sirbuly, Donald",NANO 120A - NanoEng Systems Design I (A),WI19,,3.57 (B+),9.17,-1.0,-1.0,-1,-0.01
+27,"Jokerst, Jesse Vincent",NANO 120A - NanoEng Systems Design I (B),WI19,,3.24 (B),11.36,-1.0,-1.0,-1,-0.01
+28,"Chen, Yi",NANO 120A - NanoEng Systems Design I (A),WI18,,3.62 (B+),9.05,-1.0,-1.0,-1,-0.01
+29,"Sirbuly, Donald",NANO 120A - NanoEng Systems Design I (A),WI17,,3.21 (B),9.37,-1.0,-1.0,-1,-0.01
+30,"Chen, Yi",NANO 120A - NanoEng Systems Design I (A),WI16,,3.39 (B+),7.67,-1.0,-1.0,-1,-0.01
+31,"Jokerst, Jesse Vincent",NANO 120A - NanoEng Systems Design I (A),WI16,,3.39 (B+),7.67,-1.0,-1.0,-1,-0.01
+32,"Sirbuly, Donald",NANO 120A - NanoEng Systems Design I (A),WI16,,3.39 (B+),7.67,-1.0,-1.0,-1,-0.01
+33,"Chen, Yi",NANO 120A - NanoEng Systems Design I (A),WI15,,3.30 (B+),6.1,-1.0,-1.0,-1,-0.01
+34,"Heller, Michael J",NANO 120A - NanoEng Systems Design I (A),WI15,,3.30 (B+),6.1,-1.0,-1.0,-1,-0.01
+35,"Sirbuly, Donald",NANO 120A - NanoEng Systems Design I (A),WI15,,3.30 (B+),6.1,-1.0,-1.0,-1,-0.01
+36,"Heller, Michael J",NANO 120A - NanoEng Systems Design I (A),WI14,,3.49 (B+),9.3,-1.0,-1.0,-1,-0.01
+37,"Sirbuly, Donald",NANO 120A - NanoEng Systems Design I (A),WI14,,3.49 (B+),8.75,-1.0,-1.0,-1,-0.01
+38,"Tao, Andrea Rae",NANO 120A - NanoEng Systems Design I (A),WI14,,3.49 (B+),8.88,-1.0,-1.0,-1,-0.01
+39,"Heller, Michael J",NANO 120A - NanoEng Systems Design I (A),WI13,,3.77 (A-),8.21,-1.0,-1.0,-1,-0.01
+40,"Sirbuly, Donald",NANO 120A - NanoEng Systems Design I (A),WI13,,3.77 (A-),8.1,-1.0,-1.0,-1,-0.01
+41,"Vecchio, Kenneth S",NANO 120B - NanoEng Systems Design II (A00),SP24,3.7,10.20,4.2,4.21,4.67,22,0.2273
+42,"Pokorski, Jonathan Kyle",NANO 134 - Polymeric Materials (A00),WI24,2.72,4.33,4.62,4.54,4.68,40,0.17500000000000002
+43,"Luo, Jian",NANO 148 - Thermodynamics of Materials (A00),FA23,3.47,7.69,4.13,4.38,4.62,52,0.25
+44,"Fullerton, Eric E",NANO 156 - Modern Concepts/Nanotechnology (A00),SP24,3.31,4.20,3.5,3.85,4.05,25,0.2
+45,"Luo, Jian",NANO 158 - Phase Transformations/Kinetics (A),WI20,,-1,6.5,-1.0,-1.0,-1,-0.01
+46,"Luo, Jian",NANO 158 - Phase Transformations/Kinetics (A),FA17,,-1,5.59,-1.0,-1.0,-1,-0.01
+47,"Luo, Jian",NANO 158 - Phase Transformations/Kinetics (A),FA15,,3.50 (B+),5.39,-1.0,-1.0,-1,-0.01
+48,"Luo, Jian",NANO 158 - Phase Transformations/Kinetics (A),FA14,,3.56 (B+),3.83,-1.0,-1.0,-1,-0.01
+49,"Luo, Jian",NANO 158 - Phase Transformations/Kinetics (A),FA13,,3.53 (B+),6.1,-1.0,-1.0,-1,-0.01
+50,"Steinmetz, Nicole F",NANO 175 - NanoEngineering in Medicine (A00),SP24,3.46,3.75,4.59,4.16,4.5,35,0.2286
+51,"Steinmetz, Nicole F",NANO 175 - NanoEngineering in Medicine (A00),FA23,3.57,5.91,4.53,4.33,4.21,36,0.3056
+52,"Ong, Shyue Ping",NANO 181 - Data Sci in Materials Sci (A00),FA23,3.23,8.33,4.17,3.96,3.88,22,0.2727
+53,"Harrell, Maralee Mae",PHIL 1 - Introduction to Philosophy (A00),SP24,3.19,4.47,4.21,4.17,4.56,109,0.1743
+54,"Sher, Gila",PHIL 1 - Introduction to Philosophy (A00),FA23,3.23,5.00,3.55,3.36,3.99,61,0.29510000000000003
+55,"Grush, Rick Scott",PHIL 1 - Introduction to Philosophy (B00),S223,3.48,6.67,4.83,4.7,4.75,5,0.6
+56,"Shahmoradi, Ayoob",PHIL 1 - Introduction to Philosophy (A00),S123,3.58,5.77,4.48,4.54,4.5,20,0.7000000000000001
+57,"Grush, Rick Scott",PHIL 10 - Introduction to Logic (A00),SP24,2.34,4.80,4.44,4.36,4.51,243,0.20989999999999998
+58,"Grush, Rick Scott",PHIL 10 - Introduction to Logic (A00),WI24,2.22,5.45,4.22,4.18,4.4,304,0.22039999999999998
+59,"Carr, Jennifer Rose",PHIL 10 - Introduction to Logic (A00),FA23,2.87,6.42,4.06,3.98,4.34,354,0.6864
+60,"Grush, Rick Scott",PHIL 10 - Introduction to Logic (A00),S223,2.22,6.00,4.05,4.55,4.7,24,0.20829999999999999
+61,"McGahhey, Marcus Tyler",PHIL 10 - Introduction to Logic (A00),S123,2.55,5.83,4.42,4.27,4.61,29,0.20690000000000003
+62,"McKenzie, Kerry V.",PHIL 12 - Scientific Reasoning (A00),SP24,3.14,4.62,3.57,3.58,4.08,115,0.1826
+63,"Kovaka, Karenc",PHIL 12 - Scientific Reasoning (A00),FA23,3.01,5.26,4.18,4.11,4.4,121,0.314
+64,"McKenzie, Kerry V.",PHIL 12 - Scientific Reasoning (A00),SP23,3.47,5.68,4.05,4.1,4.44,119,0.18489999999999998
+65,"Brink, David O.",PHIL 13 - Intro to Philosophy:  Ethics (A00),SP24,2.98,2.73,3.76,3.92,4.22,129,0.1705
+66,"Duncan, Emma Ruth",PHIL 13 - Intro to Philosophy:  Ethics (A00),FA23,3.61,4.53,4.51,4.52,4.69,120,0.26670000000000005
+67,"Greely, Nathaniel Atholl",PHIL 13 - Intro to Philosophy:  Ethics (A00),S223,3.36,5.56,4.56,4.61,4.59,68,0.13240000000000002
+68,"Shields, Christopher John",PHIL 14 - Intro/Phil: Nature of Reality (A00),WI24,2.87,3.54,4.46,4.38,4.51,100,0.27
+69,"Fulkerson, Matthew Todd",PHIL 15 - Intro/Phil:Knowlege&Its Limits (A00),SP24,3.07,4.33,4.29,4.17,4.29,59,0.1017
+70,"Bollhagen, Andrew Anthony",PHIL 15 - Intro/Phil:Knowlege&Its Limits (A00),S123,4.0,5.63,4.78,4.76,4.7,11,0.7273000000000001
+71,"Callender, Craig Adam",PHIL 24 - Science and Pseudoscience (A00),WI24,3.54,3.00,4.52,4.41,4.6,57,0.386
+72,"Brandt, Reuven A",PHIL 27 - Ethics And Society (A00),SP24,3.39,3.33,4.48,4.41,4.48,152,0.15789999999999998
+73,"Vargas, Manuel Rogelio",PHIL 27 - Ethics And Society (A00),WI24,3.3,3.90,4.34,4.2,4.63,96,0.20829999999999999
+74,"Harrell, Maralee Mae",PHIL 27 - Ethics And Society (A00),FA23,3.45,5.46,3.86,4.1,4.38,250,0.26
+75,"Brandt, Reuven A",PHIL 27 - Ethics And Society (A00),S123,3.43,6.07,4.36,4.41,4.55,68,0.2059
+76,"Lamey, Andy M.",PHIL 28 - Ethics And Society II (A00),SP24,2.72,5.41,3.63,3.6,4.15,167,0.2096
+77,"Gonzalez, Juan Carlos",PHIL 28 - Ethics And Society II (A00),WI24,3.65,3.71,4.3,4.37,4.5,297,0.2626
+78,"Lamey, Andy M.",PHIL 28 - Ethics And Society II (A00),FA23,2.69,5.74,4.04,4.11,4.44,145,0.1862
+79,"Siddiqi, Ahmed",PHIL 28 - Ethics And Society II (A00),S223,3.23,5.00,4.28,3.97,4.66,66,0.12119999999999999
+80,"Johnson, Monte",PHIL 31 - Intro to Ancient Philosophy (A00),FA23,3.34,6.30,4.52,4.38,4.49,60,0.45
+81,"Johnson, Monte",PHIL 32 - Philosphy & Rise of Modern Sci (A00),WI24,3.35,6.56,3.9,3.54,3.97,53,0.3396
+82,"Hardimon, Michael O.",PHIL 33 - Philosphy betwn Reason/Despair (A00),SP24,3.05,4.60,4.79,4.71,4.65,37,0.16219999999999998
+83,"Tolley, Clinton",PHIL 35 - Philosophy in the Americas (A00),WI24,3.47,4.17,3.77,3.87,4.44,92,0.2609
+84,"Nelkin, Dana Kay",PHIL 50 - Law & Society (A00),WI24,2.82,4.05,4.25,4.21,4.49,80,0.2625
+85,"Nelkin, Dana Kay",PHIL 50 - Law & Society (A00),SP23,2.79,5.91,4.09,3.77,4.5,49,0.2245
+86,"Kovaka, Karenc",PHIL 51 - Climate Ethics (A00),FA23,3.03,6.94,4.22,4.24,4.62,67,0.5373
+87,"Marechal, Patricia",PHIL 60 - Philosophy of Love and Sex (A00),SP24,3.71,3.00,4.37,4.1,4.49,95,0.2211
+88,"Johnson, Monte",PHIL 101 - Aristotle (A00),WI24,3.17,4.60,4.85,4.6,4.78,52,0.1923
+89,"Johnson, Monte",PHIL 102 - Hellenistic Philosophy (A00),SP24,3.12,6.50,4.71,4.79,4.81,43,0.2791
+90,"Watkins, Eric",PHIL 106 - Kant (A),FA20,,-1,5.7,-1.0,-1.0,-1,-0.01
+91,"Allais, Lucy L.",PHIL 106 - Kant (A),WI20,,-1,6.0,-1.0,-1.0,-1,-0.01
+92,"Watkins, Eric",PHIL 106 - Kant (A),FA18,,-1,6.17,-1.0,-1.0,-1,-0.01
+93,"Watkins, Eric",PHIL 106 - Kant (A),FA17,,-1,8.17,-1.0,-1.0,-1,-0.01
+94,"Allais, Lucy L.",PHIL 106 - Kant (A),WI16,,-1,4.5,-1.0,-1.0,-1,-0.01
+95,"Watkins, Eric",PHIL 106 - Kant (A),WI14,,-1,5.3,-1.0,-1.0,-1,-0.01
+96,"Tolley, Clinton",PHIL 106 - Kant (A),FA12,,-1,6.5,-1.0,-1.0,-1,-0.01
+97,"Watkins, Eric",PHIL 106   - Kant                           (A),FA11,,-1,8.38,-1.0,-1.0,-1,-0.01
+98,"Sher, Gila",PHIL 106 - Kant                           (A),SP10,,3.18 (B),6.36,-1.0,-1.0,-1,-0.01
+99,"Watkins, Eric",PHIL 106 - Kant                           (A),SP09,,-1,6.9,-1.0,-1.0,-1,-0.01
+100,"Tolley, Clinton",PHIL 106 - Kant                           (A),SP08,,3.29 (B),5.0,-1.0,-1.0,-1,-0.01
+101,"Tolley, Clinton",PHIL 108 - Nineteenth-Century Philosophy (A00),WI24,3.51,7.00,4.54,4.54,4.71,37,0.16219999999999998
+102,"Marechal, Patricia",PHIL 110 - History of Philosophy: Ancient (A00),FA23,3.65,6.92,4.5,4.27,4.59,40,0.325
+103,"Rickless, Samuel Charles",PHIL 111 - History of Phil: Early Modern (A00),WI24,3.01,12.67,4.8,4.74,4.79,37,0.1351
+104,"Watkins, Eric",PHIL 112 - History of Phil: Late Modern (A00),SP24,3.18,11.00,4.75,4.8,4.78,35,0.1429
+105,"Nelkin, Dana Kay",PHIL 115 - Philosophical Methods Seminar (A00),SP24,3.52,8.33,5.0,5.0,4.92,9,0.3333
+106,"Carr, Jennifer Rose",PHIL 120 - Symbolic Logic (A00),SP24,3.19,4.33,4.58,4.3,4.47,52,0.30770000000000003
+107,"Rickless, Samuel Charles",PHIL 120 - Symbolic Logic (A00),FA23,3.36,6.94,4.74,4.56,4.68,61,0.29510000000000003
+108,"Shahmoradi, Ayoob",PHIL 120 - Symbolic Logic (A00),S223,2.39,6.88,4.3,4.22,4.35,25,0.32
+109,"Sher, Gila",PHIL 122 - Advanced Topics in Logic (A00),WI24,3.36,4.11,4.34,4.19,4.72,25,0.36
+110,"McKenzie, Kerry V.",PHIL 130 - Metaphysics (A00),FA23,3.56,5.00,4.8,4.57,4.8,40,0.275
+111,"Greely, Nathaniel Atholl",PHIL 130 - Metaphysics (A00),S123,3.26,6.25,4.44,4.63,4.63,48,0.0833
+112,"Sher, Gila",PHIL 132 - Epistemology (A00),WI24,3.08,5.67,4.83,4.42,4.5,28,0.10710000000000001
+113,"Carr, Jennifer Rose",PHIL 134 - Philosophy of Language (A00),SP24,2.71,4.50,4.5,4.25,4.84,29,0.2759
+114,"Cohen, Jonathan David",PHIL 134 - Philosophy of Language (A00),SP23,2.78,7.00,4.38,4.05,4.46,35,0.2857
+115,"Grush, Rick Scott",PHIL 136 - Philosophy of Mind (A00),WI24,2.95,5.29,4.32,3.82,4.5,45,0.15560000000000002
+116,"Cohen, Jonathan David",PHIL 136 - Philosophy of Mind (A00),S123,3.08,8.33,4.08,4.67,5.0,29,0.1034
+117,"Fulkerson, Matthew Todd",PHIL 137 - Moral Psychology (A00),FA23,3.64,5.94,4.56,4.28,4.78,56,0.2857
+118,"Rickless, Samuel Charles",PHIL 141 - The Meaning of Life (A00),FA23,3.02,7.86,4.57,4.54,4.71,60,0.23329999999999998
+119,"Duncan, Emma Ruth",PHIL 142 - Philosophy of Emotion (A00),FA23,3.29,5.83,4.71,4.52,4.63,42,0.1429
+120,"McKenzie, Kerry V.",PHIL 145 - Philosophy of Science (A00),WI24,3.62,3.67,4.5,4.48,4.46,35,0.1714
+121,"Chen, Keming",PHIL 146 - Philosophy of Physics (A00),FA23,3.71,7.31,4.69,4.79,4.82,37,0.3514
+122,"Callender, Craig Adam",PHIL 148 - Philosophy and the Environment (A00),FA23,3.5,5.00,4.53,4.38,4.59,40,0.375
+123,"Fulkerson, Matthew Todd",PHIL 149 - Philosophy of Psychology (A00),WI24,3.43,4.40,4.2,3.88,4.38,58,0.1724
+124,"Cohen, Jonathan David",PHIL 150 - Philosophy of Cognitive Sci (A00),SP24,2.89,5.80,3.0,3.0,3.95,42,0.11900000000000001
+125,"Vagnino, Richard",PHIL 150 - Philosophy of Cognitive Sci (A00),S223,3.17,7.50,4.94,4.93,4.81,45,0.11109999999999999
+126,"Vargas, Manuel Rogelio",PHIL 155 - Mexican Philosophy (A00),S123,2.62,7.78,4.19,4.09,4.24,55,0.1636
+127,"Bazargan-Forward, Saba",PHIL 160 - Ethical Theory (A00),WI24,3.55,3.00,4.67,4.67,4.75,37,0.16219999999999998
+128,"Brink, David O.",PHIL 161 - Topics in History of Ethics (A00),FA23,3.04,8.00,4.1,4.3,4.49,35,0.2857
+129,"Lamey, Andy M.",PHIL 162 - Contemporary Moral Issues (A00),WI24,3.05,5.00,4.79,4.86,4.81,37,0.18920000000000003
+130,"Brandt, Reuven A",PHIL 163 - Bio-Medical Ethics (A00),WI24,3.33,5.10,4.3,4.08,4.56,103,0.2039
+131,"Argetsinger, Henry",PHIL 163 - Bio-Medical Ethics (A00),S123,3.38,5.71,4.46,4.5,4.56,16,0.4375
+132,"Cadenas, Haggeo",PHIL 164 - Technology and Human Values (A00),S123,3.4,6.00,4.5,4.58,4.5,27,0.1852
+133,"Arneson, Richard J.",PHIL 166 - Classics/Political Philosophy (B),FA21,,2.85 (B-),7.17,-1.0,-1.0,-1,-0.01
+134,"Johnson, Monte",PHIL 166 - Classics/Political Philosophy (A),FA20,,3.33 (B+),5.9,-1.0,-1.0,-1,-0.01
+135,"Lamey, Andy M.",PHIL 166 - Classics/Political Philosophy (A),FA20,,3.33 (B+),5.9,-1.0,-1.0,-1,-0.01
+136,"Arneson, Richard J.",PHIL 166 - Classics/Political Philosophy (B),WI20,,-1,7.36,-1.0,-1.0,-1,-0.01
+137,"Anagnostopoulos, G. H.",PHIL 166 - Classics/Political Philosophy (A),SP19,,3.32 (B+),3.77,-1.0,-1.0,-1,-0.01
+138,"Anagnostopoulos, G. H.",PHIL 166 - Classics/Political Philosophy (A),WI18,,3.40 (B+),4.72,-1.0,-1.0,-1,-0.01
+139,"Lamey, Andy M.",PHIL 166 - Classics/Political Philosophy (A),FA16,,-1,6.0,-1.0,-1.0,-1,-0.01
+140,"Anagnostopoulos, G. H.",PHIL 166 - Classics/Political Philosophy (A),WI15,,-1,3.83,-1.0,-1.0,-1,-0.01
+141,"Arneson, Richard J.",PHIL 166 - Classics/Political Philosophy (A),FA13,,-1,5.93,-1.0,-1.0,-1,-0.01
+142,"Arneson, Richard J.",PHIL 166 - Classics/Political Philosophy (A),FA12,,2.92 (B-),6.94,-1.0,-1.0,-1,-0.01
+143,"Anagnostopoulos, G. H.",PHIL 166   - Classics/Political Philosophy  (A),WI12,,3.05 (B),6.14,-1.0,-1.0,-1,-0.01
+144,"Arneson, Richard J.",PHIL 166   - Classics/Political Philosophy  (A),WI11,,2.46 (C+),5.07,-1.0,-1.0,-1,-0.01
+145,"Anagnostopoulos, G. H.",PHIL 166 - Classics/Political Philosophy  (A),WI10,,3.45 (B+),4.17,-1.0,-1.0,-1,-0.01
+146,"Hardimon, Michael O.",PHIL 166 - Classics/Political Philosophy  (A),FA09,,2.97 (B-),5.88,-1.0,-1.0,-1,-0.01
+147,"Hardimon, Michael O.",PHIL 166 - Classics/Political Philosophy  (A),FA08,,2.54 (C+),3.83,-1.0,-1.0,-1,-0.01
+148,"Arneson, Richard J.",PHIL 166 - Classics/Political Philosophy  (A),FA07,,2.63 (C+),4.77,-1.0,-1.0,-1,-0.01
+149,"Bazargan-Forward, Saba",PHIL 167 - Contemporary Political Phil (A00),FA23,3.41,6.00,4.65,4.45,4.63,38,0.2632
+150,"Lamey, Andy M.",PHIL 169 - Feminism and Philosphy (A00),FA23,3.11,5.91,4.3,3.72,4.18,35,0.3143
+151,"Hardimon, Michael O.",PHIL 170 - Philosophy and Race (A00),WI24,3.46,4.00,4.7,4.35,4.68,37,0.1351
+152,"Brink, David O.",PHIL 171 - Topics in Philosophy of Law (A00),SP24,3.42,6.00,4.13,4.21,4.57,33,0.1818
+153,"Lamey, Andy M.",PHIL 172 - Topics in Political Philosophy (A00),SP24,2.91,6.75,3.97,3.74,4.06,35,0.2286
+154,"Brandt, Reuven A",PHIL 173 - Topics in Bioethics (A00),FA23,3.19,4.47,4.57,4.56,4.69,71,0.2676
+155,"Danks, David J",PHIL 174 - Data Ethics (A00),SP24,3.46,4.36,4.63,4.46,4.58,96,0.22920000000000001
+156,"Tolley, Clinton",PHIL 175 - Aesthetics (A),WI20,,3.49 (B+),4.92,-1.0,-1.0,-1,-0.01
+157,"Tolley, Clinton",PHIL 175 - Aesthetics (A),FA16,,3.63 (B+),5.3,-1.0,-1.0,-1,-0.01
+158,"Tolley, Clinton",PHIL 175 - Aesthetics (A),WI15,,3.43 (B+),4.5,-1.0,-1.0,-1,-0.01
+159,"Tolley, Clinton",PHIL 175 - Aesthetics (A),SP14,,-1,3.83,-1.0,-1.0,-1,-0.01
+160,"Lamey, Andy M.",PHIL 177 - Philosophy and Literature (A00),WI24,3.1,5.00,5.0,4.58,4.67,18,0.16670000000000001
+161,"Watkins, Eric",PHIL 178 - Topic/Germn Phil Transltn-Int (A),SP15,,-1,0.5,-1.0,-1.0,-1,-0.01
+162,"Watkins, Eric",PHIL 178 - Topic/Germn Phil Transltn-Int (A),WI14,,-1,0.5,-1.0,-1.0,-1,-0.01
+163,"Watkins, Eric",PHIL 178   - Topic/Germn Phil Transltn-Int  (A),SP12,,-1,1.17,-1.0,-1.0,-1,-0.01
+164,"Watkins, Eric",PHIL 178   - Topic/Germn Phil Transltn-Int  (A),WI12,,-1,1.5,-1.0,-1.0,-1,-0.01
+165,"Watkins, Eric",PHIL 178   - Topic/Germn Phil Transltn-Int  (A),FA11,,-1,0.5,-1.0,-1.0,-1,-0.01
+166,"Tolley, Clinton",PHIL 181 - Existentialism (A00),SP24,3.36,4.60,4.39,4.44,4.3,111,0.1802
+167,"Gilbert, Dylan Paul",PHYS 1A - Mechanics (A00),SP24,2.89,5.55,4.48,4.46,4.54,442,0.2511
+168,"Groisman, Alexander",PHYS 1A - Mechanics (A00),WI24,2.9,6.05,3.68,3.59,4.07,370,0.2784
+169,"Tsai, Philbert S",PHYS 1A - Mechanics (A00),FA23,3.15,8.15,4.05,4.09,4.5,400,0.3375
+170,"Tsai, Philbert S",PHYS 1A - Mechanics (B00),FA23,3.13,8.03,3.99,3.99,4.45,401,0.2918
+171,"Groisman, Alexander",PHYS 1A - Mechanics (C00),FA23,3.05,7.07,3.68,3.6,4.2,298,0.2987
+172,"Gilbert, Dylan Paul",PHYS 1A - Mechanics (A00),S223,2.81,7.22,4.75,4.58,4.81,54,0.16670000000000001
+173,"Gilbert, Dylan Paul",PHYS 1A - Mechanics (A00),S123,2.81,8.24,4.46,4.39,4.53,59,0.28809999999999997
+174,"Arlett, Jessica Lynn",PHYS 1AL - Mechanics Laboratory,SP24,2.99,4.50,4.19,3.94,4.31,29,0.1379
+175,"Arlett, Jessica Lynn",PHYS 1AL - Mechanics Laboratory,SP24,3.14,5.67,2.55,2.55,2.5,28,0.10710000000000001
+176,"Arlett, Jessica Lynn",PHYS 1AL - Mechanics Laboratory,SP24,2.78,5.67,1.56,1.82,2.89,26,0.11539999999999999
+177,"Yagil, Avi",PHYS 1AL - Mechanics Laboratory,FA23,2.76,10.00,1.1,1.18,2.75,29,0.1724
+178,"Yagil, Avi",PHYS 1AL - Mechanics Laboratory,FA23,3.28,5.00,3.33,3.33,4.4,28,0.10710000000000001
+179,"Yagil, Avi",PHYS 1AL - Mechanics Laboratory,FA23,2.94,8.33,1.17,1.08,1.33,27,0.11109999999999999
+180,"Yagil, Avi",PHYS 1AL - Mechanics Laboratory,FA23,3.07,5.00,2.4,2.17,3.2,29,0.1379
+181,"Yagil, Avi",PHYS 1AL - Mechanics Laboratory,FA23,2.75,7.50,2.27,1.93,2.31,30,0.1333
+182,"Yagil, Avi",PHYS 1AL - Mechanics Laboratory,FA23,3.0,8.75,1.88,2.0,2.23,25,0.16
+183,"Yagil, Avi",PHYS 1AL - Mechanics Laboratory,FA23,3.34,7.50,3.73,2.69,3.18,31,0.129
+184,"Yagil, Avi",PHYS 1AL - Mechanics Laboratory,FA23,2.49,6.67,3.5,2.38,-1.0,26,0.11539999999999999
+185,"Singh, Shruti",PHYS 1AL - Mechanics Laboratory,S223,3.63,6.00,4.35,4.16,4.11,30,0.16670000000000001
+186,"Singh, Shruti",PHYS 1AL - Mechanics Laboratory,S223,3.33,5.83,4.26,4.19,4.33,30,0.2
+187,"Singh, Shruti",PHYS 1AL - Mechanics Laboratory,S123,3.63,6.43,3.73,3.77,4.13,29,0.2414
+188,"Singh, Shruti",PHYS 1AL - Mechanics Laboratory,S123,3.33,7.22,3.97,3.92,4.0,26,0.3462
+189,"Groisman, Alexander",PHYS 1B - Electricity and Magnetism (A00),SP24,2.78,6.63,3.41,3.38,3.87,317,0.2208
+190,"Smith, Douglas E",PHYS 1B - Electricity and Magnetism (A00),WI24,3.11,5.12,4.51,4.56,4.63,391,0.3018
+191,"Smith, Douglas E",PHYS 1B - Electricity and Magnetism (B00),WI24,3.15,5.14,4.27,4.33,4.47,572,0.2867
+192,"Gilbert, Dylan Paul",PHYS 1B - Electricity and Magnetism (A00),FA23,2.84,6.80,4.47,4.53,4.69,355,0.2535
+193,"Szwed, Erik Alexander",PHYS 1B - Electricity and Magnetism (A00),S223,3.01,7.50,4.67,4.77,4.83,46,0.3478
+194,"Graf, Lukas",PHYS 1B - Electricity and Magnetism (A00),S123,2.72,8.49,4.24,4.22,4.59,57,0.7544
+195,"Arlett, Jessica Lynn",PHYS 1BL - Electricity & Magnetism Lab,SP24,2.87,7.67,3.0,2.83,3.56,23,0.1304
+196,"Arlett, Jessica Lynn",PHYS 1BL - Electricity & Magnetism Lab,SP24,2.97,7.00,3.27,2.82,3.44,26,0.11539999999999999
+197,"Yagil, Avi",PHYS 1BL - Electricity & Magnetism Lab,WI24,3.17,4.00,2.33,2.11,3.11,28,0.10710000000000001
+198,"Yagil, Avi",PHYS 1BL - Electricity & Magnetism Lab,WI24,2.9,7.00,-1.0,-1.0,-1.0,30,0.1
+199,"Yagil, Avi",PHYS 1BL - Electricity & Magnetism Lab,WI24,2.85,4.00,-1.0,-1.0,-1.0,30,0.1
+200,"Yagil, Avi",PHYS 1BL - Electricity & Magnetism Lab,WI24,3.01,5.00,2.88,-1.0,-1.0,28,0.10710000000000001
+201,"Yagil, Avi",PHYS 1BL - Electricity & Magnetism Lab,WI24,2.88,5.00,-1.0,-1.0,-1.0,30,0.1
+202,"Yagil, Avi",PHYS 1BL - Electricity & Magnetism Lab,FA23,2.98,7.50,-1.0,-1.0,-1.0,24,0.125
+203,"Yagil, Avi",PHYS 1BL - Electricity & Magnetism Lab,FA23,3.1,6.25,2.31,2.0,2.0,28,0.1429
+204,"Singh, Shruti",PHYS 1BL - Electricity & Magnetism Lab,S223,3.51,6.67,4.61,4.55,4.31,30,0.3
+205,"Singh, Shruti",PHYS 1BL - Electricity & Magnetism Lab,S223,3.7,5.83,4.63,4.0,3.94,29,0.20690000000000003
+206,"Singh, Shruti",PHYS 1BL - Electricity & Magnetism Lab,S123,3.51,8.18,4.52,4.38,4.47,27,0.40740000000000004
+207,"Singh, Shruti",PHYS 1BL - Electricity & Magnetism Lab,S123,3.7,7.27,4.65,4.64,4.71,26,0.4615
+208,"Popmintchev, Tenio","PHYS 1C - Waves, Optics & Modern Physics (A00)",SP24,3.48,5.75,3.72,3.67,4.27,551,0.5191
+209,"Popmintchev, Tenio","PHYS 1C - Waves, Optics & Modern Physics (B00)",SP24,3.54,6.38,3.64,3.55,4.15,595,0.4958
+210,"Tytler, David Robert","PHYS 1C - Waves, Optics & Modern Physics (A00)",WI24,1.98,6.06,4.13,4.05,4.41,63,0.2698
+211,"Koslover, Elena F","PHYS 1C - Waves, Optics & Modern Physics (A00)",FA23,3.11,6.64,4.68,4.64,4.66,277,0.2635
+212,"Gilbert, Dylan Paul","PHYS 1C - Waves, Optics & Modern Physics (A00)",S223,3.17,6.11,4.64,4.63,4.69,98,0.1837
+213,"Gilbert, Dylan Paul","PHYS 1C - Waves, Optics & Modern Physics (A00)",S123,3.17,7.76,4.73,4.83,4.81,99,0.2929
+214,"Arlett, Jessica Lynn","PHYS 1CL - Waves,Optics&Modrn Phys Lab",SP24,2.68,4.33,2.67,2.36,3.71,29,0.1034
+215,"Arlett, Jessica Lynn","PHYS 1CL - Waves,Optics&Modrn Phys Lab",SP24,3.05,6.33,2.36,2.09,2.29,26,0.11539999999999999
+216,"Arlett, Jessica Lynn","PHYS 1CL - Waves,Optics&Modrn Phys Lab",SP24,2.47,5.00,2.92,2.08,3.67,26,0.11539999999999999
+217,"Arlett, Jessica Lynn","PHYS 1CL - Waves,Optics&Modrn Phys Lab",SP24,2.93,5.67,3.33,3.25,3.73,27,0.11109999999999999
+218,"Arlett, Jessica Lynn","PHYS 1CL - Waves,Optics&Modrn Phys Lab",SP24,2.8,5.00,2.33,1.86,2.89,18,0.22219999999999998
+219,"Arlett, Jessica Lynn","PHYS 1CL - Waves,Optics&Modrn Phys Lab",SP24,2.67,5.00,3.3,2.9,4.33,25,0.12
+220,"Arlett, Jessica Lynn","PHYS 1CL - Waves,Optics&Modrn Phys Lab",SP24,2.92,6.33,-1.0,-1.0,-1.0,30,0.1
+221,"Arlett, Jessica Lynn","PHYS 1CL - Waves,Optics&Modrn Phys Lab",SP24,2.96,5.67,3.1,1.64,3.0,30,0.1
+222,"Arlett, Jessica Lynn","PHYS 1CL - Waves,Optics&Modrn Phys Lab",SP24,2.91,5.00,-1.0,-1.0,-1.0,27,0.11109999999999999
+223,"Arlett, Jessica Lynn","PHYS 1CL - Waves,Optics&Modrn Phys Lab",SP24,2.99,7.00,2.75,2.92,4.2,30,0.1
+224,"Arlett, Jessica Lynn","PHYS 1CL - Waves,Optics&Modrn Phys Lab",SP24,3.0,5.00,2.5,2.33,3.43,27,0.1481
+225,"Arlett, Jessica Lynn","PHYS 1CL - Waves,Optics&Modrn Phys Lab",SP24,3.11,4.00,-1.0,-1.0,-1.0,28,0.10710000000000001
+226,"Arlett, Jessica Lynn","PHYS 1CL - Waves,Optics&Modrn Phys Lab",SP24,3.14,12.33,1.09,1.67,2.9,29,0.1034
+227,"Yagil, Avi","PHYS 1CL - Waves,Optics&Modrn Phys Lab",WI24,2.89,7.00,2.27,1.42,2.44,16,0.1875
+228,"Yagil, Avi","PHYS 1CL - Waves,Optics&Modrn Phys Lab",WI24,2.81,7.67,2.0,2.0,3.22,22,0.13640000000000002
+229,"Singh, Shruti","PHYS 1CL - Waves,Optics&Modrn Phys Lab",S223,3.56,6.00,4.0,4.14,4.33,30,0.16670000000000001
+230,"Singh, Shruti","PHYS 1CL - Waves,Optics&Modrn Phys Lab",S223,3.54,5.00,4.67,4.5,4.67,30,0.16670000000000001
+231,"Singh, Shruti","PHYS 1CL - Waves,Optics&Modrn Phys Lab",S223,3.8,5.71,4.41,4.48,4.42,30,0.26670000000000005
+232,"Singh, Shruti","PHYS 1CL - Waves,Optics&Modrn Phys Lab",S123,3.56,6.67,2.71,2.65,3.74,29,0.20690000000000003
+233,"Singh, Shruti","PHYS 1CL - Waves,Optics&Modrn Phys Lab",S123,3.54,5.00,4.0,3.94,4.25,22,0.1818
+234,"Singh, Shruti","PHYS 1CL - Waves,Optics&Modrn Phys Lab",S123,3.8,6.00,4.35,4.3,4.39,18,0.2778
+235,"Bal, Gurleen K",PHYS 2A - Physics-Mechanics (A00),SP24,2.66,7.42,4.12,4.05,4.46,318,0.5063000000000001
+236,"Shotwell, Brian",PHYS 2A - Physics-Mechanics (A00),WI24,2.55,7.06,4.16,3.97,4.4,295,0.3932
+237,"Bal, Gurleen K",PHYS 2A - Physics-Mechanics (C00),WI24,2.72,7.12,4.11,3.96,4.4,285,0.6631999999999999
+238,"Meyertholen, Andrew D.",PHYS 2A - Physics-Mechanics (A00),FA23,2.6,7.25,4.18,4.1,4.48,396,0.4318
+239,"Meyertholen, Andrew D.",PHYS 2AR - Physics-Mechanics (A00),S123,2.5,7.88,4.44,4.35,4.78,70,0.3714
+240,"Barreiro Guerrero, Julio",PHYS 2B - Phys-Electricity and Magnetism (A00),SP24,3.2,7.64,3.66,3.67,4.23,223,0.8386
+241,"Barreiro Guerrero, Julio",PHYS 2B - Phys-Electricity and Magnetism (B00),SP24,3.21,7.72,3.76,3.79,4.23,217,0.871
+242,"Arlett, Jessica Lynn",PHYS 2B - Phys-Electricity and Magnetism (A00),WI24,2.82,9.57,3.63,3.46,4.23,269,0.7918000000000001
+243,"Arlett, Jessica Lynn",PHYS 2B - Phys-Electricity and Magnetism (A00),FA23,2.82,8.89,3.66,3.53,4.39,270,0.5556
+244,"Rikhter, Andrey",PHYS 2B - Phys-Electricity and Magnetism (A00),S223,3.04,7.92,3.94,3.89,4.25,71,0.16899999999999998
+245,"Scott, Zubenelgenubi Chippendale",PHYS 2B - Phys-Electricity and Magnetism (A00),S123,2.63,9.41,4.0,3.8,4.63,59,0.28809999999999997
+246,"Meyertholen, Andrew D.",PHYS 2BL - Physics Laboratory-Mechanics (A00),SP24,3.14,5.21,4.18,4.14,4.37,247,0.2429
+247,"Tan, Tzer Han","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A00)",SP24,3.1,5.60,3.97,3.96,4.12,275,0.2436
+248,"Jun, Suckjoon","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A00)",WI24,2.91,6.58,3.87,3.49,4.21,193,0.9119
+249,"Yang, Liang","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A00)",FA23,3.23,7.33,4.17,4.14,4.47,357,0.2521
+250,"Yang, Liang","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (B00)",FA23,3.49,7.07,4.13,4.21,4.4,175,0.2686
+251,"Rappel, Wouter Jan","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A00)",S223,2.33,8.64,4.07,4.26,4.17,55,0.2
+252,"Rappel, Wouter Jan","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A00)",S123,2.33,8.50,4.08,3.79,3.95,48,0.20829999999999999
+253,"Ni, Kaixuan",PHYS 2CL - Phys Lab-Elec&Magnetism (A00),SP24,3.37,5.00,4.13,4.04,4.5,130,0.15380000000000002
+254,"Allen, Monica T",PHYS 2CL - Phys Lab-Elec&Magnetism (A00),WI24,3.44,5.54,3.55,3.24,4.19,188,0.7021
+255,"Arlett, Jessica Lynn",PHYS 2CL - Phys Lab-Elec&Magnetism (A00),FA23,3.11,6.97,3.46,3.38,3.95,187,0.3262
+256,"Rappel, Wouter Jan",PHYS 2CL - Phys Lab-Elec&Magnetism (A00),S223,3.22,6.67,3.59,3.48,3.77,31,0.1935
+257,"Shotwell, Brian",PHYS 2D - Phys-Relativity&Quantm Physics (A00),SP24,3.0,8.39,4.73,4.58,4.75,71,0.40850000000000003
+258,"Branson, James G",PHYS 2D - Phys-Relativity&Quantm Physics (A00),WI24,3.34,8.53,3.3,3.04,3.84,55,0.3455
+259,"Hirsch, Jorge Eduardo",PHYS 2D - Phys-Relativity&Quantm Physics (A00),FA23,2.65,8.85,3.46,3.17,4.04,32,0.40630000000000005
+260,"Shotwell, Brian",PHYS 2D - Phys-Relativity&Quantm Physics (A00),S223,3.09,10.00,4.74,4.78,4.76,28,0.1786
+261,"Butov, Leonid",PHYS 2DL - Physics Lab-Modern Physics (A00),FA23,3.59,5.88,4.01,3.98,4.37,77,0.2208
+262,"Averitt, Richard Douglas",PHYS 4A - Physics/Physics Majrs-Mechancs (A00),WI24,3.16,7.87,4.24,3.94,4.32,136,0.3824
+263,"Grinstein, Benjamin",PHYS 4A - Physics/Physics Majrs-Mechancs (A00),S123,2.73,8.33,4.13,3.96,4.08,19,0.31579999999999997
+264,"Grinstein, Benjamin","PHYS 4B - Phys Majrs-Fluid,Wav,StatTherm (A00)",SP24,2.76,7.55,4.05,3.66,4.27,114,0.2895
+265,"Grinstein, Benjamin","PHYS 4B - Phys Majrs-Fluid,Wav,StatTherm (A00)",S223,2.63,8.33,3.83,3.92,3.83,20,0.15
+266,"Chivukula, Raja S","PHYS 4B - Phys Majrs-Fluid,Wav,StatTherm (A00)",SP23,3.14,9.38,4.12,3.61,4.3,72,0.3333
+267,"Chivukula, Raja S",PHYS 4C - Phys Majrs-Elect & Magnetism (A00),FA23,3.02,9.79,4.43,4.18,4.55,69,0.3478
+268,"Frano Pereira, Alex M","PHYS 4D - Phys Majrs-EM Wav,Spec Rel,Opt (A00)",WI24,2.96,8.42,4.58,4.32,4.63,65,0.36920000000000003
+269,"Frano Pereira, Alex M",PHYS 4E - Physics Majors-Quantum Physics (A00),SP24,3.22,9.22,4.58,4.56,4.6,69,0.1304
+270,"Konopacky, Quinn Morgan",PHYS 5 - Stars and Black Holes (A00),FA23,3.07,5.63,4.14,4.11,4.42,193,0.6631999999999999
+271,"Wright, Shelley Adams",PHYS 7 - Galaxies and Cosmology (A00),WI24,2.89,4.61,4.2,4.17,4.35,145,0.2483
+272,"Burgasser, Adam Jonathan",PHYS 10 - Concepts In Physics (A00),SP24,3.13,4.71,4.4,4.51,4.67,91,0.23079999999999998
+273,"Tytler, David Robert",PHYS 10 - Concepts In Physics (A00),FA23,2.56,6.20,3.86,3.76,4.35,87,0.2874
+274,"Wright, Shelley Adams",PHYS 13 - Life in the Universe (A00),SP24,2.97,3.95,4.39,4.37,4.35,71,0.3099
+275,"Green, Daniel Richard",PHYS 39 - Phys Intro Spec. Topics (B),FA22,,3.24 (B),6.9,-1.0,-1.0,-1,-0.01
+276,"Green, Daniel Richard",PHYS 41 - Scientific Computing w/ Python (A00),WI24,3.51,4.33,4.36,4.16,4.44,27,0.3704
+277,"Grinstein, Benjamin",PHYS 87 - First-year Seminar (A00),SP24,,1.00,4.81,4.79,4.87,16,0.5
+278,"Grinstein, Benjamin",PHYS 87 - First-year Seminar (A00),WI24,,1.46,4.88,4.77,4.61,19,0.6842
+279,"Green, Daniel Richard",PHYS 100A - Electromagnetism I (A00),FA23,2.64,9.22,3.59,3.42,4.19,97,0.3299
+280,"Jenkins, Elizabeth",PHYS 100B - Electromagnetism II (A00),WI24,3.09,7.28,3.13,3.03,3.86,88,0.3295
+281,"Averitt, Richard Douglas",PHYS 100C - Electromagnetism III (A00),SP24,3.54,7.15,4.65,4.31,4.76,36,0.3611
+282,"Lin, Tongyan",PHYS 105A - Mathematical&Computatnl Phy I (A00),WI24,2.76,8.46,4.61,4.66,4.68,82,0.3171
+283,"Green, Daniel Richard",PHYS 105B - Mathematical&Computatnl Phy II (A00),SP24,3.07,7.00,4.61,4.43,4.46,31,0.2258
+284,"Dudko, Olga",PHYS 110A - Mechanics I (A00),FA23,2.63,8.80,4.05,3.46,3.92,94,0.266
+285,"Serra, Mattia",PHYS 110B - Mechanics II (A00),WI24,2.92,5.67,4.63,4.29,4.75,25,0.24
+286,"Feddersen, Falk",PHYS 111 - Introduction to Ocean Waves (A),WI23,,-1,8.1,-1.0,-1.0,-1,-0.01
+287,"Feddersen, Falk",PHYS 111 - Introduction to Ocean Waves (A),WI22,,-1,3.17,-1.0,-1.0,-1,-0.01
+288,"Feddersen, Falk",PHYS 111 - Introduction to Ocean Waves (A),SP21,,-1,6.9,-1.0,-1.0,-1,-0.01
+289,"Salmon, Richard L.",PHYS 111 - Introduction to Ocean Waves (A),WI18,,-1,3.83,-1.0,-1.0,-1,-0.01
+290,"Salmon, Richard L.",PHYS 111 - Introduction to Ocean Waves (A),WI16,,-1,7.0,-1.0,-1.0,-1,-0.01
+291,"Salmon, Richard L.",PHYS 111   - Introduction to Ocean Waves    (A),WI12,,-1,8.1,-1.0,-1.0,-1,-0.01
+292,"Salmon, Richard L.",PHYS 111   - Introduction to Ocean Waves    (A),WI11,,-1,7.93,-1.0,-1.0,-1,-0.01
+293,"Salmon, Richard L.",PHYS 111 - Intro to Ocean Waves & Tides   (A),WI08,,-1,5.41,-1.0,-1.0,-1,-0.01
+294,"Arnold, Kam S",PHYS 120 - Circuits and Electronics (A00),SP24,3.05,12.70,3.81,3.68,4.3,83,0.3614
+295,"Yang, Liang",PHYS 122 - Experimental Techniques (A),FA22,,-1,10.9,-1.0,-1.0,-1,-0.01
+296,"Ni, Kaixuan",PHYS 122 - Experimental Techniques (A),FA21,,-1,8.28,-1.0,-1.0,-1,-0.01
+297,"Murphy, Thomas",PHYS 122 - Experimental Techniques (A),FA19,,3.24 (B),10.83,-1.0,-1.0,-1,-0.01
+298,"Smith, Douglas E",PHYS 122 - Experimental Techniques (A),WI19,,3.71 (A-),4.23,-1.0,-1.0,-1,-0.01
+299,"Smith, Douglas E",PHYS 122 - Experimental Techniques (A),WI18,,3.68 (B+),6.96,-1.0,-1.0,-1,-0.01
+300,"Smith, Douglas E",PHYS 122 - Experimental Techniques (A),FA16,,-1,3.0,-1.0,-1.0,-1,-0.01
+301,"Smith, Douglas E",PHYS 122 - Experimental Techniques (A),FA15,,-1,4.5,-1.0,-1.0,-1,-0.01
+302,"Smith, Douglas E",PHYS 122 - Experimental Techniques (A),FA14,,-1,7.83,-1.0,-1.0,-1,-0.01
+303,"Arnold, Kam S",PHYS 124 - Laboratory Projects (A00),FA23,3.54,9.00,4.9,4.75,4.84,26,0.1923
+304,"Parker, Daniel E",PHYS 130A - Quantum Physics I (A00),SP24,3.21,7.29,4.61,4.33,4.66,58,0.36210000000000003
+305,"Manohar, Aneesh Vasant",PHYS 130A - Quantum Physics I (A00),WI24,1.74,8.00,4.41,4.28,4.63,29,0.2759
+306,"Branson, James G",PHYS 130B - Quantum Physics II (A00),SP24,3.21,6.00,2.56,2.88,3.81,14,0.2857
+307,"You, Yizhuang",PHYS 130B - Quantum Physics II (A00),FA23,3.87,5.29,4.72,4.68,4.68,61,0.2787
+308,"Jenkins, Elizabeth",PHYS 130C - Quantum Physics III (A),WI22,,-1,5.17,-1.0,-1.0,-1,-0.01
+309,"Jenkins, Elizabeth",PHYS 130C - Quantum Physics III (A),WI21,,3.76 (A-),7.07,-1.0,-1.0,-1,-0.01
+310,"Shotwell, Brian",PHYS 130C - Quantum Physics III (A),WI20,,3.49 (B+),7.39,-1.0,-1.0,-1,-0.01
+311,"Branson, James G",PHYS 130C - Quantum Physics III (A),SP19,,3.46 (B+),12.1,-1.0,-1.0,-1,-0.01
+312,"Branson, James G",PHYS 130C - Quantum Physics III (A),WI18,,3.52 (B+),10.1,-1.0,-1.0,-1,-0.01
+313,"Branson, James G",PHYS 130C - Quantum Physics III (A),WI17,,-1,9.17,-1.0,-1.0,-1,-0.01
+314,"Branson, James G",PHYS 130C - Quantum Physics III (A),WI16,,-1,10.83,-1.0,-1.0,-1,-0.01
+315,"McGreevy, John A.",PHYS 130C - Quantum Physics III (A),WI15,,3.01 (B),10.5,-1.0,-1.0,-1,-0.01
+316,"McGreevy, John A.",PHYS 130C - Quantum Physics III (A),WI14,,3.33 (B+),8.5,-1.0,-1.0,-1,-0.01
+317,"McGreevy, John A.",PHYS 130C - Quantum Physics III (A),WI13,,3.35 (B+),8.92,-1.0,-1.0,-1,-0.01
+318,"Sham, Lu Jeu",PHYS 130C  - Quantum Physics III            (A),WI12,,-1,6.06,-1.0,-1.0,-1,-0.01
+319,"Sham, Lu Jeu",PHYS 130C  - Quantum Physics                (A),WI11,,-1,8.17,-1.0,-1.0,-1,-0.01
+320,"Sham, Lu Jeu",PHYS 130C  - Quantum Physics                (A),WI09,,-1,7.3,-1.0,-1.0,-1,-0.01
+321,"Branson, James G",PHYS 130C  - Quantum Physics                (A),WI08,,3.70 (A-),7.75,-1.0,-1.0,-1,-0.01
+322,"Allen, Monica T",PHYS 133 - Condensed Matter/MATL Sci. Lab (A00),WI24,4.0,3.57,4.35,4.7,4.91,16,0.5
+323,"Jun, Suckjoon",PHYS 139 - Special Topics (A00),SP24,3.54,4.20,4.8,4.7,4.7,13,0.3846
+324,"Duarte, Javier Mauricio",PHYS 139 - Special Topics (B00),SP24,3.9,7.29,4.93,4.74,4.61,44,0.1591
+325,"Grinstein, Benjamin",PHYS 139 - Special Topics (A00),WI24,2.99,5.57,4.29,4.14,4.5,20,0.35000000000000003
+326,"Shotwell, Brian",PHYS 140A - Statistical & Thermal Phys I (A00),SP24,3.46,10.00,4.63,4.63,4.69,17,0.2353
+327,"Serra, Mattia",PHYS 140A - Statistical & Thermal Phys I (A00),FA23,3.38,5.00,4.21,4.0,4.44,73,0.27399999999999997
+328,"You, Yizhuang",PHYS 140B - Statistical & Thermal Phys II (A00),WI24,3.85,4.50,4.69,4.59,4.87,38,0.21050000000000002
+329,"Duarte, Javier Mauricio",PHYS 142 - Comp Phys II:PDE & Matrix Modl (A00),WI24,3.87,7.00,4.67,4.53,4.43,33,0.5455
+330,"Butov, Leonid",PHYS 152A - Condensed Matter Physics (A00),WI24,3.7,3.00,4.75,4.75,4.75,15,0.26670000000000005
+331,"Hirsch, Jorge Eduardo",PHYS 152B - Electronic Materials (A),SP23,,-1,9.83,-1.0,-1.0,-1,-0.01
+332,"Hirsch, Jorge Eduardo",PHYS 152B - Electronic Materials (A),SP21,,-1,8.5,-1.0,-1.0,-1,-0.01
+333,"Maple, M. Brian",PHYS 152B - Electronic Materials (A),SP19,,-1,7.83,-1.0,-1.0,-1,-0.01
+334,"Jenkins, Elizabeth",PHYS 154 - Elementary Particle Physics (A),SP19,,-1,6.5,-1.0,-1.0,-1,-0.01
+335,"Jenkins, Elizabeth",PHYS 154 - Elementary Particle Physics (A),SP14,,-1,7.5,-1.0,-1.0,-1,-0.01
+336,"Branson, James G",PHYS 154 - Elementary Particle Physics (A),SP13,,-1,10.5,-1.0,-1.0,-1,-0.01
+337,"Manohar, Aneesh Vasant",PHYS 154   - Elementary Particle Physics    (A),SP12,,-1,5.83,-1.0,-1.0,-1,-0.01
+338,"Manohar, Aneesh Vasant",PHYS 154   - Elementary Particle Physics    (A),SP11,,-1,5.3,-1.0,-1.0,-1,-0.01
+339,"Jenkins, Elizabeth",PHYS 154 - Elementary Particle Physics    (A),SP10,,-1,5.17,-1.0,-1.0,-1,-0.01
+340,"Paar, Hans Peter",PHYS 154 - Elementary Particle Physics    (A),SP08,,-1,4.83,-1.0,-1.0,-1,-0.01
+341,"Sandstrom, Karin Marie",PHYS 160 - Stellar Astrophysics (A00),WI24,3.33,5.25,4.84,4.69,4.63,29,0.2759
+342,"Fuller, George Michael",PHYS 161 - Black Holes (A00),FA23,3.8,5.28,4.44,4.53,4.62,62,0.2903
+343,"Keating, Brian",PHYS 162 - Cosmology (A00),SP24,3.37,4.64,3.96,3.87,4.27,48,0.5833
+344,"Keres, Dusan",PHYS 163 - Galaxies and Quasars (A00),FA23,2.94,8.33,4.17,3.92,4.33,30,0.1
+345,"Theissen, Christopher Alexander",PHYS 164 - Observational Astrophysics Lab (A00),WI24,3.2,9.77,4.3,3.94,4.44,36,0.7222
+346,"Oh, Seungeun",PHYS 170 - Medical Instrmnt:Prncipl&Pract (A00),SP24,3.46,5.00,4.13,4.08,4.75,18,0.3333
+347,"Koslover, Elena F",PHYS 175 - Biological Physics (A00),FA23,3.57,10.00,4.83,4.55,4.75,12,0.25
+348,"Dudko, Olga",PHYS 177 - Physics of the Cell (A00),SP24,3.43,6.00,4.83,4.79,4.75,8,0.75
+349,"Kleinfeld, David",PHYS 178 - Biophysics/Neurons & Networks (A00),WI24,3.34,6.20,2.8,2.42,3.58,21,0.23809999999999998
+350,"Jun, Suckjoon",PHYS 191 - Undergraduate Seminar/Physics (A00),FA23,,0.00,4.42,4.5,4.48,31,0.3226
+351,"Jamel Edim Falabella, Leonardo",POLI 5 - Data Analytics/Social Science (A00),S123,3.14,6.67,4.76,4.73,4.82,35,0.6
+352,"Dai, Yinlin",POLI 5D - Data Analytics/Social Sciences (A00),SP24,2.55,5.00,3.9,3.66,4.29,27,0.2963
+353,"Dai, Yinlin",POLI 5D - Data Analytics/Social Sciences (B00),SP24,2.9,5.42,4.25,4.19,4.43,24,0.5
+354,"Arnold, David Hall",POLI 5D - Data Analytics/Social Sciences (A00),WI24,2.97,4.50,4.88,4.81,4.87,30,0.26670000000000005
+355,"Arnold, David Hall",POLI 5D - Data Analytics/Social Sciences (A06),WI24,2.97,3.50,4.75,4.75,4.75,30,0.1333
+356,"Arnold, David Hall",POLI 5D - Data Analytics/Social Sciences (B00),WI24,2.71,4.50,4.56,4.38,4.71,28,0.1429
+357,"Arnold, David Hall",POLI 5D - Data Analytics/Social Sciences (B06),WI24,2.71,4.33,4.58,4.73,4.64,28,0.10710000000000001
+358,"Li, Sichen",POLI 5D - Data Analytics/Social Sciences (D00),WI24,3.01,5.40,3.4,3.2,4.2,28,0.1786
+359,"Pitcher, Kennedy Anell",POLI 10 - Intro/Poli Sci:Amer Politics (A00),S223,3.9,5.00,4.45,4.28,4.52,50,0.16
+360,"Hill, Seth J",POLI 10D - Intro/Poli Sci:Amer Politics (A00),WI24,3.3,4.53,4.39,4.25,4.55,187,0.3262
+361,"Noble, Benjamin S",POLI 10D - Intro/Poli Sci:Amer Politics (A00),FA23,3.33,5.42,4.22,4.28,4.49,199,0.4171
+362,"Strom, Kaare",POLI 11 - Intro/Poli Sci:Compar Politics (A),S220,,3.06 (B),5.36,-1.0,-1.0,-1,-0.01
+363,"Ferree, Karen E",POLI 11 - Intro/Poli Sci:Compar Politics (A),S119,,2.90 (B-),5.3,-1.0,-1.0,-1,-0.01
+364,"Strom, Kaare",POLI 11 - Intro/Poli Sci:Compar Politics (A),S218,,-1,7.83,-1.0,-1.0,-1,-0.01
+365,"Ferree, Karen E",POLI 11 - Intro/Poli Sci:Compar Politics (A),S117,,3.49 (B+),5.61,-1.0,-1.0,-1,-0.01
+366,"Strom, Kaare",POLI 11 - Intro/Poli Sci:Compar Politics (A),S216,,3.28 (B),7.73,-1.0,-1.0,-1,-0.01
+367,"Strom, Kaare",POLI 11 - Intro/Poli Sci:Compar Politics (A),S215,,-1,7.17,-1.0,-1.0,-1,-0.01
+368,"Fisk, David Lee",POLI 11 - Intro/Poli Sci:Compar Politics (A),WI14,,3.05 (B),5.13,-1.0,-1.0,-1,-0.01
+369,"Strom, Kaare",POLI 11 - Intro/Poli Sci:Compar Politics (A),FA13,,3.01 (B),5.89,-1.0,-1.0,-1,-0.01
+370,"Strom, Kaare",POLI 11 - Intro/Poli Sci:Compar Politics (A),S213,,-1,7.17,-1.0,-1.0,-1,-0.01
+371,"Matthews Luxon, Emily Olivia",POLI 11 - Intro/Poli Sci:Compar Politics (A),WI13,,3.48 (B+),4.46,-1.0,-1.0,-1,-0.01
+372,"Strom, Kaare",POLI 11 - Intro/Poli Sci:Compar Politics (A),FA12,,2.92 (B-),5.44,-1.0,-1.0,-1,-0.01
+373,"Strom, Kaare",POLI 11   - Intro/Poli Sci:Compar Politics (A),S212,,2.97 (B-),9.93,-1.0,-1.0,-1,-0.01
+374,"Ferree, Karen E",POLI 11   - Intro/Poli Sci:Compar Politics (A),SP12,,3.09 (B),4.16,-1.0,-1.0,-1,-0.01
+375,"Strom, Kaare",POLI 11   - Intro/Poli Sci:Compar Politics (A),FA11,,2.97 (B-),6.44,-1.0,-1.0,-1,-0.01
+376,"Strom, Kaare",POLI 11   - Intro/Poli Sci:Compar Politics (A),WI11,,2.80 (B-),5.61,-1.0,-1.0,-1,-0.01
+377,"Ferree, Karen E",POLI 11 - Intro/Poli Sci:Compar Politics (A),FA10,,3.21 (B),5.44,-1.0,-1.0,-1,-0.01
+378,"Strom, Kaare",POLI 11 - Intro/Poli Sci:Compar Politics (A),SU10,,-1,7.3,-1.0,-1.0,-1,-0.01
+379,"Johnson, Joel W.",POLI 11 - Intro/Poli Sci:Compar Politics (A),SP10,,2.92 (B-),4.43,-1.0,-1.0,-1,-0.01
+380,"Johnson, Joel W.",POLI 11 - Intro/Poli Sci:Compar Politics (A),WI10,,2.80 (B-),4.91,-1.0,-1.0,-1,-0.01
+381,"Strom, Kaare",POLI 11 - Intro/Poli Sci:Compar Politics (A),FA09,,3.03 (B),5.44,-1.0,-1.0,-1,-0.01
+382,"Strom, Kaare",POLI 11 - Intro/Poli Sci:Compar Politics (A),SU09,,-1,5.7,-1.0,-1.0,-1,-0.01
+383,"Johnson, Joel W.",POLI 11 - Intro/Poli Sci:Compar Politics (A),SP09,,3.12 (B),3.72,-1.0,-1.0,-1,-0.01
+384,"Fisk, David Lee",POLI 11 - Intro/Poli Sci:Compar Politics (A),WI09,,2.87 (B-),4.2,-1.0,-1.0,-1,-0.01
+385,"Ferree, Karen E",POLI 11 - Intro/Poli Sci:Compar Politics (A),FA08,,2.90 (B-),4.75,-1.0,-1.0,-1,-0.01
+386,"Desai, Sonal R",POLI 11 - Intro/Poli Sci:Compar Politics (A),SU08,,-1,6.28,-1.0,-1.0,-1,-0.01
+387,"Matthews, Emily O.",POLI 11 - Intro/Poli Sci:Compar Politics (A),SU08,,-1,5.12,-1.0,-1.0,-1,-0.01
+388,"Hendrix, Cullen S",POLI 11 - Intro/Poli Sci:Compar Politics (A),SP08,,2.92 (B-),4.34,-1.0,-1.0,-1,-0.01
+389,"Strom, Kaare",POLI 11 - Intro/Poli Sci:Compar Politics (A),WI08,,2.85 (B-),4.64,-1.0,-1.0,-1,-0.01
+390,"Fisk, David Lee",POLI 11 - Intro/Poli Sci:Compar Politics (A),FA07,,3.14 (B),4.45,-1.0,-1.0,-1,-0.01
+391,"Desposato, Scott",POLI 11D - Intro/Poli Sci:Compar Politics (A00),SP24,3.43,3.88,4.14,4.17,4.4,115,0.24350000000000002
+392,"Strom, Kaare",POLI 11D - Intro/Poli Sci:Compar Politics (A00),WI24,2.98,4.96,3.71,3.6,4.18,189,0.2487
+393,"Ferree, Karen E",POLI 11D - Intro/Poli Sci:Compar Politics (A00),FA23,3.31,5.90,4.59,4.51,4.61,202,0.302
+394,"Pitcher, Kennedy Anell",POLI 12 - Intro/Poli Sci:Int'l Relations (A00),S123,3.01,5.63,3.75,2.88,4.25,41,0.19510000000000002
+395,"Gartzke, Erik",POLI 12D - Intro/Poli Sci:Int'l Relations (A00),SP24,3.58,4.11,4.34,4.29,4.55,130,0.2846
+396,"Roeder, Philip G",POLI 12D - Intro/Poli Sci:Int'l Relations (A00),FA23,3.52,6.00,4.33,4.05,4.52,200,0.425
+397,"Draper, Matthew William",POLI 13DR - Power and Justice (A00),SP24,3.59,3.86,4.46,4.33,4.58,221,0.2036
+398,"Fefer, Adam Brooks",POLI 13R - Power and Justice (A00),S223,3.57,6.43,4.21,4.25,4.5,25,0.28
+399,"Forman, Fonna",POLI 13R - Power and Justice (A00),S123,3.73,7.50,4.6,4.31,4.25,48,0.0833
+400,"Elgin, Samuel Zincke",POLI 27 - Ethics And Society I (A00),FA23,3.66,4.89,4.55,4.52,4.74,190,0.2421
+401,"Elgin, Samuel Zincke",POLI 27 - Ethics And Society I (A00),S223,3.66,5.45,4.6,4.49,4.57,75,0.1467
+402,"Elgin, Samuel Zincke",POLI 28 - Ethics And Society II (A00),FA23,3.53,5.24,4.42,4.43,4.62,134,0.3134
+403,"Desposato, Scott",POLI 30 - Political Inquiry (A00),S223,3.49,8.33,4.58,4.33,4.52,48,0.125
+404,"Mignozzetti, Umberto",POLI 30 - Political Inquiry (A00),S123,3.18,6.67,4.33,4.33,4.58,36,0.0833
+405,"Desposato, Scott",POLI 30D - Political Inquiry (A00),SP24,2.92,5.69,4.02,3.89,4.32,166,0.15660000000000002
+406,"Desposato, Scott",POLI 30D - Political Inquiry (A00),FA23,2.89,7.00,4.15,4.12,4.53,164,0.37200000000000005
+407,"Anderson, Anthony Michael",POLI 100A - The Presidency (A00),S123,3.03,10.00,4.67,4.58,5.0,18,0.16670000000000001
+408,"Pitcher, Kennedy Anell",POLI 100E - Interest Group Politics (A00),SP24,3.9,3.15,4.27,4.24,4.43,139,0.1942
+409,"Gause, LaGina",POLI 100I - Participation and Inequality (A00),WI24,2.91,4.53,3.9,3.89,4.42,113,0.3805
+410,"Paglayan, Agustina","POLI 100W - Politics,Policy,& Educ Inequal (A00)",FA23,3.0,6.91,4.38,4.16,4.59,103,0.3301
+411,"Ban, Pamela M",POLI 100X - Quant Analysis/Congress Poli (A00),FA23,3.4,5.91,4.67,4.76,4.85,100,0.22
+412,"Kousser, Thad",POLI 103A - Calif Government & Politics (A00),S123,3.63,6.00,4.55,4.5,4.6,45,0.11109999999999999
+413,"Smith, Glenn Chatmas",POLI 104A - Supreme Court & Constitution (A00),FA23,3.3,7.35,4.22,4.1,4.63,220,0.2318
+414,"Smith, Glenn Chatmas",POLI 104B - Civil Liberties-Fundmntl Rghts (A00),WI24,3.26,6.23,4.25,3.99,4.48,193,0.2021
+415,"Draper, Matthew William",POLI 104B - Civil Liberties-Fundmntl Rghts (A00),S123,3.35,8.33,4.64,4.57,4.67,45,0.2
+416,"Smith, Glenn Chatmas",POLI 104F - Constitutional Law (A00),FA23,3.66,10.00,4.92,4.75,4.92,14,0.2143
+417,"Smith, Glenn Chatmas",POLI 104I - Law&Politcs-Crts&Poli Controv (A00),S223,3.21,6.00,4.37,4.05,4.47,30,0.16670000000000001
+418,"Nichter, Maysa",POLI 104J - Introduction/Legal Reasoning (A00),WI24,3.65,4.90,4.71,4.67,4.83,194,0.2165
+419,"Stephens, Mattheus E",POLI 104N - Race and Law (A00),FA23,2.79,6.22,4.68,4.48,4.59,209,0.22010000000000002
+420,"Orfield, Michael Bennett","POLI 104P - Science, Technology & the Law (A00)",SP24,3.94,3.31,4.21,4.33,4.59,242,0.21489999999999998
+421,"Nichter, Maysa",POLI 104U - Introduction to Business Law (A00),SP24,3.49,3.97,4.88,4.82,4.83,160,0.20629999999999998
+422,"Adida, Claire",POLI 108 - Politics of Multiculturalism (A00),SP24,3.52,3.03,4.58,4.54,4.61,292,0.20550000000000002
+423,"Adida, Claire",POLI 108 - Politics of Multiculturalism (A00),SP23,3.48,5.14,4.49,4.55,4.61,204,0.1814
+424,"Wiens, David",POLI 110A - Citiz & Saints:Plato-Augustine (A00),FA23,3.25,6.75,4.23,4.21,4.57,77,0.2727
+425,"Ingham, Sean","POLI 110B - Sovereigns,Subj & Modern State (A00)",FA23,3.12,7.50,4.66,4.69,4.71,25,0.32
+426,"Soon, Valerie",POLI 110C - Politcl Thought/Kant-Nietzsche (A00),SP24,3.33,4.85,4.75,4.66,4.75,43,0.3023
+427,"Soon, Valerie",POLI 111B - Global Justice/Theory & Action (A00),FA23,3.38,6.15,4.04,4.31,4.79,46,0.2826
+428,"Izzo, Federica",POLI 112A - Economic Theories/Pol Behavior (A00),FA23,3.25,5.52,4.04,3.8,4.27,91,0.31870000000000004
+429,"Wiens, David",POLI 112A - Economic Theories/Pol Behavior (A00),S223,3.09,6.25,4.19,4.25,4.23,30,0.1333
+430,"Hoston, Germaine",POLI 113BR - Chin/Japn Political Thought I (A00),WI24,3.39,5.38,4.17,4.15,4.39,180,0.21670000000000003
+431,"Hoston, Germaine",POLI 113BR - Chin/Japn Political Thought I (A00),S123,3.39,8.50,4.33,4.41,4.61,48,0.20829999999999999
+432,"Hoston, Germaine",POLI 114BR - Marxist Political Thought (A00),WI24,2.66,7.47,3.77,3.57,4.15,126,0.15080000000000002
+433,"Fefer, Adam Brooks",POLI 114BR - Marxist Political Thought (A00),S123,3.49,5.00,4.5,4.47,4.6,24,0.20829999999999999
+434,"Forman, Fonna",POLI 117R - Bending/Curve: Climate Change (A00),S223,3.66,6.00,4.95,4.95,5.0,20,0.25
+435,"Wiens, David",POLI 118 - Game Theory/Political Science (A00),FA23,3.28,5.95,4.64,4.41,4.56,65,0.32310000000000005
+436,"Hansen, Jan Eric",POLI 120D - Germany:  Division (A00),SP24,3.35,4.11,4.46,4.41,4.51,44,0.6136
+437,"Strom, Kaare",POLI 120E - Scandinavian Politics (A00),FA23,2.72,6.43,4.32,4.04,4.04,24,0.2917
+438,"Strom, Kaare",POLI 120G - British Politics (A00),WI24,3.05,4.08,3.83,3.84,4.59,83,0.15660000000000002
+439,"Fisk, David Lee",POLI 120G - British Politics (A00),FA23,3.4,5.91,4.55,4.54,4.71,103,0.2233
+440,"Timmins, Graham",POLI 120G - British Politics (A00),S223,3.56,7.50,4.63,4.69,4.81,27,0.1852
+441,"Fisk, David Lee",POLI 120H - European Integration (A00),FA23,3.48,6.04,4.61,4.63,4.72,88,0.2727
+442,"Fisk, David Lee",POLI 120H - European Integration (A00),S123,3.48,10.00,-1.0,-1.0,-1.0,40,0.075
+443,"Feeley, Maureen Catherine",POLI 122 - Politics of Human Rights (A00),SP23,3.34,7.14,4.13,4.32,4.52,101,0.2079
+444,"Strom, Kaare",POLI 122D - Abuse of Power (A00),FA23,3.15,5.00,4.0,3.71,4.35,47,0.2553
+445,"Fortunato, David",POLI 124A - Pol Conseq/Electoral Systems (A00),SP24,3.55,4.43,4.59,4.54,4.78,58,0.6034
+446,"Feeley, Maureen Catherine","POLI 125 - Gender,Politics&Globalization (A00)",SP23,3.26,6.80,4.55,4.54,4.7,88,0.2841
+447,"Nichter, Simeon C",POLI 125D - Corruption/DevelopingCountries (A00),FA23,3.43,5.75,4.36,4.36,4.61,98,0.6837000000000001
+448,"Nichter, Simeon C",POLI 126 - Political Economy/Development (A00),FA23,3.43,6.43,4.74,4.63,4.73,82,0.5122
+449,"Fisk, David Lee",POLI 126AB - Politics&Econ/CntrlEast Europe (A00),WI24,3.48,4.25,4.51,4.54,4.82,147,0.2177
+450,"Feeley, Maureen Catherine",POLI 127 - Politics of Development (A00),WI24,3.37,7.08,3.88,3.98,4.44,145,0.1793
+451,"Timmins, Graham",POLI 130AA - The Soviet Successor States (A00),S123,3.92,7.00,4.4,4.5,4.47,30,0.16670000000000001
+452,"Hoston, Germaine",POLI 131CR - The Chinese Revolution (A00),SP24,3.46,6.37,3.93,4.01,4.43,127,0.1496
+453,"Hoston, Germaine",POLI 131CR - The Chinese Revolution (A00),S223,3.53,9.00,4.6,4.5,4.5,48,0.1042
+454,"Nellis, Gareth Hb",POLI 133 - DemocracyDevelopment/SouthAsia (A00),S223,3.74,6.88,4.91,4.9,4.9,9,0.8889
+455,"Naoi, Megumi",POLI 133A - Japanese Pol:Devlpmnt Perspctv (A00),FA23,3.31,5.69,4.21,4.29,4.57,178,0.2022
+456,"Saiegh, Sebastian",POLI 134D - Topics/Latin American Politics (A00),FA23,3.01,6.00,4.54,4.4,4.65,32,0.3125
+457,"Desposato, Scott",POLI 134D - Topics/Latin American Politics (A00),S223,3.41,8.75,4.38,4.07,4.38,30,0.1333
+458,"Fisk, David Lee",POLI 135 - Comparative LGBT Politics (A00),FA23,3.29,6.38,4.41,4.23,4.64,131,0.2214
+459,"Fisk, David Lee",POLI 135 - Comparative LGBT Politics (A00),S123,3.29,8.33,4.33,3.91,4.1,34,0.0882
+460,"Ferree, Karen E",POLI 135D - Compar. Pol/Race & Ethnicity (A00),WI24,3.45,4.27,4.45,4.23,4.43,140,0.23570000000000002
+461,"Roeder, Philip G",POLI 136A - Nationalism and Politics (A00),SP24,3.5,4.33,4.15,4.03,4.47,103,0.1748
+462,"Saiegh, Sebastian",POLI 137 - Sports Analytics Apprch/SocSci (A00),WI24,3.03,3.29,3.88,3.46,4.07,43,0.16280000000000003
+463,"Saiegh, Sebastian",POLI 137 - Sports Analytics Apprch/SocSci (A00),SP23,3.03,4.58,4.13,3.91,4.27,46,0.2609
+464,"Wong, Tak Kei",POLI 140D - It'l Human Rights Law Migrants (A00),SP24,3.8,3.61,4.51,4.15,4.41,260,0.1385
+465,"Lake, David A",POLI 142A - United States Foreign Policy (A00),WI24,3.09,6.47,4.3,4.08,4.34,183,0.16390000000000002
+466,"Gartzke, Erik",POLI 142A - United States Foreign Policy (A00),S223,3.62,7.50,4.06,4.4,4.47,50,0.08
+467,"Gartzke, Erik",POLI 142D - Weapons of Mass Destruction (A00),SP24,3.73,4.83,4.6,4.46,4.58,215,0.19530000000000003
+468,"Wagner, Wendy",POLI 142P - Crisis Areas in World Politics (A00),S123,3.57,5.00,4.69,4.63,4.69,12,0.3333
+469,"Gartzke, Erik","POLI 143 - Int'lConflict:Cyber,Space,UAVs (A00)",FA23,3.5,5.83,3.96,3.9,4.16,100,0.24
+470,"Gartzke, Erik","POLI 143 - Int'lConflict:Cyber,Space,UAVs (A00)",S223,3.5,9.00,3.45,3.7,3.55,25,0.2
+471,"Bergman, Matthew Edward",POLI 144D - Intl Politicl Econmy: Money (A00),S123,2.34,3.75,4.38,4.06,4.57,12,0.3333
+472,"Joseph, Michael F",POLI 145 - Theories/Techno & Nat Security (A00),FA23,3.75,5.16,4.54,4.57,4.64,111,0.2793
+473,"Fisk, David Lee",POLI 145C - Interntnl Reltn After Cold War (A00),SP24,3.65,4.82,4.7,4.58,4.81,190,0.18420000000000003
+474,"Roeder, Philip G",POLI 147B - Russian-American Relations (A00),WI24,3.18,5.19,4.6,4.17,4.59,135,0.2
+475,"Joseph, Michael F",POLI 149 - Spies/Intelligence/US Nat'lSec (A00),FA23,3.42,5.48,4.5,4.21,4.54,160,0.4
+476,"Wong, Tak Kei",POLI 150A - Politics of Immigration (A00),SP24,3.64,3.40,4.6,4.46,4.45,231,0.1602
+477,"Schneider, Christina",POLI 151 - International Organizations (A00),FA23,3.27,6.42,4.21,4.09,4.47,82,0.8170999999999999
+478,"Timmins, Graham",POLI 151 - International Organizations (A00),S123,3.63,6.00,4.55,4.55,4.6,26,0.1923
+479,"Fisk, David Lee",POLI 153 - The EU in World Politics (A00),WI24,3.49,4.78,4.8,4.76,4.81,125,0.21600000000000003
+480,"Timmins, Graham",POLI 153 - The EU in World Politics (A00),S223,3.92,8.00,4.8,4.7,4.78,24,0.20829999999999999
+481,"Gaudette, Jennifer Colleen",POLI 160AA - Introduction/Policy Analysis (A00),WI24,3.79,3.76,4.66,4.71,4.75,223,0.3408
+482,"Bergman, Matthew Edward",POLI 160AA - Introduction/Policy Analysis (A00),S223,2.78,5.00,4.0,4.33,4.67,33,0.0909
+483,"Mignozzetti, Umberto",POLI 162 - Environmental Policy (A00),S123,3.46,5.71,4.04,4.56,4.54,25,0.28
+484,"Saiegh, Sebastian",POLI 163 - Analyzing Politics (A00),FA23,2.93,6.00,3.7,3.95,4.2,41,0.36590000000000006
+485,"Skillman, Rachel Diane",POLI 170A - Applied Data Analysis/PoliSci (A00),SP24,3.76,3.67,3.94,4.35,4.46,58,0.20690000000000003
+486,"Noble, Benjamin S",POLI 170A - Applied Data Analysis/PoliSci (A00),WI24,3.51,4.57,4.55,4.57,4.71,48,0.8958
+487,"Skillman, Rachel Diane",POLI 170A - Applied Data Analysis/PoliSci (A00),S223,3.65,5.00,4.56,4.5,4.56,23,0.1739
+488,"Mignozzetti, Umberto",POLI 175 - Machine Learning/Social Scient (A00),WI24,4.0,6.30,4.32,4.3,4.41,30,0.7667
+489,"Roberts, Margaret Earling",POLI 176 - Text as Data (A00),WI24,3.51,5.96,4.39,4.31,4.43,65,0.4
+490,"Cordeiro Moreira, Davi",POLI 176 - Text as Data (A00),SP23,3.5,5.00,4.63,4.53,4.72,19,0.42110000000000003
+491,"Chang, Kengchi",POLI 179 - Spec.Topic/PoliSci Methodology (A00),SP24,3.63,8.40,3.72,4.03,4.24,36,0.4167
+492,"Desposato, Scott",POLI 191A - Senr Hon Sem:Frontier/POLI I (A00),FA23,3.91,9.29,4.48,4.5,4.63,21,0.3333
+493,"Roberts, Margaret Earling",POLI 191B - Senr Hon Sem:Frontier/POLI II (A),WI22,,-1,13.83,-1.0,-1.0,-1,-0.01
+494,"Roeder, Philip G",POLI 191B - Senr Hon Sem:Frontier/POLI II (A),WI22,,-1,13.83,-1.0,-1.0,-1,-0.01
+495,"Lake, David A",POLI 191B - Senr Hon Sem:Frontier/POLI II (A),WI21,,3.99 (A-),10.25,-1.0,-1.0,-1,-0.01
+496,"Nichter, Simeon C",POLI 191B - Senr Hon Sem:Frontier/POLI II (A),WI21,,3.99 (A-),10.25,-1.0,-1.0,-1,-0.01
+497,"Butler, Daniel",POLI 191B - Senr Hon Sem:Frontier/POLI II (A),WI20,,-1,12.5,-1.0,-1.0,-1,-0.01
+498,"Strom, Kaare",POLI 191B - Senr Hon Sem:Frontier/POLI II (A),WI20,,-1,12.5,-1.0,-1.0,-1,-0.01
+499,"Hill, Seth J",POLI 191B - Senr Hon Sem:Frontier/POLI II (A),WI19,,-1,18.5,-1.0,-1.0,-1,-0.01
+500,"Wiens, David Abram",POLI 191B - Senr Hon Sem:Frontier/POLI II (A),WI19,,-1,18.5,-1.0,-1.0,-1,-0.01
+501,"Adida, Claire",POLI 191B - Senr Hon Sem:Frontier/POLI II (A),WI17,,-1,10.0,-1.0,-1.0,-1,-0.01
+502,"Broz, James Lawrence",POLI 191B - Senr Hon Sem:Frontier/POLI II (A),WI17,,-1,10.0,-1.0,-1.0,-1,-0.01
+503,"Smith, Peter H",POLI 191B - Senr Hon Sem:Frontier/POLI II (A),WI15,,-1,7.17,-1.0,-1.0,-1,-0.01
+504,"Wong, Tak Kei",POLI 191B - Senr Hon Sem:Frontier/POLI II (A),WI15,,-1,7.17,-1.0,-1.0,-1,-0.01
+505,"Erie, Steven P",POLI 191B - Senr Hon Sem:Frontier/POLI II (A),WI14,,-1,11.17,-1.0,-1.0,-1,-0.01
+506,"Mares, David R",POLI 191B - Senr Hon Sem:Frontier/POLI II (A),WI14,,-1,11.17,-1.0,-1.0,-1,-0.01
+507,"Fowler, James",POLI 191B - Senr Hon Sem:Frontier/POLI II (A),WI13,,-1,10.5,-1.0,-1.0,-1,-0.01
+508,"Forman-Barzilai, Fonna",POLI 191B  - Senr Hon Sem:Frontier/POLI II  (A),WI12,,-1,11.0,-1.0,-1.0,-1,-0.01
+509,"Roeder, Philip G",POLI 191B  - Senr Hon Sem:Frontier/Pol Sci  (A),WI11,,-1,11.7,-1.0,-1.0,-1,-0.01
+510,"Abrajano, Marisa",POLI 191B  - Senr Hon Sem:Frontier/Pol Sci  (A),WI10,,3.91 (A-),5.83,-1.0,-1.0,-1,-0.01
+511,"Hill, Seth J",POLI 194 - Research Seminar/Washington DC (A),SP19,,-1,1.5,-1.0,-1.0,-1,-0.01
+512,"Hill, Seth J",POLI 194 - Research Seminar/Washington DC (A),WI19,,-1,7.5,-1.0,-1.0,-1,-0.01
+513,"Hill, Seth J",POLI 194 - Research Seminar/Washington DC (A),SP18,,-1,2.5,-1.0,-1.0,-1,-0.01
+514,"Hill, Seth J",POLI 194 - Research Seminar/Washington DC (A),WI18,,-1,0.5,-1.0,-1.0,-1,-0.01
+515,"Kernell, Samuel H.",POLI 194 - Research Seminar/Washington DC (A),FA16,,3.61 (B+),7.5,-1.0,-1.0,-1,-0.01
+516,"Kernell, Samuel H.",POLI 194 - Research Seminar/Washington DC (A),SP15,,-1,10.5,-1.0,-1.0,-1,-0.01
+517,"Kernell, Samuel H.",POLI 194 - Research Seminar/Washington DC (A),SP14,,-1,7.5,-1.0,-1.0,-1,-0.01
+518,"Kernell, Samuel H.",POLI 194 - Research Seminar/Washington DC (A),FA12,,3.46 (B+),0.5,-1.0,-1.0,-1,-0.01
+519,"Kernell, Samuel H.",POLI 194   - Research Seminar/Washington DC (A),SP12,,-1,4.1,-1.0,-1.0,-1,-0.01
+520,"Kernell, Samuel H.",POLI 194   - Research Seminar/Washington DC (A),WI12,,-1,8.5,-1.0,-1.0,-1,-0.01
+521,"Kernell, Samuel H.",POLI 194   - Research Seminar/Washington DC (A),FA11,,-1,3.5,-1.0,-1.0,-1,-0.01
+522,"Kernell, Samuel H.",POLI 194   - Research Seminar/Washington DC (A),SP11,,3.58 (B+),7.3,-1.0,-1.0,-1,-0.01
+523,"Kernell, Samuel H.",POLI 194   - Research Seminar/Washington DC (A),WI11,,3.58 (B+),3.83,-1.0,-1.0,-1,-0.01
+524,"Kernell, Samuel H.",POLI 194 - Research Seminar/Washington DC (A),FA10,,3.44 (B+),4.5,-1.0,-1.0,-1,-0.01
+525,"Kernell, Samuel H.",POLI 194 - Research Seminar/Washington DC (A),WI10,,3.54 (B+),2.5,-1.0,-1.0,-1,-0.01
+526,"Kalleres, Dayna",RELI 1 - Introduction to Religion (A00),FA23,3.97,5.00,3.88,3.56,3.93,40,0.275
+527,"Kalleres, Dayna",RELI 2 - Comparative Religions (A00),WI24,3.83,2.17,3.51,3.38,3.56,51,0.2353
+528,"Rahimi, Babak",RELI 101 - Tools&Methods/Studyof Religion (A00),WI24,3.89,4.23,4.6,4.52,4.69,41,0.3171
+529,"Rahimi, Babak",RELI 149 - Islam in America (A00),S223,3.77,5.63,4.41,4.5,4.56,40,0.2
+530,"Rahimi, Babak",RELI 150 - Religion and Cinema (A00),SP24,4.0,3.20,4.63,4.7,4.63,46,0.21739999999999998
+531,"Kalleres, Dayna",RELI 188 - Special Topics in Religion (A00),WI24,3.82,4.33,3.86,3.0,3.45,35,0.2571
+532,"Rahimi, Babak",RELI 188GS - Special Topics in Religion (A00),S123,4.0,5.00,4.75,4.6,4.79,14,0.35710000000000003
+533,"Chapman, Eddie Nathaniel",PSYC 1 - Psychology (A00),WI24,3.85,4.54,4.39,4.3,4.49,369,0.3496
+534,"Wong, Lauren Hitomi",PSYC 1 - Psychology (A00),FA23,3.2,5.63,4.61,4.56,4.67,312,0.4872
+535,"Agrawal, Tanushree",PSYC 1 - Psychology (A00),S223,3.12,5.90,4.33,4.22,4.43,90,0.6778000000000001
+536,"Agrawal, Tanushree",PSYC 1 - Psychology (A00),S123,3.12,6.36,4.17,4.12,4.27,83,0.7952
+537,"Moranton, Nirelia Melbina-",PSYC 2 - Gen Psych:Biological Foundatns (A00),WI24,2.83,4.97,4.4,4.1,4.47,260,0.4462
+538,"Moranton, Nirelia Melbina-",PSYC 2 - Gen Psych:Biological Foundatns (A00),FA23,2.83,6.57,4.34,4.08,4.45,269,0.49810000000000004
+539,"Moranton, Nirelia Melbina-",PSYC 2 - Gen Psych:Biological Foundatns (A00),S123,2.83,6.67,4.25,4.13,4.33,27,0.22219999999999998
+540,"Wilson, Brent M",PSYC 3 - Gen Psych:Cognitive Foundatns (A00),WI24,3.06,4.38,4.54,4.5,4.56,115,0.2783
+541,"Daniel, Pria Lauren",PSYC 3 - Gen Psych:Cognitive Foundatns (A00),S123,3.59,5.00,4.7,4.63,4.63,11,1.0
+542,"Pilegard, Celeste Cristine",PSYC 3R - Gen Psych:Cognitive Foundatns (A00),SP24,3.22,4.64,4.7,4.63,4.73,315,0.454
+543,"Pilegard, Celeste Cristine",PSYC 3R - Gen Psych:Cognitive Foundatns (A00),FA23,3.15,5.63,4.57,4.46,4.65,318,0.6038
+544,"Pilegard, Celeste Cristine",PSYC 3R - Gen Psych:Cognitive Foundatns (A00),SP23,3.15,5.32,4.56,4.47,4.63,315,0.5048
+545,"McCullough, Michael E",PSYC 6 - General Psychology: Social (A00),FA23,2.81,5.53,4.12,4.09,4.47,284,0.7676000000000001
+546,"Holden, Stefanie Cathrine Marie",PSYC 6 - General Psychology: Social (A00),S223,3.82,5.83,4.38,4.42,4.48,24,0.25
+547,"Powell, Lindsey Jane",PSYC 7 - Gen Psych:Developmental Fndtns (A00),SP24,3.36,3.86,4.53,4.5,4.58,283,0.2544
+548,"Marin, Andrew Todd",PSYC 7 - Gen Psych:Developmental Fndtns (A00),S223,3.88,7.00,4.77,4.84,4.89,10,1.0
+549,"Lowe, Angela Beth",PSYC 60 - Introduction to Statistics (A00),SP24,2.59,5.03,4.19,4.12,4.44,238,0.6470999999999999
+550,"Rose, Fred E.",PSYC 60 - Introduction to Statistics (B00),SP24,2.46,4.93,4.4,4.39,4.58,135,0.22219999999999998
+551,"Lowe, Angela Beth",PSYC 60 - Introduction to Statistics (A00),WI24,2.61,5.58,4.26,4.14,4.56,258,0.5233
+552,"Rose, Fred E.",PSYC 60 - Introduction to Statistics (B00),WI24,2.57,5.57,4.34,4.35,4.58,224,0.3616
+553,"Lowe, Angela Beth",PSYC 60 - Introduction to Statistics (A00),FA23,2.61,6.59,4.22,4.19,4.55,254,0.7283
+554,"Steiner, Eric Tomas",PSYC 60 - Introduction to Statistics (B00),FA23,2.52,6.02,3.96,4.17,4.56,222,0.7297
+555,"Rickard, Timothy C.",PSYC 60 - Introduction to Statistics (A00),S223,2.55,6.67,4.42,4.58,4.67,31,0.0968
+556,"Lowe, Angela Beth",PSYC 60 - Introduction to Statistics (A00),S123,2.61,7.65,4.4,4.37,4.62,33,0.5152
+557,"Pilegard, Celeste Cristine",PSYC 70 - Research Methods in Psychology (A00),SP24,2.97,5.04,4.32,4.32,4.56,199,0.5678
+558,"Geller, Emma Harlan",PSYC 70 - Research Methods in Psychology (A00),WI24,2.83,4.69,4.45,4.44,4.6,209,0.7798999999999999
+559,"Pilegard, Celeste Cristine",PSYC 70 - Research Methods in Psychology (A00),FA23,3.1,5.76,4.51,4.53,4.65,206,0.6408
+560,"Steiner, Eric Tomas",PSYC 70 - Research Methods in Psychology (A00),S223,2.81,5.75,4.57,4.66,4.78,36,0.5556
+561,"Geller, Emma Harlan",PSYC 70 - Research Methods in Psychology (A00),S123,2.83,7.19,4.36,4.31,4.42,44,0.7273000000000001
+562,"Pilegard, Celeste Cristine",PSYC 70 - Research Methods in Psychology (A00),SP23,3.1,5.68,4.4,4.41,4.58,205,0.6829000000000001
+563,"Daniel, Pria Lauren",PSYC 71 - Lab/Psych Research Methods (A00),SP24,2.9,5.30,4.18,4.05,4.33,49,0.6735
+564,"Geller, Emma Harlan",PSYC 71 - Lab/Psych Research Methods (B00),SP24,3.21,5.85,4.41,4.4,4.59,57,0.8246
+565,"Pilegard, Celeste Cristine",PSYC 71 - Lab/Psych Research Methods (A00),WI24,3.3,5.30,4.44,4.48,4.74,50,0.4
+566,"Steiner, Eric Tomas",PSYC 71 - Lab/Psych Research Methods (B00),WI24,2.75,4.50,4.46,4.54,4.71,46,0.8043000000000001
+567,"Geller, Emma Harlan",PSYC 71 - Lab/Psych Research Methods (A00),FA23,3.31,7.44,4.42,4.42,4.68,60,0.7167
+568,"Steiner, Eric Tomas",PSYC 71 - Lab/Psych Research Methods (B00),FA23,2.75,6.67,4.33,4.43,4.65,46,0.5870000000000001
+569,"Pilegard, Celeste Cristine",PSYC 87 - First-year Seminar (A00),SP23,,4.50,4.75,4.7,4.7,15,0.6667000000000001
+570,"Dobkins, Karen R.",PSYC 88 - Learning Sustainable Wellbeing (A00),SP24,,1.59,4.9,4.89,4.9,59,0.28809999999999997
+571,"Dobkins, Karen R.",PSYC 88 - Learning Sustainable Wellbeing (A00),FA23,,3.57,4.63,4.63,4.76,49,0.2857
+572,"Dobkins, Karen R.",PSYC 88 - Learning Sustainable Wellbeing (A00),SP23,,4.06,4.83,4.77,4.75,64,0.25
+573,"Chapman, Eddie Nathaniel",PSYC 100 - Clinical Psychology (A00),SP24,3.9,4.59,4.52,4.48,4.66,504,0.2421
+574,"Dickenson, Janna Alene",PSYC 100 - Clinical Psychology (A00),WI24,3.38,4.48,4.26,4.08,4.39,325,0.3969
+575,"Chapman, Eddie Nathaniel",PSYC 100 - Clinical Psychology (A00),FA23,3.93,5.79,4.56,4.48,4.72,470,0.2957
+576,"Lacefield, Katharine I",PSYC 100 - Clinical Psychology (A00),S223,3.89,6.11,4.53,4.47,4.49,120,0.30829999999999996
+577,"Walker, Caren Michelle",PSYC 101 - Developmental Psychology (A00),SP24,2.91,4.56,4.6,4.45,4.64,330,0.6455
+578,"Schachner, Adena",PSYC 101 - Developmental Psychology (A00),WI24,3.0,4.81,4.66,4.55,4.71,293,0.3618
+579,"Heyman, Gail D.",PSYC 101 - Developmental Psychology (A00),FA23,3.2,5.84,4.58,4.42,4.63,298,0.3188
+580,"Heyman, Gail D.",PSYC 101 - Developmental Psychology (A00),S123,3.2,7.50,4.67,4.59,4.75,47,0.1277
+581,"Moranton, Nirelia Melbina-",PSYC 102 - Sensory Neuroscience (A00),SP24,2.7,6.63,4.19,3.79,4.39,106,0.3019
+582,"Moranton, Nirelia Melbina-",PSYC 102 - Sensory Neuroscience (A00),WI24,2.73,6.29,4.16,3.74,4.38,135,0.3778
+583,"Moranton, Nirelia Melbina-",PSYC 102 - Sensory Neuroscience (A00),FA23,2.73,7.20,4.07,3.7,4.28,226,0.4071
+584,"Wennberg, Janna Wold",PSYC 102 - Sensory Neuroscience (A00),S223,3.54,5.83,4.75,4.58,4.75,30,0.2
+585,"Fine, Rachel",PSYC 104 - Social Psychology (A00),SP24,3.37,3.56,4.13,4.06,4.37,304,0.2664
+586,"Fine, Rachel",PSYC 104 - Social Psychology (A00),FA23,3.46,4.95,4.06,4.11,4.36,313,0.3099
+587,"Lowe, Angela Beth",PSYC 105 - Cognitive Psychology (A00),SP24,2.93,4.96,4.27,4.11,4.46,335,0.6179
+588,"Lau, Aubrey",PSYC 105 - Cognitive Psychology (A00),WI24,2.65,4.30,3.98,3.98,4.41,278,0.2626
+589,"Geller, Emma Harlan",PSYC 105 - Cognitive Psychology (A00),S223,3.36,6.92,4.64,4.57,4.59,20,1.3
+590,"Lowe, Angela Beth",PSYC 105 - Cognitive Psychology (A00),S123,3.03,6.79,4.3,4.22,4.46,57,0.24559999999999998
+591,"Dobkins, Karen R.",PSYC 106 - Behavioral Neuroscience (A00),WI24,2.92,4.66,4.46,4.38,4.56,334,0.3563
+592,"Gremel, Christina M",PSYC 106 - Behavioral Neuroscience (A00),FA23,2.58,6.69,4.28,4.18,4.56,278,0.723
+593,"Gorman, Michael R.",PSYC 106 - Behavioral Neuroscience (B00),S223,2.94,6.96,4.15,4.21,4.66,60,0.3833
+594,"Dobkins, Karen R.",PSYC 106 - Behavioral Neuroscience (A00),S123,2.91,5.00,4.61,4.71,4.79,56,0.125
+595,"Adrian, Julia Anna",PSYC 108 - Cognitive Neuroscience (A00),WI24,3.02,4.64,4.21,4.21,4.54,301,0.7043
+596,"Adrian, Julia Anna",PSYC 108 - Cognitive Neuroscience (A00),FA23,3.02,6.02,4.13,4.2,4.55,237,0.7637
+597,"Adrian, Julia Anna",PSYC 108 - Cognitive Neuroscience (A00),S123,3.02,6.25,3.97,4.1,4.34,58,0.1379
+598,"Heyman, Gail D.",PSYC 110 - Junior Honors Research Seminar (A00),WI24,3.97,3.32,4.57,4.18,4.56,38,0.6579
+599,"Geller, Emma Harlan",PSYC 111A - Research Methods I (A00),WI24,3.77,11.22,4.7,4.2,4.7,40,0.925
+600,"Geller, Emma Harlan",PSYC 111B - Research Methods II (A00),SP24,3.89,10.56,4.58,4.25,4.67,38,0.8421
+601,"Winkielman, Piotr",PSYC 114 - Lab/Psychophysiological Persp (B00),S223,3.63,6.00,4.65,4.42,4.75,30,0.16670000000000001
+602,"Winkielman, Piotr",PSYC 114 - Lab/Psychophysiological Persp (A00),S123,3.59,7.50,3.5,3.44,4.24,28,0.1786
+603,"Lang, Ariel",PSYC 116A - Lab/Clinical Psych Research I (A00),FA23,3.95,7.86,4.93,4.85,4.85,22,0.3182
+604,"Lang, Ariel",PSYC 116B - Lab/Clinical Psych Research II (A00),WI24,3.99,8.29,4.68,4.67,4.64,22,0.3182
+605,"Lang, Ariel",PSYC 116C - Lab/Clinical Psyc Research III (A00),SP24,3.91,6.00,4.87,4.94,5.0,22,0.1818
+606,"Bajic, Daniel Andrew",PSYC 117 - Educ Research/Outreach Lab (A00),SP24,3.96,5.00,4.86,4.89,4.85,22,0.3182
+607,"Miller, Cory T.",PSYC 118 - Laboratory in Animal Behavior (A00),SP24,3.51,3.80,4.51,4.41,4.5,50,0.2
+608,"Miller, Cory T.",PSYC 122 - Mechanisms of Animal Behavior (A00),WI24,3.54,3.81,4.29,4.11,4.39,318,0.5692
+609,"Moranton, Nirelia Melbina-",PSYC 122 - Mechanisms of Animal Behavior (A00),S123,3.35,6.43,4.25,4.29,4.32,50,0.14
+610,"Chapman, Eddie Nathaniel",PSYC 124 - Clinical Assessment/Treatment (A00),SP24,3.82,5.08,4.56,4.47,4.65,488,0.209
+611,"Dickenson, Janna Alene",PSYC 124 - Clinical Assessment/Treatment (A00),FA23,3.68,5.37,4.33,4.28,4.54,93,0.2903
+612,"Rose, Fred E.",PSYC 125 - Clinical Neuropsychology (A00),WI24,2.67,5.54,4.41,4.21,4.43,143,0.32170000000000004
+613,"Rose, Fred E.",PSYC 125 - Clinical Neuropsychology (A00),FA23,2.67,5.64,4.43,4.12,4.47,115,0.6783
+614,"Dickenson, Janna Alene",PSYC 127 - Health Inequities & Wellbeing (A00),SP24,3.76,4.50,4.63,4.5,4.63,20,0.2
+615,"Anagnostaras, Stephan",PSYC 131 - Scientific Racism (A00),S223,3.84,6.79,4.45,4.33,4.46,98,0.4388
+616,"Steiner, Eric Tomas",PSYC 132 - Hormones and Behavior (A00),SP24,2.72,5.02,4.55,4.47,4.59,107,0.5047
+617,"Golden, Susan S.",PSYC 133R - Circadian Rhythms-Bio Clocks (A00),SP24,3.06,6.85,3.98,3.94,4.29,66,0.197
+618,"Anderson, Leslie Karwoski",PSYC 134 - Eating Disorders (A00),SP24,3.13,4.76,4.11,3.76,3.92,280,0.19640000000000002
+619,"Kaye, Walter H.",PSYC 134 - Eating Disorders (A00),FA23,3.25,5.63,4.12,3.91,4.21,286,0.2832
+620,"Lowe, Angela Beth",PSYC 136 - Cognitive Development (A00),S223,3.04,8.00,4.55,4.55,4.75,25,0.2
+621,"Lin, Chujun",PSYC 137 - Social Cognition (A00),SP24,3.54,3.35,4.37,4.39,4.52,289,0.5017
+622,"Fine, Rachel",PSYC 137 - Social Cognition (A00),WI24,3.59,3.94,4.03,4.13,4.42,244,0.2746
+623,"Winkielman, Piotr",PSYC 137 - Social Cognition (A00),FA23,3.2,4.81,4.33,4.19,4.43,210,0.2571
+624,"Winkielman, Piotr",PSYC 137 - Social Cognition (A00),S223,3.2,5.83,4.46,4.38,4.54,25,0.24
+625,"Lindsay, Debra Jane",PSYC 137 - Social Cognition (A00),S123,3.58,6.25,5.0,5.0,4.93,22,0.1818
+626,"McPherson, Malinda",PSYC 138 - Sound And Music Perception (A00),FA23,3.32,5.88,4.64,4.6,4.71,123,0.32520000000000004
+627,"McCullough, Michael E",PSYC 141 - Evolution and Human Nature (A00),WI24,3.09,3.27,4.34,4.29,4.63,62,0.6129
+628,"Wixted, John T",PSYC 144 - Memory and Amnesia (A00),SP24,2.79,4.14,4.36,4.15,4.45,259,0.4595
+629,"Yilmaz, Anne Sheyda",PSYC 144 - Memory and Amnesia (A00),WI24,2.88,6.17,4.12,3.84,4.34,182,0.5495
+630,"Wixted, John T",PSYC 144 - Memory and Amnesia (A00),S223,2.92,7.89,4.28,4.09,4.53,50,0.38
+631,"Wong, Lauren Hitomi",PSYC 147 - Gender (A00),SP24,3.3,4.28,4.48,4.5,4.66,139,0.4532
+632,"Glaser, Dale",PSYC 151 - Tests and Measurement (A00),WI24,2.45,5.00,3.33,3.15,3.86,66,0.2121
+633,"Harris, Christine Renee",PSYC 153 - Psychology of Emotion (A00),WI24,2.7,4.75,4.59,4.42,4.6,230,0.3522
+634,"Lacefield, Katharine I",PSYC 154 - Behavior Modification (A00),WI24,3.8,3.69,4.62,4.68,4.73,299,0.2408
+635,"Lacefield, Katharine I",PSYC 154 - Behavior Modification (A00),FA23,3.8,4.86,4.53,4.55,4.61,326,0.2209
+636,"Lacefield, Katharine I",PSYC 154 - Behavior Modification (A00),S123,3.8,6.19,4.51,4.41,4.55,155,0.1355
+637,"Wixted, John T",PSYC 162 - Psychology and the Law (A00),FA23,2.81,5.69,4.46,4.26,4.54,328,0.7043
+638,"Yilmaz, Anne Sheyda",PSYC 162 - Psychology and the Law (A00),S223,2.79,6.07,4.66,4.48,4.52,85,0.16469999999999999
+639,"Wixted, John T",PSYC 162 - Psychology and the Law (A00),S123,2.81,6.57,4.47,4.2,4.56,86,0.40700000000000003
+640,"Kaplan, Paul",PSYC 164 - Criminology (A00),SP24,3.62,3.70,4.23,4.02,4.46,332,0.2048
+641,"Chapman, Eddie Nathaniel",PSYC 168 - Psychological Disorders/Child (A00),FA23,3.94,6.06,4.49,4.52,4.7,405,0.2444
+642,"Mukku, Dhananjaya",PSYC 171 - Neurobiology-Learning & Memory (A00),FA23,3.71,5.61,4.42,4.32,4.49,214,0.6542
+643,"Dickenson, Janna Alene",PSYC 172 - Psychology of Human Sexuality (A00),SP24,3.43,4.26,4.37,4.3,4.61,279,0.2545
+644,"Dickenson, Janna Alene",PSYC 172 - Psychology of Human Sexuality (A00),WI24,3.39,4.80,4.32,4.27,4.48,330,0.2939
+645,"Dickenson, Janna Alene",PSYC 172 - Psychology of Human Sexuality (A00),FA23,3.39,5.92,4.34,4.31,4.54,311,0.31510000000000005
+646,"Gorman, Michael R.",PSYC 172 - Psychology of Human Sexuality (A00),S223,3.15,6.00,4.47,4.5,4.67,30,0.5
+647,"Gorman, Michael R.",PSYC 172 - Psychology of Human Sexuality (A00),S123,3.15,9.17,4.83,4.63,4.87,25,0.24
+648,"Dickenson, Janna Alene",PSYC 172 - Psychology of Human Sexuality (A00),SP23,3.39,5.61,4.4,4.42,4.6,320,0.17809999999999998
+649,"Dobkins, Karen R.",PSYC 175 - Science of Mindfulness (A00),WI24,3.75,3.29,4.32,3.93,4.22,19,0.36840000000000006
+650,"Glaser, Dale",PSYC 178 - Industrial Organizational Psyc (A00),SP24,2.79,4.35,4.22,4.09,4.46,125,0.28
+651,"Glaser, Dale",PSYC 178 - Industrial Organizational Psyc (A00),FA23,2.81,5.17,4.32,4.38,4.53,113,0.2566
+652,"Glaser, Dale",PSYC 178 - Industrial Organizational Psyc (A00),S123,2.81,6.88,4.5,4.38,4.56,34,0.2353
+653,"Lacefield, Katharine I","PSYC 179 - Drugs,Addiction&Mental Disordr (A00)",SP24,3.87,3.80,4.54,4.56,4.62,403,0.2109
+654,"Lacefield, Katharine I","PSYC 179 - Drugs,Addiction&Mental Disordr (A00)",WI24,3.88,3.51,4.63,4.64,4.73,325,0.27690000000000003
+655,"Lacefield, Katharine I","PSYC 179 - Drugs,Addiction&Mental Disordr (A00)",S223,3.87,5.88,4.8,4.73,4.73,120,0.2833
+656,"Anagnostaras, Stephan",PSYC 181 - Drugs And Behavior (A00),SP24,3.49,4.30,4.32,4.14,4.46,401,0.5312
+657,"Anagnostaras, Stephan",PSYC 181 - Drugs And Behavior (A00),WI24,3.46,3.97,4.37,4.34,4.55,339,0.6844
+658,"Anagnostaras, Stephan",PSYC 181 - Drugs And Behavior (A00),S223,3.46,6.53,4.4,4.32,4.46,250,0.436
+659,"Anagnostaras, Stephan",PSYC 181GS - Drugs and Behavior (A00),S123,3.74,4.38,4.52,4.37,4.46,26,0.9231
+660,"Wilson, Brent M",PSYC 184 - Choice and Self-Control (A00),SP24,3.66,4.05,4.56,4.57,4.6,259,0.2934
+661,"Wilson, Brent M",PSYC 184 - Choice and Self-Control (A00),FA23,3.65,6.27,4.52,4.46,4.59,268,0.2799
+662,"Aron, Adam",PSYC 185 - Psychology Climate Crisis (A00),WI24,3.13,4.63,4.01,3.74,4.38,109,0.3486
+663,"Anagnostaras, Stephan",PSYC 186GS - Early History of Psychiatry (A00),S123,4.0,4.13,4.5,4.38,4.48,26,0.8845999999999999
+664,"Lacefield, Katharine I",PSYC 188 - Impulse Control Disorders (A00),SP24,3.69,3.59,4.74,4.79,4.78,324,0.1698
+665,"Gentner, Tim","PSYC 189 - Brain, Behavior, and Evolution (A00)",FA23,3.05,7.08,4.71,4.81,4.89,29,0.41380000000000006
+666,"Barner, David A.",PSYC 190 - The Science of Parenting (A00),SP24,3.35,4.21,4.46,4.22,4.46,377,0.2626
+667,"Barner, David A.",PSYC 190R - The Science of Parenting (A00),S223,3.32,5.91,4.68,4.36,4.61,80,0.1375
+668,"Rickard, Timothy C.",PSYC 191 - Psychology of Sleep (A00),WI24,3.22,3.60,4.57,4.48,4.44,107,0.6636
+669,"Rickard, Timothy C.",PSYC 191 - Psychology of Sleep (A00),S223,3.22,7.50,4.6,4.56,4.5,25,0.16
+670,"Brashier, Nadia Marie",PSYC 193 - Topics in Psychology (B00),SP24,3.63,3.36,4.75,4.71,4.76,89,0.809
+671,"Gremel, Christina M",PSYC 193 - Topics in Psychology (C00),SP24,3.92,3.40,4.7,5.0,5.0,19,0.2632
+672,"Chapman, Eddie Nathaniel",PSYC 193 - Topics in Psychology (A00),WI24,3.99,4.82,4.71,4.73,4.75,34,0.3529
+673,"Pilegard, Celeste Cristine",PSYC 193 - Topics in Psychology (B00),WI24,3.67,4.45,4.82,4.73,4.76,50,0.6
+674,"Agrawal, Tanushree",PSYC 193 - Topics in Psychology (B00),S223,3.18,7.22,4.83,4.81,4.94,17,0.5294
+675,"Agrawal, Tanushree",PSYC 193 - Topics in Psychology (B00),S123,3.18,6.76,4.37,4.09,4.48,21,0.8095
+676,"Holden, Stefanie Cathrine Marie",PSYC 193L - Psychology Laboratory Topics (B00),SP24,3.33,5.08,4.81,4.87,4.86,33,0.7273000000000001
+677,"Van Alstyne, Kaitlin Rhianna",PSYC 193L - Psychology Laboratory Topics (C00),SP24,3.37,5.00,4.52,4.5,4.59,57,0.2281
+678,"Waltzer, Talia L",PSYC 193L - Psychology Laboratory Topics (D00),SP24,3.45,7.30,4.56,4.68,4.89,34,0.5882000000000001
+679,"Aron, Adam",PSYC 193L - Psychology Laboratory Topics (E00),SP24,3.77,5.21,4.65,4.41,4.52,24,0.7917000000000001
+680,"Barner, David A.",PSYC 193L - Psychology Laboratory Topics (A00),WI24,3.76,3.00,4.91,4.78,4.81,28,0.2857
+681,"Lowe, Angela Beth",PSYC 193L - Psychology Laboratory Topics (B00),WI24,3.47,6.64,4.8,4.77,4.82,35,0.3143
+682,"Lowe, Angela Beth",PSYC 193L - Psychology Laboratory Topics (A00),FA23,3.41,6.92,4.75,4.63,4.79,35,0.3714
+683,"Lacefield, Katharine I",PSYC 193L - Psychology Laboratory Topics (B00),FA23,3.84,6.76,4.44,4.46,4.68,178,0.2865
+684,"Lindsay, Debra Jane",PSYC 193L - Psychology Laboratory Topics (C00),FA23,3.23,6.11,4.67,4.8,4.78,28,0.3214
+685,"Lowe, Angela Beth",PSYC 193L - Psychology Laboratory Topics (A00),S223,3.41,7.00,4.75,4.6,4.9,17,0.29410000000000003
+686,"Hurwitz, Ethan Scott",PSYC 193L - Psychology Laboratory Topics (B00),S223,2.71,9.76,4.45,4.62,4.6,19,1.1053
+687,"Hurwitz, Ethan Scott",PSYC 193L - Psychology Laboratory Topics (A00),S123,2.5,10.00,4.64,4.69,4.78,22,0.5455
+688,"Winkielman, Piotr",PSYC 193L - Psychology Laboratory Topics (C00),S123,3.74,6.67,3.83,3.33,4.17,30,0.1
+689,"Heyman, Gail D.",PSYC 194A - Honors Thesis I (A00),FA23,3.99,6.67,4.55,4.53,4.56,34,0.2647
+690,"Heyman, Gail D.",PSYC 194B - Honors Thesis II (A00),WI24,,9.33,3.57,3.5,3.88,34,0.2353
+691,"Heyman, Gail D.",PSYC 194C - Honors Thesis III (A),SP22,,3.99 (A-),10.5,-1.0,-1.0,-1,-0.01
+692,"Heyman, Gail D.",PSYC 194C - Honors Thesis III (A),SP21,,3.97 (A-),7.64,-1.0,-1.0,-1,-0.01
+693,"Heyman, Gail D.",PSYC 194C - Honors Thesis III (A),SP20,,3.97 (A-),9.39,-1.0,-1.0,-1,-0.01
+694,"Heyman, Gail D.",PSYC 194C - Honors Thesis III (A),SP19,,3.99 (A-),9.17,-1.0,-1.0,-1,-0.01
+695,"Heyman, Gail D.",PSYC 194C - Honors Thesis III (A),SP18,,3.99 (A-),11.17,-1.0,-1.0,-1,-0.01
+696,"Heyman, Gail D.",PSYC 194C - Honors Thesis III (A),SP17,,-1,11.17,-1.0,-1.0,-1,-0.01
+697,"Dickenson, Janna Alene",PSYC 195 - Instruction in Psychology,WI24,,5.67,5.0,5.0,5.0,7,0.4286
+698,"Pilegard, Celeste Cristine",PSYC 195 - Instruction in Psychology,SP23,,5.00,4.67,4.71,4.79,7,0.7143
+699,"Wagner, Timothy Ryan",MGT 3 - Quant Methods in Business (A00),SP24,2.75,6.06,4.29,4.34,4.62,65,0.2615
+700,"Wagner, Timothy Ryan",MGT 3 - Quant Methods in Business (A00),WI24,2.79,7.24,4.08,3.99,4.35,75,0.24
+701,"Wagner, Timothy Ryan",MGT 3 - Quant Methods in Business (A00),FA23,2.79,6.82,4.08,4.26,4.55,79,0.2785
+702,"Anderson, John Charles",MGT 4 - Financial Accounting (A00),S223,2.99,7.50,4.35,4.32,4.63,55,0.7636000000000001
+703,"Anderson, John Charles",MGT 4 - Financial Accounting (A00),S123,2.99,7.66,4.17,4.11,4.44,61,0.7705
+704,"Molloie Jr., William H",MGT 5 - Managerial Accounting (A00),SP24,2.37,6.17,3.94,3.82,4.33,160,0.5938
+705,"Molloie Jr., William H",MGT 5 - Managerial Accounting (A00),WI24,2.43,5.48,3.61,3.57,4.31,146,0.6986
+706,"Molloie Jr., William H",MGT 5 - Managerial Accounting (A00),FA23,2.44,7.05,3.61,3.37,4.22,177,0.6328
+707,"Houskeeper, Robert",MGT 5 - Managerial Accounting (A00),S123,2.49,7.50,4.63,4.67,4.67,46,0.1304
+708,"Lindenberger, Wade Douglas",MGT 12 - Personal Financial Management (A00),SP24,3.81,3.62,4.61,4.65,4.76,98,0.9286
+709,"Lindenberger, Wade Douglas",MGT 12 - Personal Financial Management (B00),SP24,3.83,3.29,4.59,4.59,4.75,95,0.7895000000000001
+710,"Pecore, Joseph P.",MGT 12 - Personal Financial Management (C00),SP24,3.21,2.26,4.36,4.38,4.45,97,0.1959
+711,"Pecore, Joseph P.",MGT 12 - Personal Financial Management (A00),WI24,3.27,2.60,4.43,4.4,4.39,99,0.303
+712,"Pecore, Joseph P.",MGT 12 - Personal Financial Management (B00),WI24,3.37,3.24,4.47,4.51,4.48,91,0.2747
+713,"Lindenberger, Wade Douglas",MGT 12 - Personal Financial Management (A00),FA23,3.82,4.95,4.59,4.67,4.75,118,0.7966
+714,"Pecore, Joseph P.",MGT 12 - Personal Financial Management (B00),FA23,3.37,5.00,4.51,4.39,4.5,94,0.2872
+715,"Lindenberger, Wade Douglas",MGT 12 - Personal Financial Management (A00),S223,3.82,5.80,4.77,4.73,4.78,82,0.5366
+716,"Buchanan, Harold G",MGT 16 - Personal Ethics at Work (A00),SP24,3.51,3.55,4.52,4.3,4.51,91,0.9231
+717,"Buchanan, Harold G",MGT 16 - Personal Ethics at Work (B00),SP24,3.55,3.42,4.41,4.32,4.45,91,0.956
+718,"Campbell, Robert Harold",MGT 16 - Personal Ethics at Work (C00),SP24,2.7,3.95,4.4,4.23,4.46,111,0.4054
+719,"Campbell, Robert Harold",MGT 16 - Personal Ethics at Work (D00),SP24,2.95,4.16,4.43,4.31,4.42,107,0.3084
+720,"Buchanan, Harold G",MGT 16 - Personal Ethics at Work (A00),WI24,3.56,3.89,4.57,4.42,4.51,98,0.9081999999999999
+721,"Buchanan, Harold G",MGT 16 - Personal Ethics at Work (B00),WI24,3.6,3.66,4.56,4.44,4.6,96,0.9583
+722,"Campbell, Robert Harold",MGT 16 - Personal Ethics at Work (C00),WI24,2.71,5.08,4.5,4.35,4.41,113,0.23010000000000003
+723,"Campbell, Robert Harold",MGT 16 - Personal Ethics at Work (D00),WI24,2.98,4.12,4.35,4.23,4.48,107,0.4112
+724,"Buchanan, Harold G",MGT 16 - Personal Ethics at Work (A00),FA23,3.56,5.22,4.51,4.39,4.57,97,0.9381
+725,"Buchanan, Harold G",MGT 16 - Personal Ethics at Work (B00),FA23,3.6,5.48,4.59,4.41,4.6,98,0.9592
+726,"Campbell, Robert Harold",MGT 16 - Personal Ethics at Work (C00),FA23,2.71,6.00,4.3,4.13,4.23,114,0.2632
+727,"Campbell, Robert Harold",MGT 16 - Personal Ethics at Work (D00),FA23,2.98,5.76,4.37,4.26,4.47,107,0.3084
+728,"Lindenberger, Wade Douglas",MGT 16 - Personal Ethics at Work (E00),FA23,3.92,5.27,4.61,4.75,4.82,100,0.91
+729,"Lindenberger, Wade Douglas",MGT 16 - Personal Ethics at Work (F00),FA23,3.86,5.43,4.44,4.63,4.77,99,0.8283
+730,"McKay, Michael J",MGT 18 - Managing Diverse Teams (A00),SP24,3.0,3.92,4.21,4.16,4.41,45,0.8222
+731,"McKay, Michael J",MGT 18 - Managing Diverse Teams (B00),SP24,3.07,3.53,4.16,4.1,4.4,69,0.7681
+732,"McKay, Michael J",MGT 18 - Managing Diverse Teams (C00),SP24,3.03,3.42,4.15,4.09,4.48,62,0.7097
+733,"Chamberlain, Travis Dean",MGT 18 - Managing Diverse Teams (D00),SP24,3.3,4.36,4.26,4.27,4.54,55,0.9636
+734,"McKay, Michael J",MGT 18 - Managing Diverse Teams (A00),WI24,3.04,3.09,4.09,4.07,4.33,57,0.8421
+735,"McKay, Michael J",MGT 18 - Managing Diverse Teams (B00),WI24,3.07,3.52,4.23,4.23,4.38,66,0.7576
+736,"McKay, Michael J",MGT 18 - Managing Diverse Teams (C00),WI24,3.0,3.96,4.14,4.1,4.44,62,0.7581
+737,"Chamberlain, Travis Dean",MGT 18 - Managing Diverse Teams (D00),WI24,3.26,4.56,4.39,4.37,4.64,86,0.8372
+738,"McKay, Mary A",MGT 18 - Managing Diverse Teams (E00),WI24,2.98,5.00,4.61,4.45,4.73,16,0.6875
+739,"McKay, Michael J",MGT 18 - Managing Diverse Teams (A00),FA23,2.92,5.53,3.91,3.83,4.35,88,0.8523000000000001
+740,"McKay, Michael J",MGT 18 - Managing Diverse Teams (B00),FA23,3.07,5.13,4.08,3.98,4.39,89,0.8539
+741,"McKay, Michael J",MGT 18 - Managing Diverse Teams (C00),FA23,3.0,5.40,4.08,3.9,4.31,88,0.8523000000000001
+742,"Chamberlain, Travis Dean",MGT 18 - Managing Diverse Teams (E00),FA23,3.39,5.47,4.58,4.53,4.74,89,0.8427
+743,"Chamberlain, Travis Dean",MGT 18 - Managing Diverse Teams (F00),FA23,3.39,5.35,4.21,4.12,4.43,88,0.8068000000000001
+744,"Chamberlain, Travis Dean",MGT 18 - Managing Diverse Teams (A00),S223,3.47,6.00,4.48,4.73,4.85,32,0.3125
+745,"McKay, Michael J",MGT 18 - Managing Diverse Teams (A00),SP23,2.92,5.00,3.99,4.03,4.3,62,0.46770000000000006
+746,"McKay, Michael J",MGT 18 - Managing Diverse Teams (B00),SP23,3.07,4.71,4.33,4.31,4.55,55,0.6364
+747,"McKay, Michael J",MGT 18 - Managing Diverse Teams (C00),SP23,3.0,5.26,4.2,4.19,4.41,82,0.4756
+748,"McKay, Michael J",MGT 18GS - Managing Diverse Teams (A00),S223,3.94,5.00,3.5,4.2,4.25,15,0.26670000000000005
+749,"Pecore, Joseph P.",MGT 45 - Principles of Accounting (A00),SP24,2.99,6.09,4.45,4.38,4.57,140,0.25
+750,"Pecore, Joseph P.",MGT 45 - Principles of Accounting (B00),SP24,3.05,6.75,4.26,4.21,4.41,134,0.2463
+751,"Pecore, Joseph P.",MGT 45 - Principles of Accounting (A00),WI24,3.01,7.50,4.31,4.23,4.47,137,0.2774
+752,"Perez Silva, Andreya Marie",MGT 45 - Principles of Accounting (B00),WI24,2.85,5.56,4.55,4.29,4.63,75,0.3467
+753,"Perez Silva, Andreya Marie",MGT 45 - Principles of Accounting (C00),WI24,2.99,5.46,4.62,4.62,4.74,77,0.33770000000000006
+754,"Pecore, Joseph P.",MGT 45 - Principles of Accounting (A00),FA23,3.01,8.57,3.96,3.96,4.34,131,0.2672
+755,"Pecore, Joseph P.",MGT 45 - Principles of Accounting (B00),FA23,3.01,7.98,4.21,4.13,4.43,139,0.30219999999999997
+756,"Pecore, Joseph P.",MGT 45 - Principles of Accounting (A00),S223,3.01,9.50,4.37,4.39,4.56,90,0.11109999999999999
+757,"Deal, Jennifer Jean",MGT 52 - Test & Measurement at Work (A00),WI24,3.5,4.31,4.13,4.2,4.41,83,0.8554
+758,"Deal, Jennifer Jean",MGT 52 - Test & Measurement at Work (A00),FA23,3.5,5.42,4.13,4.06,4.44,88,0.8181999999999999
+759,"Lee, Hyun Seok",MGT 71 - Business & Operations Mgt (A00),SP24,3.07,5.33,4.28,4.18,4.3,96,0.25
+760,"Lee, Hyun Seok",MGT 71 - Business & Operations Mgt (A00),WI24,3.41,4.17,4.72,4.72,4.82,88,0.3295
+761,"Goodarzi, Shadi",MGT 71 - Business & Operations Mgt (A00),FA23,3.54,5.42,3.92,3.92,4.42,87,0.41380000000000006
+762,"Phiroz, Zal Navroze",MGT 71R - Business & Operations Mgt (A00),SP24,3.54,4.75,3.5,3.64,4.17,106,0.24530000000000002
+763,"Phiroz, Zal Navroze",MGT 71R - Business & Operations Mgt (A00),WI24,3.5,5.09,4.51,4.49,4.59,86,0.2907
+764,"Phiroz, Zal Navroze",MGT 71R - Business & Operations Mgt (A00),FA23,3.5,6.11,4.12,4.03,4.28,91,0.20879999999999999
+765,"Phiroz, Zal Navroze",MGT 71R - Business & Operations Mgt (B00),FA23,3.46,6.67,3.96,3.98,4.28,91,0.23079999999999998
+766,"Wilbur, Kenneth C",MGT 100 - Customer Analytics (A00),SP24,3.13,6.16,3.73,3.72,4.18,100,0.77
+767,"Wilbur, Kenneth C",MGT 100 - Customer Analytics (B00),SP24,3.11,6.33,3.86,3.88,4.25,124,0.8548
+768,"Yavorsky, Daniel Ryan",MGT 100 - Customer Analytics (A00),WI24,3.46,5.84,4.46,4.45,4.63,147,0.6939000000000001
+769,"Yavorsky, Daniel Ryan",MGT 100 - Customer Analytics (A00),S223,3.46,8.19,4.26,4.21,4.36,89,0.4045
+770,"Eberhard, Craig A",MGT 103 - Product Marketing & Management (A00),SP24,2.83,4.00,4.69,4.88,4.81,7,0.5714
+771,"Eberhard, Craig A",MGT 103 - Product Marketing & Management (B00),SP24,2.93,3.26,4.3,4.25,4.53,53,0.7547
+772,"Ehrich, Kristine R",MGT 103 - Product Marketing & Management (C00),SP24,3.05,3.86,4.41,4.31,4.59,97,0.8041
+773,"Ehrich, Kristine R",MGT 103 - Product Marketing & Management (D00),SP24,3.25,3.90,4.49,4.44,4.61,94,0.7553000000000001
+774,"Ehrich, Kristine R",MGT 103 - Product Marketing & Management (E00),SP24,3.09,3.73,4.5,4.47,4.68,95,0.7895000000000001
+775,"Demill, Burritt",MGT 103 - Product Marketing & Management (F00),SP24,3.19,5.07,4.3,4.09,4.51,92,0.8913
+776,"Bates, Kenneth Walter",MGT 103 - Product Marketing & Management (G00),SP24,3.0,4.04,4.38,4.28,4.39,89,0.3146
+777,"Eberhard, Craig A",MGT 103 - Product Marketing & Management (A00),WI24,2.82,3.00,4.1,3.95,4.5,8,0.625
+778,"Eberhard, Craig A",MGT 103 - Product Marketing & Management (B00),WI24,2.92,3.20,4.39,4.23,4.37,31,0.6452
+779,"Ehrich, Kristine R",MGT 103 - Product Marketing & Management (C00),WI24,3.01,4.48,4.44,4.26,4.53,87,0.6322
+780,"Ehrich, Kristine R",MGT 103 - Product Marketing & Management (D00),WI24,3.2,3.95,4.53,4.31,4.67,83,0.7108
+781,"Ehrich, Kristine R",MGT 103 - Product Marketing & Management (E00),WI24,3.08,4.66,4.37,4.17,4.6,86,0.6744
+782,"Demill, Burritt",MGT 103 - Product Marketing & Management (F00),WI24,3.27,5.20,4.24,3.99,4.39,88,0.9431999999999999
+783,"Bates, Kenneth Walter",MGT 103 - Product Marketing & Management (G00),WI24,3.0,3.92,4.11,3.86,4.19,85,0.7647
+784,"Bates, Kenneth Walter",MGT 103 - Product Marketing & Management (H00),WI24,3.06,3.88,4.36,4.15,4.37,60,0.85
+785,"Eberhard, Craig A",MGT 103 - Product Marketing & Management (A00),FA23,2.82,5.95,4.11,3.9,4.29,55,0.7636000000000001
+786,"Eberhard, Craig A",MGT 103 - Product Marketing & Management (B00),FA23,2.92,5.40,4.02,3.82,4.29,81,0.7778
+787,"Ehrich, Kristine R",MGT 103 - Product Marketing & Management (C00),FA23,3.01,6.00,4.85,4.68,4.79,86,0.23260000000000003
+788,"Ehrich, Kristine R",MGT 103 - Product Marketing & Management (D00),FA23,3.2,6.11,4.58,4.43,4.64,89,0.3034
+789,"Demill, Burritt",MGT 103 - Product Marketing & Management (E00),FA23,3.23,5.81,4.23,4.04,4.46,89,0.9662999999999999
+790,"Bates, Kenneth Walter",MGT 103 - Product Marketing & Management (F00),FA23,2.97,5.56,3.99,3.68,4.06,84,0.9523999999999999
+791,"Bates, Kenneth Walter",MGT 103 - Product Marketing & Management (G00),FA23,3.0,5.53,3.96,3.58,3.98,85,0.9059
+792,"Ehrich, Kristine R",MGT 103 - Product Marketing & Management (A00),S223,3.18,6.67,4.22,4.17,4.13,90,0.0667
+793,"Eberhard, Craig A",MGT 103 - Product Marketing & Management (A00),S123,2.82,6.08,4.14,4.08,4.34,74,0.8784000000000001
+794,"Eberhard, Craig A",MGT 103 - Product Marketing & Management (C00),SP23,2.99,5.00,4.58,4.42,4.58,10,0.6
+795,"Eberhard, Craig A",MGT 103 - Product Marketing & Management (D00),SP23,2.91,5.65,4.39,4.29,4.52,50,0.62
+796,"Bates, Kenneth Walter",MGT 105 - Product Promotion & Brand Mgt (A00),SP24,3.3,3.51,4.32,4.28,4.29,94,0.7553000000000001
+797,"Eberhard, Craig A",MGT 106 - Sales and Sales Management (A00),SP24,3.05,3.42,4.01,3.88,4.17,95,0.8105
+798,"Eberhard, Craig A",MGT 106 - Sales and Sales Management (A00),WI24,3.06,4.03,4.03,3.96,4.25,85,0.7293999999999999
+799,"Eberhard, Craig A",MGT 106 - Sales and Sales Management (A00),FA23,3.06,5.14,3.9,3.77,4.3,88,0.8409000000000001
+800,"Eberhard, Craig A",MGT 106 - Sales and Sales Management (A00),SP23,3.06,5.22,4.27,4.17,4.43,89,0.7753
+801,"Jaroszewicz, Ania",MGT 107 - Consumer Behavior (A00),WI24,3.25,4.13,4.52,4.44,4.57,87,0.8966
+802,"Jaroszewicz, Ania",MGT 107 - Consumer Behavior (B00),WI24,3.41,3.91,4.5,4.42,4.59,91,0.9451
+803,"Amir, On",MGT 108R - Applied Market Research (A00),FA23,3.72,5.43,4.4,4.32,4.4,295,0.278
+804,"Campbell, Colin Leslie",MGT 109 - Topics in Marketing (A00),SP24,3.12,4.14,4.62,4.45,4.59,97,0.9381
+805,"Campbell, Colin Leslie",MGT 109 - Topics in Marketing (A00),FA23,3.13,5.44,4.47,4.22,4.46,88,0.8976999999999999
+806,"Somasundaram, Tyagarajan",MGT 112 - Global Business Strategy (A00),SP24,3.34,5.48,3.94,3.78,4.3,57,0.8595999999999999
+807,"Somasundaram, Tyagarajan",MGT 112 - Global Business Strategy (B00),SP24,3.12,5.56,3.73,3.51,4.09,57,0.7544
+808,"Zimmermann, Carsten",MGT 112 - Global Business Strategy (C00),SP24,3.54,4.48,4.44,4.38,4.51,97,0.701
+809,"Marechal, Michel Andre",MGT 112 - Global Business Strategy (A00),WI24,3.39,4.53,4.4,4.37,4.54,33,0.9091
+810,"Marechal, Michel Andre",MGT 112 - Global Business Strategy (B00),WI24,3.23,4.26,4.07,3.76,4.22,43,0.8140000000000001
+811,"Somasundaram, Tyagarajan",MGT 112 - Global Business Strategy (C00),WI24,3.34,5.16,3.97,3.92,4.19,44,0.8864000000000001
+812,"Somasundaram, Tyagarajan",MGT 112 - Global Business Strategy (D00),WI24,3.36,5.64,4.06,4.06,4.29,51,0.8627
+813,"Ehrich, Kristine R",MGT 112 - Global Business Strategy (A00),FA23,3.42,6.63,4.15,4.2,4.42,49,0.9388
+814,"Somasundaram, Tyagarajan",MGT 112 - Global Business Strategy (B00),FA23,3.12,6.67,4.01,4.11,4.39,22,0.8181999999999999
+815,"Somasundaram, Tyagarajan",MGT 112 - Global Business Strategy (C00),FA23,3.33,6.56,4.04,4.05,4.25,37,0.8649
+816,"Ehrich, Kristine R",MGT 112 - Global Business Strategy (A00),S223,3.42,8.57,4.38,4.4,4.43,90,0.4667
+817,"Davis, Kathleen Ann",MGT 119 - Topics in Business (A00),SP24,3.83,4.00,3.31,3.51,4.07,90,0.3444
+818,"Anderson, Jon Marcus",MGT 119 - Topics in Business (B00),SP24,3.94,3.48,4.61,4.64,4.77,93,0.46240000000000003
+819,"Felke, Magnus Roland",MGT 119 - Topics in Business (A00),WI24,3.52,4.40,4.63,4.57,4.66,55,0.7273000000000001
+820,"Klaas, Jeffrey David",MGT 121A - Innovation to Market A (A00),WI24,3.37,3.87,4.54,4.36,4.59,85,0.8353
+821,"Klaas, Jeffrey David",MGT 121A - Innovation to Market A (A00),FA23,3.37,5.33,4.58,4.49,4.65,87,0.8851000000000001
+822,"Klaas, Jeffrey David",MGT 121B - Innovation to Market B (A00),SP24,3.4,4.43,4.47,4.4,4.55,69,0.8551000000000001
+823,"Zhu, Kevin Xiaoguo",MGT 127R - Innovation and Tech Strategy (A00),WI24,3.63,4.42,3.98,3.82,4.25,81,0.9259000000000001
+824,"Krishnan, Viswanathan",MGT 128R - Business Innovation & Growth (A00),SP24,3.38,5.31,3.97,3.52,4.18,96,0.1875
+825,"Houskeeper, Robert",MGT 131A - Intermediate Accounting A (A00),SP24,2.48,5.45,4.08,4.12,4.37,52,0.5962
+826,"Houskeeper, Robert",MGT 131A - Intermediate Accounting A (A00),WI24,2.46,5.44,4.02,3.9,4.03,47,0.3404
+827,"Houskeeper, Robert",MGT 131A - Intermediate Accounting A (A00),FA23,2.46,6.55,3.81,3.93,4.27,50,0.88
+828,"Houskeeper, Robert",MGT 131A - Intermediate Accounting A (A00),S123,2.46,10.00,3.17,3.25,3.25,30,0.1
+829,"Houskeeper, Robert",MGT 131B - Intermediate Accounting B (A00),SP24,3.24,5.00,4.32,4.38,4.39,35,0.7143
+830,"Houskeeper, Robert",MGT 131B - Intermediate Accounting B (A00),WI24,3.39,5.15,3.74,4.14,4.38,30,0.4667
+831,"Anderson, John Charles",MGT 131B - Intermediate Accounting B (A00),S223,3.12,8.03,4.28,4.31,4.46,47,0.7021
+832,"Blakley, Bruce",MGT 132 - Auditing (A00),SP24,3.2,10.25,4.15,4.05,4.35,25,0.2
+833,"Blakley, Bruce",MGT 132 - Auditing (A00),FA23,3.24,7.35,3.91,3.99,4.41,65,0.2615
+834,"Houskeeper, Robert",MGT 134 - Federal Taxation-Individuals (A00),FA23,3.63,5.89,4.35,4.41,4.41,33,0.8484999999999999
+835,"Anderson, John Charles",MGT 135 - Federal Taxation-Companies (A00),WI24,3.25,4.71,4.55,4.55,4.65,35,0.9714
+836,"Anderson, John Charles",MGT 135 - Federal Taxation-Companies (A00),FA23,3.25,5.63,4.44,4.42,4.53,42,0.9523999999999999
+837,"Anderson, John Charles",MGT 135 - Federal Taxation-Companies (A00),S123,3.25,6.75,4.34,4.39,4.45,20,1.0
+838,"Lindenberger, Wade Douglas",MGT 136 - Advanced Accounting (A00),WI24,3.62,4.89,4.59,4.62,4.73,76,0.9605
+839,"Lindenberger, Wade Douglas",MGT 136 - Advanced Accounting (A00),S223,3.62,8.33,3.33,4.08,4.42,12,0.25
+840,"Lindenberger, Wade Douglas",MGT 137 - Financial Statement Analysis (A00),SP24,3.85,4.18,4.5,4.57,4.67,100,0.92
+841,"Perols, Johan Lars",MGT 139 - Accounting Information Systems (A00),FA23,3.43,6.67,4.53,4.47,4.44,17,0.5294
+842,"Anderson, John Charles",MGT 147 - Not-for-profit & Govt Acct (A00),SP24,3.41,4.93,4.31,4.42,4.57,36,0.8056000000000001
+843,"Phiroz, Zal Navroze",MGT 151R - Business Analytics (A00),SP24,3.43,6.09,4.09,4.1,4.32,91,0.24180000000000001
+844,"Phiroz, Zal Navroze",MGT 151R - Business Analytics (A00),WI24,3.41,6.22,4.47,4.3,4.59,72,0.2639
+845,"Perols, Johan Lars",MGT 153 - Info Tech - Business Analytics (A00),SP24,3.12,7.00,3.66,3.68,4.2,77,0.2727
+846,"Perols, Johan Lars",MGT 153 - Info Tech - Business Analytics (A00),WI24,3.14,6.71,4.12,4.03,4.47,75,0.28
+847,"Perols, Johan Lars",MGT 153 - Business Analytics (A00),FA23,3.14,7.38,4.31,4.28,4.41,79,0.2658
+848,"Perols, Johan Lars",MGT 153 - Info Tech - Business Analytics (A00),SP24,3.12,7.00,3.66,3.68,4.2,77,0.2727
+849,"Perols, Johan Lars",MGT 153 - Info Tech - Business Analytics (A00),WI24,3.14,6.71,4.12,4.03,4.47,75,0.28
+850,"Perols, Johan Lars",MGT 153 - Business Analytics (A00),FA23,3.14,7.38,4.31,4.28,4.41,79,0.2658
+851,"Samek, Anya",MGT 160 - Experiments in Firms (A00),WI24,3.29,4.25,4.08,3.95,4.17,90,0.2
+852,"Samek, Anya",MGT 160 - Experiments in Firms (B00),WI24,3.47,4.19,4.13,4.16,4.23,99,0.2828
+853,"Van De Ven, Jeroen",MGT 160 - Experiments in Firms (C00),WI24,3.6,3.70,4.08,3.9,4.19,93,0.24730000000000002
+854,"Van De Ven, Jeroen",MGT 160 - Experiments in Firms (D00),WI24,3.43,3.22,3.79,3.94,4.38,91,0.20879999999999999
+855,"Sadoff, Sally",MGT 160 - Experiments in Firms (A00),FA23,3.65,5.94,4.53,4.58,4.73,87,0.1839
+856,"Sadoff, Sally",MGT 160 - Experiments in Firms (B00),FA23,3.64,5.26,4.6,4.61,4.68,88,0.2273
+857,"Demill, Burritt",MGT 162 - Negotiations (A00),SP24,3.68,3.78,4.78,4.71,4.74,95,0.8947
+858,"Demill, Burritt",MGT 162 - Negotiations (B00),SP24,3.67,4.05,4.6,4.53,4.58,98,0.7857
+859,"Levin, Joel",MGT 162 - Negotiations (C00),SP24,3.8,4.13,4.72,4.64,4.74,95,0.6631999999999999
+860,"Levin, Joel",MGT 162 - Negotiations (D00),SP24,3.65,4.07,4.73,4.63,4.73,97,0.5876
+861,"Demill, Burritt",MGT 162 - Negotiations (A00),WI24,3.68,3.52,4.64,4.62,4.68,89,0.7079000000000001
+862,"Gneezy, Uri",MGT 162R - Negotiations (A00),WI24,3.42,4.14,4.44,4.4,4.43,198,0.2677
+863,"Gneezy, Uri",MGT 162R - Negotiations (A00),FA23,3.42,5.81,4.57,4.45,4.46,198,0.19190000000000002
+864,"McKay, Mary A",MGT 164 - Business and Org Leadership (A00),SP24,2.58,5.42,4.42,4.31,4.51,27,0.8889
+865,"McKay, Mary A",MGT 164 - Business and Org Leadership (B00),SP24,2.73,5.26,4.17,3.97,4.33,88,0.875
+866,"McKay, Mary A",MGT 164 - Business and Org Leadership (C00),SP24,2.68,5.07,4.23,4.0,4.39,95,0.8947
+867,"Meyer, Alison Bloomfield",MGT 164 - Business and Org Leadership (D00),SP24,3.46,4.55,4.4,4.35,4.42,93,0.7742
+868,"McKay, Mary A",MGT 164 - Business and Org Leadership (A00),WI24,2.54,6.11,4.28,4.07,4.37,48,0.7708
+869,"McKay, Mary A",MGT 164 - Business and Org Leadership (B00),WI24,2.64,4.38,4.12,3.81,4.17,74,0.7973
+870,"Meyer, Alison Bloomfield",MGT 164 - Business and Org Leadership (C00),WI24,3.33,4.50,4.3,4.29,4.28,84,0.8095
+871,"Zimmermann, Carsten",MGT 164 - Business and Org Leadership (D00),WI24,3.46,4.94,4.17,4.09,4.3,90,0.7667
+872,"Campbell, Elizabeth L",MGT 164 - Business and Org Leadership (E00),WI24,3.32,3.58,4.38,4.36,4.54,86,0.7791
+873,"McKay, Mary A",MGT 164 - Business and Org Leadership (A00),FA23,2.54,6.44,4.25,4.14,4.55,81,0.8148000000000001
+874,"McKay, Mary A",MGT 164 - Business and Org Leadership (B00),FA23,2.64,6.18,4.06,3.83,4.43,87,0.7816
+875,"McKay, Mary A",MGT 164 - Business and Org Leadership (C00),FA23,2.71,5.79,4.09,3.87,4.42,85,0.7412000000000001
+876,"Meyer, Alison Bloomfield",MGT 164 - Business and Org Leadership (D00),FA23,3.36,6.05,4.0,4.03,4.05,87,0.2184
+877,"Zimmermann, Carsten",MGT 164 - Business and Org Leadership (E00),FA23,3.51,5.63,4.26,4.3,4.55,90,0.7000000000000001
+878,"Zimmermann, Carsten",MGT 164 - Business and Org Leadership (A00),S223,3.56,6.47,4.27,4.1,4.35,90,0.7778
+879,"McKay, Mary A",MGT 164GS - Business and Org Leadership (A00),S223,3.94,5.00,4.67,4.25,4.58,15,0.2
+880,"Moran, Cathleen L.",MGT 166 - Corp Social Responsibility (A00),SP24,3.24,5.47,3.87,3.68,4.18,54,0.8333
+881,"Moran, Cathleen L.",MGT 166 - Corp Social Responsibility (B00),SP24,2.97,5.79,3.95,3.8,4.05,73,0.726
+882,"Moran, Cathleen L.",MGT 166 - Corp Social Responsibility (C00),SP24,3.05,6.16,4.01,4.0,4.41,44,0.7045
+883,"Moran, Cathleen L.",MGT 166 - Corp Social Responsibility (A00),WI24,3.29,8.18,3.7,3.48,4.09,49,0.2245
+884,"Moran, Cathleen L.",MGT 166 - Corp Social Responsibility (B00),WI24,2.92,6.05,3.67,3.6,4.23,64,0.3281
+885,"Moran, Cathleen L.",MGT 166 - Corp Social Responsibility (C00),WI24,3.0,5.90,4.16,4.04,4.41,44,0.4545
+886,"Moran, Cathleen L.",MGT 166 - Corp Social Responsibility (A00),FA23,3.29,6.88,4.23,4.07,4.46,28,0.8571
+887,"Moran, Cathleen L.",MGT 166 - Corp Social Responsibility (B00),FA23,2.92,7.27,3.68,3.58,4.32,31,0.7097
+888,"Moran, Cathleen L.",MGT 166 - Corp Social Responsibility (C00),FA23,3.0,5.63,4.05,3.92,4.28,19,0.8421
+889,"Demill, Burritt",MGT 166 - Corp Social Responsibility (D00),FA23,3.22,6.38,4.35,4.31,4.54,91,0.956
+890,"Klaas, Jeffrey David",MGT 167 - Social Entrepreneurship (A00),SP24,3.01,3.44,4.56,4.3,4.54,95,0.9579000000000001
+891,"Jacob, Jo Dee C",MGT 167 - Social Entrepreneurship (A00),WI24,3.21,4.15,4.59,4.35,4.76,88,0.375
+892,"Jacob, Jo Dee C",MGT 167 - Social Entrepreneurship (B00),FA23,3.25,5.35,4.42,4.45,4.72,88,0.5
+893,"Phiroz, Zal Navroze",MGT 171R - Operations Management (A00),SP24,3.49,4.07,3.85,3.91,4.43,92,0.337
+894,"Phiroz, Zal Navroze",MGT 171R - Operations Management (A00),WI24,3.48,4.62,4.08,4.02,4.67,81,0.284
+895,"Phiroz, Zal Navroze",MGT 171R - Operations Management (A00),FA23,3.48,5.91,3.91,4.03,4.49,86,0.25579999999999997
+896,"Hedges, Kathleen",MGT 172 - Business Project Management (A00),SP24,3.69,4.53,4.51,4.55,4.63,115,0.8695999999999999
+897,"Hedges, Kathleen",MGT 172 - Business Project Management (B00),SP24,3.73,4.18,4.52,4.54,4.63,94,0.8511
+898,"Zimmermann, Carsten",MGT 172 - Business Project Management (C00),SP24,3.46,3.69,4.15,4.08,4.34,88,0.6136
+899,"Hedges, Kathleen",MGT 172 - Business Project Management (A00),WI24,3.67,4.84,4.48,4.48,4.55,98,0.8673000000000001
+900,"Hedges, Kathleen",MGT 172 - Business Project Management (B00),WI24,3.74,4.70,4.58,4.56,4.65,90,0.9111
+901,"Zimmermann, Carsten",MGT 172 - Business Project Management (C00),WI24,3.54,4.78,4.06,4.07,4.18,54,0.7222
+902,"Hedges, Kathleen",MGT 172 - Business Project Management (A00),FA23,3.67,5.77,4.43,4.48,4.54,89,0.7303000000000001
+903,"Hedges, Kathleen",MGT 172 - Business Project Management (B00),FA23,3.74,5.36,4.33,4.39,4.45,88,0.7955
+904,"Zimmermann, Carsten",MGT 172 - Business Project Management (C00),FA23,3.54,5.27,4.36,4.39,4.5,85,0.6587999999999999
+905,"Hedges, Kathleen",MGT 172 - Business Project Management (A00),S123,3.67,6.98,4.36,4.43,4.54,93,0.8817
+906,"Erat, Sanjiv",MGT 172R - Business Project Management (A00),FA23,3.31,6.24,4.15,4.07,4.29,155,0.7806000000000001
+907,"Hayes, Sherry Lorine",MGT 173 - Project Mgt- Health Services (A00),SP24,3.62,4.26,4.45,4.57,4.64,96,0.9375
+908,"Hayes, Sherry Lorine",MGT 173 - Project Mgt- Health Services (A00),WI24,3.65,4.33,4.54,4.68,4.75,86,0.9419
+909,"Hayes, Sherry Lorine",MGT 173 - Project Mgt- Health Services (B00),WI24,3.6,4.42,4.56,4.66,4.79,89,0.9101
+910,"Hayes, Sherry Lorine",MGT 173 - Project Mgt- Health Services (A00),FA23,3.65,5.70,4.5,4.68,4.7,91,0.8681000000000001
+911,"Gopal, Christopher S.",MGT 175 - Supply Chain Management (A00),SP24,3.22,3.80,3.87,3.86,4.42,83,0.24100000000000002
+912,"Gopal, Christopher S.",MGT 175 - Supply Chain Management (A00),WI24,3.2,3.33,3.94,3.92,4.54,73,0.16440000000000002
+913,"Gopal, Christopher S.",MGT 175 - Supply Chain Management (A00),FA23,3.2,5.59,3.84,3.85,4.16,75,0.2267
+914,"Gopal, Christopher S.",MGT 176 - Strategic Cost Management (A00),WI24,3.32,4.45,3.77,3.84,4.4,26,0.42310000000000003
+915,"Noh, Daehoon",MGT 177 - Analytics in Supply Chain Mgmt (A00),WI24,3.93,5.00,4.0,3.58,3.67,6,0.5
+916,"Bliss, Barbara Ann",MGT 180 - Business Finance (A00),SP24,3.23,5.68,4.35,4.21,4.41,145,0.8621
+917,"Bliss, Barbara Ann",MGT 180 - Business Finance (B00),SP24,3.19,5.61,4.44,4.36,4.47,145,0.8897
+918,"Bliss, Barbara Ann",MGT 180 - Business Finance (A00),FA23,3.23,6.83,4.33,4.28,4.47,143,0.8392000000000001
+919,"Bliss, Barbara Ann",MGT 180 - Business Finance (A00),S223,3.23,7.43,4.39,4.28,4.43,90,0.7778
+920,"Engelberg, Joseph Edward",MGT 180R - Business Finance (A00),WI24,3.23,5.83,4.4,4.38,4.28,146,0.16440000000000002
+921,"Engelberg, Joseph Edward",MGT 180R - Business Finance (B00),WI24,3.21,6.89,4.58,4.45,4.49,147,0.23809999999999998
+922,"Buchanan, Harold G",MGT 181 - Enterprise Finance (A00),SP24,3.1,5.63,4.36,4.13,4.47,139,0.9281
+923,"Buchanan, Harold G",MGT 181 - Enterprise Finance (A00),WI24,3.1,6.32,4.29,4.02,4.46,109,0.9633
+924,"Bliss, Barbara Ann",MGT 181 - Enterprise Finance (B00),WI24,3.22,5.12,4.5,4.43,4.56,84,0.7857
+925,"Buchanan, Harold G",MGT 181 - Enterprise Finance (A00),FA23,3.1,6.72,4.37,4.2,4.5,107,0.9252
+926,"Bliss, Barbara Ann",MGT 181 - Enterprise Finance (B00),FA23,3.22,6.07,4.33,4.22,4.44,96,0.875
+927,"Dunn, Louis Jean",MGT 181 - Enterprise Finance (A00),S123,2.85,7.50,3.88,3.6,3.69,63,0.0635
+928,"Banerjee, Snehal",MGT 183 - Financial Investments (A00),SP24,3.27,6.26,4.0,4.02,4.27,91,0.2527
+929,"Parashar, Sat P",MGT 184 - Money and Banking (A00),WI24,3.95,3.68,3.93,3.96,4.25,86,0.6628000000000001
+930,"Dunn, Louis Jean",MGT 185 - Investment Banking (A00),SP24,3.47,9.00,3.74,3.72,4.23,66,0.2576
+931,"Dunn, Louis Jean",MGT 185 - Investment Banking (A00),FA23,3.54,8.86,3.67,3.58,4.08,72,0.3056
+932,"Dunn, Louis Jean",MGT 187 - New Venture Finance (A00),SP24,3.11,4.50,4.0,3.91,4.13,98,0.2143
+933,"Dunn, Louis Jean",MGT 187 - New Venture Finance (A00),WI24,3.18,4.30,4.06,4.06,4.15,81,0.2469
+934,"Dunn, Louis Jean",MGT 187 - New Venture Finance (B00),WI24,3.04,4.25,3.64,3.62,3.94,89,0.2697
+935,"Dunn, Louis Jean",MGT 187 - New Venture Finance (A00),FA23,3.18,4.76,3.9,3.88,4.18,97,0.2165
+936,"Avenancio-Leon, Carlos",MGT 189 - Topics in Finance (A00),SP24,3.52,3.30,4.24,4.09,4.34,89,0.22469999999999998
+937,"Reher, Michael Christopher",MGT 189 - Topics in Finance (A00),WI24,3.94,4.91,4.28,4.38,4.49,80,0.3
+938,"Buti, Krisztina",MGT 189 - Topics in Finance (A00),FA23,3.58,6.34,3.9,3.92,4.32,58,0.9828
+939,"Leigh, Brian",REV 1 - First Year Experience (A00),FA23,,1.25,4.49,4.56,4.73,101,0.43560000000000004
+940,"Lipomi, Darren John",REV 2 - Transfer Year Experience (A00),FA23,,3.82,4.88,4.92,4.94,42,0.4048
+941,"Yu, Paul K L",REV 20 - Revelle Honors Seminar (A00),SP24,,1.57,4.85,4.92,4.83,15,0.4667
+942,"Pomeroy, Robert S.",REV 20 - Revelle Honors Seminar (A00),WI24,,2.33,4.92,5.0,5.0,7,0.4286
+943,"Yu, Paul K L",REV 20 - Revelle Honors Seminar (C00),FA23,,2.35,4.33,4.23,4.56,26,0.6537999999999999
+944,"Yu, Paul K L",REV 20 - Revelle Honors Seminar (D00),FA23,,2.31,4.66,4.64,4.82,26,0.5
+945,"Lyon, Antony J.",REV 87 - First-year Seminar (A00),SP24,,1.44,4.53,4.58,4.63,19,0.4737
+946,"Lyon, Antony J.",REV 87 - First-year Seminar (A00),SP23,,4.00,4.65,4.78,4.79,14,0.35710000000000003
+947,"Demetriou, Denise",HUM 1 - Foundatns/West Civ:Israel&Grce (A00),WI24,3.28,6.40,4.22,4.1,4.55,222,0.5946
+948,"Rodriguez, Bretton Sigfred",HUM 1 - Foundatns/West Civ:Israel&Grce (B00),WI24,3.27,6.16,4.3,4.28,4.63,255,0.8745
+949,"West, Geoffrey Scott",HUM 1 - Foundatns/West Civ:Israel&Grce (C00),WI24,3.48,6.51,4.21,4.08,4.51,223,0.8969
+950,"Markman, Kristina",HUM 1 - Foundatns/West Civ:Israel&Grce (A00),FA23,2.94,7.83,4.26,4.1,4.51,265,0.8
+951,"Watts, Edward J.","HUM 2 - Rome,Christianity&Middle Ages (A00)",SP24,3.11,5.47,4.39,4.37,4.57,159,0.41509999999999997
+952,"Markman, Kristina","HUM 2 - Rome,Christianity&Middle Ages (B00)",SP24,3.09,6.52,4.27,4.09,4.56,188,0.8723000000000001
+953,"Rodriguez, Bretton Sigfred","HUM 2 - Rome,Christianity&Middle Ages (C00)",SP24,3.33,5.93,4.38,4.31,4.59,221,0.914
+954,"West, Geoffrey Scott","HUM 2 - Rome,Christianity&Middle Ages (D00)",SP24,3.13,6.70,4.24,4.23,4.58,235,0.7957
+955,"Lyon, Antony J.","HUM 2 - Rome,Christianity&Middle Ages (A00)",WI24,3.12,5.93,4.29,4.24,4.6,188,0.7287
+956,"Zavodny, Tatiana Sophia","HUM 3 - Renaissance,Reform&Early Europ (A00)",FA23,2.63,6.14,4.09,4.09,4.49,158,0.8671
+957,"West, Geoffrey Scott","HUM 3 - Renaissance,Reform&Early Europ (B00)",FA23,3.28,6.82,4.11,4.09,4.38,222,0.8919
+958,"Rodriguez, Bretton Sigfred","HUM 3 - Renaissance,Reform&Early Europ (C00)",FA23,3.19,6.80,3.95,4.03,4.42,228,0.9561000000000001
+959,"Lyon, Antony J.","HUM 3 - Renaissance,Reform&Early Europ (D00)",FA23,3.18,6.78,4.08,4.09,4.48,213,0.8684999999999999
+960,"Zavodny, Tatiana Sophia","HUM 3 - Renaissance,Reform&Early Europ (A00)",S223,2.63,7.70,4.29,4.3,4.55,50,0.74
+961,"Caldwell, Michael Alan","HUM 3 - Renaissance,Reform&Early Europ (B00)",S223,3.04,6.43,3.75,3.96,4.26,49,0.1429
+962,"Patterson, Patrick H.","HUM 3 - Renaissance,Reform&Early Europ (A00)",S123,3.33,7.88,4.06,4.19,4.46,46,0.7173999999999999
+963,"Crum, Matthew Stephen","HUM 3 - Renaissance,Reform&Early Europ (B00)",S123,3.03,7.29,4.59,4.61,4.68,46,0.7609
+964,"Patterson, Patrick H.","HUM 3GS - Renaissance,Reform&Early Europ (A00)",S223,3.88,7.63,4.59,4.67,4.78,23,0.8261000000000001
+965,"Herbst, Matthew","HUM 3GS - Renaissance,Reform&Early Europ (A00)",S123,3.93,6.25,4.83,4.69,4.78,27,0.5926
+966,"Kontje, Todd Curtis",HUM 4 - EnlightmntRomantic&Revolution (A00),WI24,3.02,5.80,4.08,4.1,4.4,230,0.4
+967,"Watkins, Eric",HUM 4 - EnlightmntRomantic&Revolution (B00),WI24,2.55,6.09,4.04,4.01,4.36,168,0.3393
+968,"Markman, Kristina",HUM 4 - EnlightmntRomantic&Revolution (C00),WI24,3.18,5.77,4.38,4.23,4.55,233,0.6652
+969,"Zroka, Amy Liane","HUM 4 - Enlightmnt,Romnt,Rev/1660-1848 (A00)",S223,3.04,6.67,4.13,4.3,4.7,47,0.1277
+970,"Watkins, Eric","HUM 4 - Enlightmnt,Romnt,Rev/1660-1848 (B00)",S223,2.55,7.79,3.88,3.96,4.26,150,0.2267
+971,"West, Geoffrey Scott","HUM 4 - Enlightmnt,Romnt,Rev/1660-1848 (A00)",S123,3.09,8.53,4.24,4.13,4.4,39,0.8718000000000001
+972,"Finley, Aaron Daniel","HUM 4 - Enlightmnt,Romnt,Rev/1660-1848 (B00)",S123,3.19,7.92,4.31,4.21,4.46,47,0.766
+973,"Kontje, Todd Curtis",HUM 4 - EnlightmntRomantic&Revolution (A00),WI24,3.02,5.80,4.08,4.1,4.4,230,0.4
+974,"Watkins, Eric",HUM 4 - EnlightmntRomantic&Revolution (B00),WI24,2.55,6.09,4.04,4.01,4.36,168,0.3393
+975,"Markman, Kristina",HUM 4 - EnlightmntRomantic&Revolution (C00),WI24,3.18,5.77,4.38,4.23,4.55,233,0.6652
+976,"Zroka, Amy Liane","HUM 4 - Enlightmnt,Romnt,Rev/1660-1848 (A00)",S223,3.04,6.67,4.13,4.3,4.7,47,0.1277
+977,"Watkins, Eric","HUM 4 - Enlightmnt,Romnt,Rev/1660-1848 (B00)",S223,2.55,7.79,3.88,3.96,4.26,150,0.2267
+978,"West, Geoffrey Scott","HUM 4 - Enlightmnt,Romnt,Rev/1660-1848 (A00)",S123,3.09,8.53,4.24,4.13,4.4,39,0.8718000000000001
+979,"Finley, Aaron Daniel","HUM 4 - Enlightmnt,Romnt,Rev/1660-1848 (B00)",S123,3.19,7.92,4.31,4.21,4.46,47,0.766
+980,"Lyon, Antony J.","HUM 4GS - Enlightmnt,Romnt,Rev/1660-1848 (A00)",S123,3.93,7.37,4.75,4.64,4.8,27,0.7037000000000001
+981,"Lyon, Antony J.",HUM 5 - Modern Culture (1848-Present) (A00),SP24,3.14,6.05,4.24,4.25,4.46,288,0.5243
+982,"Patterson, Patrick H.",HUM 5 - Modern Culture (1848-Present) (B00),SP24,3.04,6.11,3.47,3.57,4.31,231,0.31170000000000003
+983,"Caldwell, Michael Alan",HUM 5 - Modern Culture (1848-Present) (C00),SP24,3.13,5.68,4.31,4.24,4.51,234,0.3248
+984,"West, Geoffrey Scott",HUM 5 - Modern Culture (1848-Present) (A00),S223,3.16,7.97,4.23,4.18,4.47,100,0.64
+985,"Zavodny, Tatiana Sophia",HUM 5 - Modern Culture (1848-Present) (A00),S123,2.93,8.42,4.15,4.09,4.38,48,0.7917000000000001
+986,"Zavodny, Tatiana Sophia",HUM 5 - Modern Culture (1848-Present) (B00),S123,2.93,7.78,4.34,4.29,4.46,44,0.8181999999999999
+987,"West, Geoffrey Scott",HUM 5 - Modern Culture (1848-Present) (B00),SP23,3.4,6.33,4.12,4.12,4.4,236,0.8941
+988,"Lyon, Antony J.",HUM 100 - Advanced Topics/Humanities (A00),FA23,3.69,5.50,4.4,4.2,4.7,18,0.5556
+989,"Corbett, Kevin Daniel",BIBC 100 - Structural Biochemistry (A00),SP24,3.2,4.55,4.52,4.51,4.68,96,0.4583
+990,"Amaro, Rommie E",BIBC 100 - Structural Biochemistry (B00),SP24,3.42,6.22,4.52,4.43,4.6,80,0.8625
+991,"Hui, Enfu",BIBC 100 - Structural Biochemistry (A00),WI24,3.25,7.21,4.53,4.51,4.71,115,0.8087000000000001
+992,"Flagg, Matthew Paul",BIBC 100 - Structural Biochemistry (B00),WI24,3.55,4.78,4.76,4.75,4.85,145,0.4483
+993,"Boumechache, Miyyada",BIBC 100 - Structural Biochemistry (A00),FA23,2.61,7.62,3.66,3.38,4.21,158,0.6646
+994,"Flagg, Matthew Paul",BIBC 100 - Structural Biochemistry (B00),FA23,3.54,5.56,4.61,4.65,4.71,119,0.5294
+995,"Neal, Sonya E",BIBC 100 - Structural Biochemistry (A00),SP23,3.89,6.09,4.56,4.55,4.74,326,0.7484999999999999
+996,"Bozinovic, Goran",BIBC 102 - Metabolic Biochemistry (A00),SP24,3.01,7.66,4.31,3.98,4.25,125,0.512
+997,"Hampton, Randolph Y.",BIBC 102 - Metabolic Biochemistry (B00),SP24,3.48,7.07,4.22,4.09,4.52,290,0.8931
+998,"Flagg, Matthew Paul",BIBC 102 - Metabolic Biochemistry (C00),SP24,3.53,5.39,4.62,4.64,4.71,120,0.4333
+999,"Feng, Gen-Sheng",BIBC 102 - Metabolic Biochemistry (A00),WI24,2.8,7.63,3.99,3.85,4.31,111,0.3423
+1000,"Bozinovic, Goran",BIBC 102 - Metabolic Biochemistry (B00),WI24,2.95,7.95,4.29,4.04,4.41,250,0.5
+1001,"Bozinovic, Goran",BIBC 102 - Metabolic Biochemistry (A00),FA23,3.17,8.62,4.31,4.03,4.41,204,0.3725
+1002,"Coleman, Aaron B.",BIBC 102 - Metabolic Biochemistry (B00),FA23,3.15,7.22,4.4,4.36,4.54,221,0.5656
+1003,"Flagg, Matthew Paul",BIBC 102 - Metabolic Biochemistry (A00),S123,3.55,8.07,4.45,4.47,4.61,173,0.7399
+1004,"Bozinovic, Goran",BIBC 102 - Metabolic Biochemistry (B00),SP23,2.95,7.99,3.92,3.54,4.35,173,0.4451
+1005,"Grossman, Emily N",BIBC 103 - Biochemical Techniques (A00),SP24,3.75,5.42,4.71,4.61,4.76,100,0.48
+1006,"Boumechache, Miyyada",BIBC 103 - Biochemical Techniques (B00),SP24,2.81,6.51,4.13,3.85,4.43,86,0.6395000000000001
+1007,"Coleman, Aaron B.",BIBC 103 - Biochemical Techniques (A00),WI24,3.14,6.30,4.63,4.45,4.64,94,0.6489
+1008,"Burg, Michael",BIBC 103 - Biochemical Techniques (B00),WI24,3.37,7.15,4.43,4.27,4.51,45,0.8667
+1009,"Grossman, Emily N",BIBC 103 - Biochemical Techniques (C00),WI24,3.88,6.60,4.67,4.46,4.71,50,0.6
+1010,"Beyhan, Sinem",BIBC 103 - Biochemical Techniques (A00),FA23,3.74,6.67,4.87,4.81,4.82,48,0.5625
+1011,"Burg, Michael",BIBC 103 - Biochemical Techniques (B00),FA23,3.37,7.44,4.29,4.18,4.49,49,0.7959
+1012,"Boumechache, Miyyada",BIBC 103 - Biochemical Techniques (C00),FA23,2.73,7.50,4.13,4.01,4.24,45,0.8
+1013,"Coleman, Aaron B.",BIBC 103 - Biochemical Techniques (D00),FA23,3.3,7.11,4.51,4.29,4.57,45,0.4222
+1014,"Coleman, Aaron B.",BIBC 120 - Nutrition (A00),SP24,2.92,4.80,4.53,4.39,4.59,223,0.3408
+1015,"Ernst, Andreas",BIBC 194 - Adv Topics-Biochemistry (A00),SP24,4.0,3.00,4.92,5.0,5.0,22,0.2727
+1016,"Saier, Milton H.",BIBC 194 - Adv Topics-Biochemistry (B00),SP24,4.0,3.22,4.47,4.52,4.76,24,0.375
+1017,"Amaro, Rommie E",BIBC 194 - Adv Topics-Biochemistry (C00),SP24,4.0,2.33,4.71,4.73,4.88,24,0.375
+1018,"Flagg, Matthew Paul",BIBC 194 - Adv Topics-Biochemistry (D00),SP24,4.0,2.27,4.43,4.53,4.55,32,0.34380000000000005
+1019,"Hui, Enfu",BIBC 194 - Adv Topics-Biochemistry (A00),WI24,4.0,3.29,4.75,4.76,4.78,24,0.9167000000000001
+1020,"Niwa, Maho",BIBC 194 - Adv Topics-Biochemistry (B00),WI24,3.99,2.33,4.54,4.43,4.46,24,0.25
+1021,"Flagg, Matthew Paul",BIBC 194 - Adv Topics-Biochemistry (C00),WI24,3.98,2.07,4.83,4.88,4.91,32,0.46880000000000005
+1022,"Flagg, Matthew Paul",BIBC 194 - Adv Topics-Biochemistry (A00),FA23,3.98,3.75,4.43,4.39,4.43,30,0.4
+1023,"Troemel, Emily Ruth",BICD 100 - Genetics (A00),SP24,2.74,4.47,4.29,4.23,4.53,87,0.7011000000000001
+1024,"Reinagel, Pam",BICD 100 - Genetics (B00),SP24,3.14,3.94,4.34,4.33,4.51,139,0.38130000000000003
+1025,"Beyhan, Sinem",BICD 100 - Genetics (C00),SP24,3.36,5.22,4.32,4.35,4.52,270,0.363
+1026,"Nguyen, Vu Quang",BICD 100 - Genetics (D00),SP24,2.6,7.28,3.38,3.13,4.08,64,0.2969
+1027,"Mueller, Liam O'Connor",BICD 100 - Genetics (A00),WI24,3.68,5.76,4.42,4.25,4.57,288,0.8264
+1028,"Beyhan, Sinem",BICD 100 - Genetics (B00),WI24,3.48,4.77,4.06,4.04,4.43,282,0.37590000000000007
+1029,"Day, Christopher D",BICD 100 - Genetics (C00),WI24,2.95,5.22,3.86,3.76,4.29,109,0.3394
+1030,"Smith, Laurie",BICD 100 - Genetics (A00),FA23,2.95,7.31,4.39,4.23,4.53,280,0.6607
+1031,"Mueller, Liam O'Connor",BICD 100 - Genetics (B00),FA23,3.64,6.97,4.36,4.16,4.62,293,0.8840000000000001
+1032,"McDonnell, Lisa Marie",BICD 100 - Genetics (C00),FA23,3.21,6.81,4.48,4.43,4.65,266,0.3947
+1033,"Cooper, Andrew Michael",BICD 100 - Genetics (A00),S123,3.91,6.05,4.61,4.67,4.8,23,0.8695999999999999
+1034,"Troemel, Emily Ruth",BICD 100 - Genetics (A00),SP23,2.73,6.44,4.03,3.63,4.27,243,0.7737
+1035,"Cooper, Andrew Michael",BICD 100 - Genetics (C00),SP23,3.37,6.21,4.6,4.54,4.7,38,0.7632
+1036,"Smith, Laurie",BICD 100R - Genetics (A00),SP24,3.04,6.11,4.22,4.2,4.47,96,0.7604000000000001
+1037,"Smith, Laurie",BICD 100R - Genetics (A00),S223,3.07,8.21,4.24,4.12,4.42,206,0.6796
+1038,"Greenspan, Ralph J.",BICD 104 - Genetic Neurobiology (A00),SP24,3.08,4.74,3.73,3.5,4.15,58,0.41380000000000006
+1039,"Muroyama, Andrew David",BICD 110 - Cell Biology (A00),SP24,3.1,6.45,4.2,4.17,4.52,251,0.7051999999999999
+1040,"Ernst, Andreas",BICD 110 - Cell Biology (B00),SP24,3.56,5.92,4.7,4.74,4.75,271,0.5646
+1041,"Grossman, Emily N",BICD 110 - Cell Biology (A00),WI24,3.42,5.79,4.39,4.29,4.54,255,0.7059000000000001
+1042,"Grossman, Emily N",BICD 110 - Cell Biology (A00),FA23,3.42,6.92,4.45,4.36,4.59,296,0.6081000000000001
+1043,"Cooper, Kimberly Lynn",BICD 112 - Stem Cells and Regeneration (A00),SP24,3.79,8.18,4.74,4.6,4.82,59,0.28809999999999997
+1044,"Zhao, Yunde",BICD 123 - Plant Mol Genetics&Biotech Lab (A00),SP24,3.97,4.17,4.5,4.36,4.77,32,0.375
+1045,"Perry, Michael William","BICD 130 - Embryos, Genes, & Development (A00)",FA23,3.14,6.93,4.27,4.1,4.48,169,0.7988
+1046,"Gustafson-Brown, Cindy",BICD 136 - AIDS Science and Society (A00),WI24,2.89,7.59,4.47,4.07,4.5,183,0.8579000000000001
+1047,"Gustafson-Brown, Cindy",BICD 136 - AIDS Science and Society (A00),S223,2.89,8.10,4.62,4.31,4.73,58,0.5
+1048,"Lu, Li-Fan",BICD 140 - Immunology (A00),SP24,3.13,7.57,4.32,4.06,4.4,147,0.3129
+1049,"Zuniga, Elina I",BICD 140 - Immunology (A00),FA23,2.46,9.13,3.9,3.55,3.97,157,0.3312
+1050,"Murre, Cornelis",BICD 145 - Lab in Molecular Medicine (A00),WI24,3.92,3.57,4.84,4.77,4.8,35,0.4
+1051,"Kryazhimskiy, Sergey A",BICD 156 - Population Genetics (A00),FA23,2.98,7.37,3.6,3.64,4.14,70,0.8571
+1052,"Bier, Ethan",BICD 158 - Active Genetics (A00),SP24,3.53,4.88,4.23,4.09,4.5,115,0.287
+1053,"Desai, Arshad",BICD 194 - Adv Topics-Cellular Dev (A00),SP24,3.94,3.10,4.78,4.65,4.61,27,0.7406999999999999
+1054,"Wilhelm, James E.",BICD 194 - Adv Topics-Cellular Dev (B00),SP24,4.0,3.60,4.53,4.35,4.49,24,0.4167
+1055,"Butler, Shannon Rhey",BIEB 102 - Intro Eclgy/Organisms&Habitats (A00),FA23,3.41,5.68,4.02,4.01,4.28,315,0.6729999999999999
+1056,"Butler, Shannon Rhey",BIEB 102 - Intro Eclgy/Organisms&Habitats (A00),S223,3.41,6.63,4.27,4.21,4.38,186,0.47850000000000004
+1057,"Butler, Shannon Rhey",BIEB 121 - Ecology Laboratory (A00),SP24,3.95,1.92,4.19,4.19,4.48,31,0.4194
+1058,"Butler, Shannon Rhey",BIEB 121 - Ecology Laboratory (B00),SP24,3.92,2.41,4.29,4.44,4.62,33,0.5152
+1059,"Butler, Shannon Rhey",BIEB 121 - Ecology Laboratory (A00),WI24,3.97,2.53,4.4,4.33,4.47,32,0.5313
+1060,"Holway, David A.",BIEB 121 - Ecology Laboratory (A00),FA23,3.82,5.50,4.9,4.9,4.89,32,0.3125
+1061,"Stockwell, Sarah R",BIEB 123 - Molculr Mthd/Evol & Ecol Lab (A00),WI24,3.69,4.80,4.91,4.85,4.81,35,0.5714
+1062,"Cleland, Elsa Eleanor",BIEB 126 - Plant Ecology (A00),S123,3.75,6.83,4.75,4.72,4.73,152,0.1974
+1063,"Holway, David A.",BIEB 128 - Insect Diversity (A00),WI24,2.72,5.00,4.62,4.43,4.65,97,0.3505
+1064,"Kurle, Carolyn M.",BIEB 130 - Marine Conservation Biology (A00),SP24,3.92,3.44,4.56,4.59,4.75,369,0.3279
+1065,"Barton, Andrew David",BIEB 134 - Intro/Biological Oceanography (A00),WI24,2.89,5.86,4.24,4.21,4.41,69,0.3043
+1066,"Shurin, Jonathan",BIEB 136GS - Tropical Field Ecology (A00),S123,3.99,9.00,4.78,4.28,4.85,24,0.4167
+1067,"Shurin, Jonathan",BIEB 137GS - Sea Turtle Eco/Conservation (A00),S123,4.0,9.00,4.95,4.89,5.0,24,0.20829999999999999
+1068,"Roy, Kaustuv",BIEB 140 - Biodiversity (A00),WI24,3.22,4.29,4.11,4.02,4.37,153,0.35950000000000004
+1069,"Petrie, Katherine Lynn",BIEB 146 - Genome Diversity and Dynamics (A00),SP24,3.65,4.67,4.54,4.51,4.61,394,0.7893000000000001
+1070,"Petrie, Katherine Lynn",BIEB 146 - Genome Diversity and Dynamics (A00),FA23,3.62,5.89,4.41,4.45,4.57,375,0.8107
+1071,"Rose, Noah Hartmann",BIEB 148 - Disease Ecology (A00),SP24,3.68,4.55,4.61,4.47,4.68,111,0.7928000000000001
+1072,"Chao, Lin",BIEB 150 - Evolution (A00),WI24,3.45,4.90,4.16,3.75,4.38,178,0.3315
+1073,"Wills, Christopher",BIEB 150 - Evolution (A00),S223,3.23,3.33,4.33,4.58,4.67,46,0.0652
+1074,"Kryazhimskiy, Sergey A",BIEB 152 - Evol of Infectious Diseases (A00),WI24,3.35,5.42,4.16,3.9,4.14,393,0.7634000000000001
+1075,"Meyer, Justin Raymond",BIEB 152 - Evol of Infectious Diseases (B00),FA23,3.19,6.73,4.26,4.03,4.31,403,0.34
+1076,"Stockwell, Sarah R",BIEB 154 - Evolutionary Inquiry (A00),SP24,2.82,7.24,4.13,4.0,4.5,44,0.5682
+1077,"Nieh, James Charles",BIEB 166 - Animal Behavior&Communication (A00),WI24,3.27,4.18,4.59,4.51,4.68,190,0.4368
+1078,"Cleland, Elsa Eleanor",BIEB 174 - Ecosystems and Global Change (A00),FA23,3.08,6.17,4.23,4.18,4.41,185,0.34590000000000004
+1079,"De Silva, Shermin",BIEB 176 - Bio of Conservation/Human Pred (A00),SP24,3.35,4.62,4.31,4.29,4.58,69,0.5507
+1080,"Roy, Kaustuv",BIEB 182 - Biology of Global Change (A00),SP24,3.06,5.62,4.78,4.73,4.78,57,0.2632
+1081,"Chao, Lin",BIEB 194 - Adv Topics-EBE (A00),WI24,3.97,1.86,4.73,4.57,4.85,22,0.3182
+1082,"Kurle, Carolyn M.",BIEB 194 - Adv Topics-EBE (A00),S223,4.0,5.83,4.96,4.76,4.91,16,0.375
+1083,"Patrick, Gentry",BILD 1 - The Cell (A00),SP24,2.84,5.13,4.46,4.49,4.61,101,0.3069
+1084,"Burg, Michael",BILD 1 - The Cell (B00),SP24,3.22,5.22,4.51,4.51,4.68,241,0.5851
+1085,"Pickett, Brooke Elizabeth",BILD 1 - The Cell (C00),SP24,2.58,5.50,4.36,4.3,4.57,231,0.7489
+1086,"Gonzalez Gamboa, Ivonne",BILD 1 - The Cell (D00),SP24,3.34,4.78,4.25,4.28,4.55,233,0.5107
+1087,"Owens, Melinda Tsao-Ying",BILD 1 - The Cell (A00),WI24,3.15,5.31,4.37,4.41,4.66,319,0.7116
+1088,"Owens, Melinda Tsao-Ying",BILD 1 - The Cell (B00),WI24,3.04,5.31,4.5,4.52,4.7,318,0.7358
+1089,"Madigan, Cressida Ariana",BILD 1 - The Cell (C00),WI24,3.63,4.49,4.08,4.11,4.36,327,0.685
+1090,"Cooper, Andrew Michael",BILD 1 - The Cell (A00),FA23,2.85,6.43,4.35,4.17,4.56,408,0.7794
+1091,"Cooper, Andrew Michael",BILD 1 - The Cell (B00),FA23,2.96,5.81,4.39,4.24,4.58,410,0.7805
+1092,"Meaders, Clara Leigh",BILD 1 - The Cell (C00),FA23,3.18,6.46,4.28,4.41,4.63,413,0.6295000000000001
+1093,"Blankenchip, Chelsea Lee",BILD 1 - The Cell (A00),S223,3.33,5.95,4.59,4.59,4.68,40,0.55
+1094,"Reuther, Keefe",BILD 1 - The Cell (B00),S223,3.03,5.83,4.11,4.07,4.68,-1,-0.01
+1095,"Pickett, Brooke Elizabeth",BILD 1 - The Cell (A00),S123,2.82,6.73,4.15,4.04,4.41,142,0.7817000000000001
+1096,"Meaders, Clara Leigh",BILD 1 - The Cell (B00),SP23,3.22,6.30,4.31,4.44,4.7,252,0.6389
+1097,"Cooper, Andrew Michael",BILD 1 - The Cell (C00),SP23,2.87,6.05,4.17,3.95,4.31,70,0.5429
+1098,"Reyes Gonzalez, Catalina",BILD 2 - Multicellular Life (A00),SP24,2.83,5.26,4.42,4.35,4.57,175,0.6629
+1099,"Reyes Gonzalez, Catalina",BILD 2 - Multicellular Life (B00),SP24,3.09,5.33,4.33,4.17,4.58,220,0.6681999999999999
+1100,"Park, Ji Young",BILD 2 - Multicellular Life (C00),SP24,3.15,5.03,4.54,4.48,4.66,193,0.8290000000000001
+1101,"Reyes Gonzalez, Catalina",BILD 2 - Multicellular Life (A00),WI24,2.79,4.80,4.22,4.17,4.55,221,0.543
+1102,"Su, Chih-Ying",BILD 2 - Multicellular Life (B00),WI24,2.75,5.07,4.17,4.0,4.45,68,0.7941
+1103,"Park, Ji Young",BILD 2 - Multicellular Life (C00),WI24,3.13,5.25,4.6,4.56,4.67,223,0.7668
+1104,"Schroeder, Julian I",BILD 2 - Multicellular Life (A00),FA23,3.11,5.75,4.04,4.08,4.53,187,0.7219
+1105,"Owens, Melinda Tsao-Ying",BILD 2 - Multicellular Life (B00),FA23,2.9,6.54,4.45,4.51,4.69,167,0.8144
+1106,"Park, Ji Young",BILD 2 - Multicellular Life (C00),FA23,3.12,6.13,4.46,4.42,4.65,69,0.7681
+1107,"Lebeaupin, Cynthia D",BILD 2 - Multicellular Life (A00),S123,3.64,7.46,4.5,4.42,4.68,158,0.4114
+1108,"Hammond, LaTisha Marie",BILD 3 - Organismic&Evolutionary Biol (A00),SP24,3.5,3.66,3.91,3.94,3.9,361,0.2992
+1109,"Stockwell, Sarah R",BILD 3 - Organismic&Evolutionary Biol (B00),SP24,3.11,4.31,4.34,4.28,4.55,341,0.6334000000000001
+1110,"Cooper, Kimberly Lynn",BILD 3 - Organismic&Evolutionary Biol (C00),SP24,2.71,4.76,4.1,4.01,4.55,312,0.75
+1111,"Hammond, LaTisha Marie",BILD 3 - Organismic&Evolutionary Biol (A00),WI24,3.34,3.41,3.95,3.89,3.99,395,0.36200000000000004
+1112,"Butler, Shannon Rhey",BILD 3 - Organismic&Evolutionary Biol (B00),WI24,3.15,4.29,3.73,3.67,4.29,389,0.5398
+1113,"Stockwell, Sarah R",BILD 3 - Organismic&Evolutionary Biol (A00),FA23,3.19,5.45,4.28,4.27,4.56,288,0.7292000000000001
+1114,"Stockwell, Sarah R",BILD 3 - Organismic&Evolutionary Biol (B00),FA23,3.15,5.62,4.29,4.29,4.55,294,0.7143
+1115,"Butler, Shannon Rhey",BILD 3 - Organismic&Evolutionary Biol (C00),FA23,3.16,5.73,3.75,3.65,4.34,282,0.7340000000000001
+1116,"Hammond, LaTisha Marie",BILD 3 - Organismic&Evolutionary Biol (D00),FA23,3.51,5.24,4.12,4.12,4.07,299,0.35119999999999996
+1117,"Butler, Shannon Rhey",BILD 3 - Organismic&Evolutionary Biol (A00),S223,3.32,6.82,3.91,3.82,4.29,169,0.503
+1118,"Balch, Deborah Perry",BILD 3 - Organismic&Evolutionary Biol (A00),S123,3.37,6.33,4.71,4.63,4.78,110,0.2727
+1119,"Ochoa Mikrut, Stacy Daniel",BILD 4 - Introductory Biology Lab (A00),SP24,3.74,3.32,4.32,4.45,4.6,58,0.7759
+1120,"Pickett, Brooke Elizabeth",BILD 4 - Introductory Biology Lab (B00),SP24,3.79,4.02,4.17,4.15,4.38,179,0.7989
+1121,"Gonzalez Gamboa, Ivonne",BILD 4 - Introductory Biology Lab (C00),SP24,3.98,3.62,4.62,4.5,4.58,61,0.6393
+1122,"Lo, Stanley M.",BILD 4 - Introductory Biology Lab (A00),WI24,3.77,3.61,4.11,4.21,4.5,190,0.6474
+1123,"Pickett, Brooke Elizabeth",BILD 4 - Introductory Biology Lab (B00),WI24,3.86,3.30,4.21,4.2,4.47,191,0.8586
+1124,"Reuther, Keefe",BILD 4 - Introductory Biology Lab (C00),WI24,3.87,3.42,4.5,4.46,4.71,191,0.6126
+1125,"Gonzalez Gamboa, Ivonne",BILD 4 - Introductory Biology Lab (D00),WI24,3.87,3.58,4.26,4.21,4.5,151,0.7020000000000001
+1126,"Reuther, Keefe",BILD 4 - Introductory Biology Lab (A00),FA23,3.77,5.22,4.35,4.3,4.59,190,0.7105
+1127,"Lo, Stanley M.",BILD 4 - Introductory Biology Lab (B00),FA23,3.86,5.30,4.07,4.16,4.47,378,0.7062999999999999
+1128,"Pickett, Brooke Elizabeth",BILD 4 - Introductory Biology Lab (D00),FA23,3.8,5.10,4.39,4.35,4.57,192,0.8125
+1129,"Reuther, Keefe",BILD 4 - Introductory Biology Lab (A00),S223,3.77,6.43,3.96,4.22,4.5,43,0.18600000000000003
+1130,"Mueller, Liam O'Connor",BILD 5 - Data Analysis/Design for Bio (A00),WI24,3.24,4.60,4.32,4.18,4.51,58,0.3448
+1131,"Reuther, Keefe",BILD 5 - Data Analysis/Design for Bio (A00),FA23,3.16,5.64,4.14,4.14,4.59,60,0.65
+1132,"Gustafson-Brown, Cindy",BILD 10 - Fundamental Concepts/Modrn Bio (A00),FA23,3.08,6.19,4.1,3.94,4.35,135,0.7778
+1133,"Gustafson-Brown, Cindy",BILD 10 - Fundamental Concepts/Modrn Bio (A00),S223,3.08,5.00,4.33,4.67,4.92,6,0.5
+1134,"Komiyama, Takaki",BILD 12 - Neurobiology and Behavior (A00),WI24,2.86,3.74,4.3,4.16,4.59,70,0.27140000000000003
+1135,"Rana, Brinda Kanti",BILD 20 - Human Genetics/Modern Society (A00),FA23,3.46,5.18,4.01,4.02,4.33,143,0.6014
+1136,"Gupta, Deepam",BILD 20 - Human Genetics/Modern Society (A00),S123,3.67,5.71,4.82,4.71,4.96,7,1.0
+1137,"Strause, Linda G.",BILD 22 - Human Nutrition (A00),WI24,3.42,3.30,4.42,4.46,4.61,297,0.4175
+1138,"Maita, Isabella Vincenza",BILD 26 - Human Physiology (A00),WI24,2.66,5.41,4.19,4.23,4.55,117,0.6838
+1139,"Ravishankar, Sumedha",BILD 30 - Biol of Plagues:Past & Present (A00),S123,3.91,5.00,5.0,4.96,4.96,9,0.6667000000000001
+1140,"Burg, Michael",BILD 32 - Intro to Cancer Biology (A00),FA23,3.27,5.63,4.53,4.51,4.68,242,0.7521
+1141,"Hammond, LaTisha Marie",BILD 60 - DEI in Relation to Human Bio (A00),SP24,3.51,2.76,4.18,3.88,3.76,65,0.2615
+1142,"Meharena, Hiruy Sibhatu",BILD 60 - DEI in Relation to Human Bio (A00),WI24,3.96,4.18,4.67,4.44,4.52,53,0.41509999999999997
+1143,"Rifkin, Scott","BILD 61 - Biology, Race, and Society (A00)",WI24,3.37,6.17,4.16,3.96,4.29,88,0.3523
+1144,"Juavinett, Ashley Lauren",BILD 62 - Intro to Python for Biologists (A00),WI24,3.62,4.33,4.28,4.25,4.43,91,0.6154000000000001
+1145,"Pogliano, Joseph",BILD 70 - Genomics Research Init Lab I (A00),FA23,3.99,5.00,4.91,4.87,4.78,30,0.5667
+1146,"Pogliano, Joseph",BILD 80 - Job Intern Prep:Job App (A00),FA23,3.85,5.00,4.5,4.42,4.44,49,0.449
+1147,"Pogliano, Joseph",BILD 81 - Job Intern Prep:Interview (A00),WI24,4.0,2.20,4.68,4.61,4.69,21,0.47619999999999996
+1148,"Pogliano, Joseph",BILD 83 - Business Comm for Bio Sci (A00),SP24,3.92,2.00,4.58,4.57,4.58,24,0.3333
+1149,"Pogliano, Joseph",BILD 84R - Career Exploration in Bio Sci (A00),FA23,3.9,5.00,4.5,4.38,4.51,110,0.4364
+1150,"Saier, Milton H.",BILD 87 - First-year Seminar (A00),SP24,,1.00,4.4,4.5,4.67,18,0.16670000000000001
+1151,"Saier, Milton H.",BILD 87 - First-year Seminar (A00),WI24,,1.29,4.59,4.69,4.62,15,0.4667
+1152,"Saier, Milton H.",BILD 87 - First-year Seminar (A00),FA23,,1.67,4.72,4.73,4.83,21,0.4286
+1153,"Saier, Milton H.",BILD 87 - First-year Seminar (B00),FA23,,3.75,4.43,4.39,4.56,18,0.44439999999999996
+1154,"Cooper, Andrew Michael",BIMM 100 - Molecular Biology (A00),SP24,3.23,5.46,4.54,4.32,4.52,317,0.9117000000000001
+1155,"Cooper, Andrew Michael",BIMM 100 - Molecular Biology (B00),SP24,3.11,5.80,4.53,4.35,4.59,232,0.9224
+1156,"Hao, Nan",BIMM 100 - Molecular Biology (A00),WI24,2.97,6.14,4.36,4.21,4.45,307,0.8534
+1157,"Akbari, Omar Sultan",BIMM 100 - Molecular Biology (B00),WI24,2.99,6.52,3.69,3.53,4.18,117,0.6752
+1158,"Lykke-Andersen, Jens",BIMM 100 - Molecular Biology (A00),FA23,3.08,6.86,4.47,4.31,4.63,239,0.6904000000000001
+1159,"Pruneda-Paz, Jose L.",BIMM 100 - Molecular Biology (B00),FA23,3.13,6.21,4.35,4.24,4.51,339,0.3658
+1160,"Moeller, Corinne Anne",BIMM 100 - Molecular Biology (A00),S223,3.34,7.56,4.38,4.38,4.71,136,0.3015
+1161,"Moeller, Corinne Anne",BIMM 100 - Molecular Biology (A00),S123,3.34,7.71,4.12,3.92,4.52,134,0.2612
+1162,"McDonnell, Lisa Marie",BIMM 101 - Recombinant DNA Techniques (A00),SP24,3.23,7.24,4.65,4.62,4.73,48,0.7083
+1163,"Day, Christopher D",BIMM 101 - Recombinant DNA Techniques (B00),SP24,3.43,6.46,4.32,4.07,4.37,93,0.2581
+1164,"Rusert, Jessica Marie",BIMM 101 - Recombinant DNA Techniques (C00),SP24,3.12,8.00,4.39,4.35,4.51,89,0.23600000000000002
+1165,"Meaders, Clara Leigh",BIMM 101 - Recombinant DNA Techniques (A00),WI24,3.71,5.62,4.65,4.67,4.77,48,0.8125
+1166,"Tour, Ella",BIMM 101 - Recombinant DNA Techniques (B00),WI24,3.67,6.05,4.29,4.33,4.59,52,0.40380000000000005
+1167,"Cooper, Andrew Michael",BIMM 101 - Recombinant DNA Techniques (C00),WI24,3.49,7.28,4.24,3.92,4.31,92,0.9348000000000001
+1168,"Rusert, Jessica Marie",BIMM 101 - Recombinant DNA Techniques (D00),WI24,3.24,8.05,4.1,3.95,4.29,92,0.4022
+1169,"Day, Christopher D",BIMM 101 - Recombinant DNA Techniques (A00),FA23,3.37,6.38,4.17,3.95,4.34,99,0.2929
+1170,"Grossman, Emily N",BIMM 101 - Recombinant DNA Techniques (C00),FA23,3.84,6.14,4.67,4.6,4.76,46,0.7609
+1171,"Rusert, Jessica Marie",BIMM 101 - Recombinant DNA Techniques (D00),FA23,3.25,7.35,4.38,4.39,4.72,93,0.36560000000000004
+1172,"McDonnell, Lisa Marie",BIMM 101 - Recombinant DNA Techniques (E00),FA23,3.71,7.81,4.61,4.56,4.8,45,0.3556
+1173,"McDonnell, Lisa Marie",BIMM 101 - Recombinant DNA Techniques (A00),S223,3.02,9.00,4.2,4.3,4.6,48,0.1042
+1174,"McDonnell, Lisa Marie",BIMM 101 - Recombinant DNA Techniques (B00),S223,3.48,9.69,4.65,4.5,4.78,47,0.3404
+1175,"Meaders, Clara Leigh",BIMM 101 - Recombinant DNA Techniques (A00),SP23,3.71,6.36,4.65,4.64,4.83,46,0.7173999999999999
+1176,"Day, Christopher D",BIMM 110 - Molecular Basis/Human Disease (A00),WI24,3.5,5.72,4.16,3.88,4.3,167,0.33530000000000004
+1177,"Tour, Ella",BIMM 110 - Molecular Basis/Human Disease (A00),FA23,3.18,5.71,4.33,4.28,4.58,196,0.35710000000000003
+1178,"Tat, John",BIMM 110 - Molecular Basis/Human Disease (A00),S223,3.22,7.43,4.29,4.11,4.36,96,0.7813
+1179,"Tat, John",BIMM 110 - Molecular Basis/Human Disease (A00),S123,3.22,7.73,4.38,4.18,4.43,88,0.7273000000000001
+1180,"Daugherty, Matthew Dorton",BIMM 114 - Virology (A00),WI24,2.79,5.90,4.48,4.28,4.53,144,0.7986
+1181,"Golden, Susan S.",BIMM 116R - Circadian Rhythms-Bio Clocks (A00),SP24,3.39,6.15,4.26,4.17,4.32,279,0.2186
+1182,"David, Michael",BIMM 118 - Pharmacology (A00),SP24,2.65,5.91,4.36,3.92,4.45,103,0.3301
+1183,"Pirino, Giorgia",BIMM 120 - Microbiology (A00),SP24,3.07,5.43,4.36,4.18,4.65,100,0.4
+1184,"Saier, Milton H.",BIMM 120 - Microbiology (B00),SP24,3.42,5.16,3.83,4.06,4.43,146,0.6233
+1185,"Golden, James W",BIMM 120 - Microbiology (A00),WI24,3.16,5.11,4.33,4.32,4.51,185,0.34049999999999997
+1186,"Gustafson-Brown, Cindy",BIMM 120 - Microbiology (A00),FA23,3.09,6.90,4.24,4.03,4.38,128,0.8438
+1187,"Spencer, Tara Clare Jewel",BIMM 120 - Microbiology (A00),S223,3.75,7.50,4.19,4.31,4.6,102,0.2157
+1188,"Pickett, Brooke Elizabeth",BIMM 120 - Microbiology (A00),S123,3.37,7.97,4.36,4.32,4.51,83,0.7831
+1189,"Pirino, Giorgia",BIMM 120 - Microbiology (A00),SP23,3.15,6.64,4.06,3.72,4.43,216,0.3287
+1190,"Gustafson-Brown, Cindy",BIMM 121 - Microbiology Laboratory (A00),SP24,3.19,7.43,4.28,4.0,4.42,86,0.8721
+1191,"Pirino, Giorgia",BIMM 121 - Microbiology Laboratory (B00),SP24,3.26,7.00,4.18,3.75,4.41,46,0.36960000000000004
+1192,"Park, Ji Young",BIMM 121 - Microbiology Laboratory (C00),SP24,3.71,4.73,4.8,4.82,4.92,48,0.3125
+1193,"Pickett, Brooke Elizabeth",BIMM 121 - Microbiology Laboratory (A00),WI24,3.9,4.64,4.72,4.67,4.76,48,0.9167000000000001
+1194,"Gustafson-Brown, Cindy",BIMM 121 - Microbiology Laboratory (B00),WI24,3.29,6.02,4.52,4.28,4.56,47,0.9148999999999999
+1195,"Pirino, Giorgia",BIMM 121 - Microbiology Laboratory (C00),WI24,3.16,7.02,4.03,3.72,4.37,95,0.6
+1196,"Petrie, Katherine Lynn",BIMM 121 - Microbiology Laboratory (A00),FA23,3.99,5.48,4.67,4.59,4.62,49,0.8571
+1197,"Pickett, Brooke Elizabeth",BIMM 121 - Microbiology Laboratory (B00),FA23,3.9,6.38,4.67,4.58,4.69,48,0.8333
+1198,"Pirino, Giorgia",BIMM 121 - Microbiology Laboratory (C00),FA23,3.16,7.16,4.2,3.98,4.57,91,0.5604
+1199,"Pirino, Giorgia",BIMM 121 - Microbiology Laboratory (C00),SP23,3.16,8.60,3.92,3.65,4.37,46,0.5435
+1200,"Russell, Alistair B",BIMM 122 - Microbial Genetics (A00),FA23,3.18,6.83,4.4,4.36,4.67,169,0.716
+1201,"Burg, Michael",BIMM 134 - Biology of Cancer (A00),SP24,3.23,5.56,4.38,4.22,4.53,352,0.6761
+1202,"Burg, Michael",BIMM 134 - Biology of Cancer (A00),WI24,3.29,6.16,4.38,4.26,4.58,386,0.7123999999999999
+1203,"Grant, Barry J",BIMM 143 - Bioinformatics Laboratory (A00),SP24,3.5,4.54,4.67,4.58,4.73,42,0.3095
+1204,"Bozinovic, Goran",BIMM 143 - Bioinformatics Laboratory (B00),SP24,3.65,5.24,4.71,4.48,4.58,43,0.4186
+1205,"Bozinovic, Goran",BIMM 143 - Bioinformatics Laboratory (A00),WI24,3.79,4.93,4.63,4.34,4.52,39,0.7436
+1206,"Grant, Barry J",BIMM 143 - Bioinformatics Laboratory (B00),WI24,3.8,5.62,4.35,4.35,4.65,39,0.3333
+1207,"Grant, Barry J",BIMM 143 - Bioinformatics Laboratory (A00),FA23,3.53,6.00,4.86,4.65,4.74,42,0.35710000000000003
+1208,"Bozinovic, Goran",BIMM 143 - Bioinformatics Laboratory (B00),FA23,3.64,6.67,4.55,4.18,4.32,42,0.5714
+1209,"Bozinovic, Goran",BIMM 143 - Bioinformatics Laboratory (B00),SP23,3.64,5.24,4.62,4.35,4.42,39,0.5385
+1210,"Diaz Gay, Marcos",BIMM 143 - Bioinformatics Laboratory (C00),SP23,3.36,6.00,4.62,4.59,4.64,34,0.29410000000000003
+1211,"Briggs, Steven",BIMM 172 - Genome Science (A00),WI24,3.78,4.58,4.76,4.57,4.73,49,0.6735
+1212,"Pevzner, Pavel Arkadjevich",BIMM 181 - Molecular Sequence Analysis (A00),WI24,3.09,16.21,4.35,3.59,4.15,59,0.4915
+1213,"Bafna, Vineet",BIMM 182 - Biological Databases (A00),SP24,3.33,8.11,4.28,4.08,4.4,53,0.1887
+1214,"Russell, Alistair B",BIMM 194 - Adv Topics-Molecular Bio (B00),SP24,3.97,2.43,4.94,4.84,4.93,26,0.30770000000000003
+1215,"Wildonger, Jill Cathleen",BIMM 194 - Adv Topics-Molecular Bio (D00),SP24,3.89,3.35,4.85,4.79,4.83,28,0.6071
+1216,"Akbari, Omar Sultan",BIMM 194 - Adv Topics-Molecular Bio (A00),WI24,3.9,3.24,4.28,4.06,4.51,21,0.8095
+1217,"Murre, Cornelis",BIMM 194 - Adv Topics-Molecular Bio (B00),WI24,4.0,3.00,4.82,4.77,4.77,25,0.32
+1218,"Lykke-Andersen, Jens",BIMM 194 - Adv Topics-Molecular Bio (C00),WI24,3.99,3.78,4.71,4.7,4.69,24,0.75
+1219,"Hasty, Jeff M",BIMM 194 - Adv Topics-Molecular Bio (D00),WI24,4.0,1.22,4.79,4.74,4.84,27,0.3704
+1220,"Hao, Nan",BIMM 194 - Adv Topics-Molecular Bio (E00),WI24,4.0,2.33,4.66,4.68,4.69,21,0.8571
+1221,"Karlseder, Jan",BIMM 194 - Adv Topics-Molecular Bio (A00),FA23,4.0,3.00,4.62,4.59,4.64,39,0.2564
+1222,"Golden, James W",BIMM 194 - Adv Topics-Molecular Bio (B00),FA23,4.0,5.00,4.55,4.35,4.55,26,0.3846
+1223,"Golden, Susan S.",BIMM 194 - Adv Topics-Molecular Bio (D00),FA23,4.0,5.00,4.7,4.59,4.65,33,0.303
+1224,"Allen, Eric",BIMM 194 - Adv Topics-Molecular Bio (E00),FA23,4.0,3.33,4.96,4.91,4.95,24,0.25
+1225,"Mayfield, Stephen P.",BIMM 194 - Adv Topics-Molecular Bio (F00),FA23,3.41,3.33,4.41,3.79,4.15,22,0.40909999999999996
+1226,"Augustine, Vineet",BIPN 100 - Human Physiology I (A00),SP24,3.38,5.57,4.54,4.53,4.67,127,0.8346
+1227,"George, Monique Leana",BIPN 100 - Human Physiology I (B00),SP24,3.55,5.59,4.32,4.22,4.46,211,0.8057
+1228,"Maita, Isabella Vincenza",BIPN 100 - Human Physiology I (C00),SP24,2.7,7.03,4.1,4.18,4.52,175,0.3543
+1229,"Bloodgood, Brenda Laurie",BIPN 100 - Human Physiology I (A00),WI24,3.22,6.49,4.42,4.32,4.64,345,0.8695999999999999
+1230,"Cooke, James Edward",BIPN 100 - Human Physiology I (B00),WI24,2.51,6.09,4.56,4.49,4.63,296,0.3074
+1231,"Maita, Isabella Vincenza",BIPN 100 - Human Physiology I (C00),WI24,2.55,7.15,4.17,4.12,4.44,143,0.6923
+1232,"Cooke, James Edward",BIPN 100 - Human Physiology I (A00),FA23,2.33,7.45,4.48,4.38,4.65,292,0.3425
+1233,"Maita, Isabella Vincenza",BIPN 100 - Human Physiology I (B00),FA23,2.6,7.67,4.06,4.06,4.41,138,0.43479999999999996
+1234,"Reyes Gonzalez, Catalina",BIPN 100 - Human Physiology I (C00),FA23,2.78,8.10,4.37,4.12,4.53,236,0.8686
+1235,"Park, Ji Young",BIPN 100 - Human Physiology I (A00),S223,3.2,7.85,4.41,4.28,4.63,238,0.8361000000000001
+1236,"Armour, Jon Christopher",BIPN 100 - Human Physiology I (A00),S123,2.22,8.18,4.36,4.3,4.56,47,0.23399999999999999
+1237,"Reyes Gonzalez, Catalina",BIPN 102 - Human Physiology II (A00),WI24,3.04,7.36,4.59,4.44,4.65,233,0.867
+1238,"Reyes Gonzalez, Catalina",BIPN 102 - Human Physiology II (A00),FA23,3.04,7.28,4.56,4.4,4.65,236,0.8729000000000001
+1239,"Vijapurkar, Ulka",BIPN 102 - Human Physiology II (A00),S223,2.88,7.75,4.08,4.0,4.36,41,0.4878
+1240,"Armour, Jon Christopher",BIPN 105 - Human Physiology Lab (A00),SP24,2.99,12.66,4.61,4.43,4.76,80,0.3625
+1241,"Armour, Jon Christopher",BIPN 105 - Human Physiology Lab (A00),WI24,3.04,13.44,4.61,4.24,4.68,79,0.3165
+1242,"Armour, Jon Christopher",BIPN 105 - Human Physiology Lab (A00),FA23,3.06,10.00,4.64,4.33,4.79,78,0.30770000000000003
+1243,"Reyes Gonzalez, Catalina",BIPN 106 - Comparative Physiology (A00),S223,2.78,6.43,4.28,4.2,4.5,45,0.4667
+1244,"Hampton, Randolph Y.",BIPN 108 - Biology and Med of Exercise (A00),WI24,3.72,4.12,4.39,4.26,4.59,327,0.7706000000000001
+1245,"Cooke, James Edward",BIPN 120 - Endocrinology (A00),SP24,3.36,5.85,4.72,4.71,4.72,301,0.3787
+1246,"Cooke, James Edward",BIPN 134 - Human Reproduction (A00),WI24,3.05,5.80,4.71,4.6,4.72,387,0.44439999999999996
+1247,"Cooke, James Edward",BIPN 134 - Human Reproduction (A00),S223,3.03,7.63,4.62,4.59,4.75,76,0.5
+1248,"Hibbs, Ryan E.",BIPN 140 - Cellular Neurobiology (A00),SP24,2.97,5.89,4.45,4.37,4.59,175,0.7543000000000001
+1249,"Lovett-Barron, Matthew Rod",BIPN 140 - Cellular Neurobiology (A00),WI24,3.07,5.54,4.5,4.44,4.62,150,0.6933
+1250,"Owens, Melinda Tsao-Ying",BIPN 140 - Cellular Neurobiology (A00),FA23,3.38,8.53,4.34,4.39,4.68,187,0.8556
+1251,"Zou, Yimin",BIPN 144 - Developmental Neurobiology (A00),SP24,3.07,7.14,4.32,4.16,4.48,87,0.41380000000000006
+1252,"Maita, Isabella Vincenza",BIPN 145 - Neurobiology Laboratory (A00),SP24,3.58,5.72,4.75,4.76,4.73,42,0.5952000000000001
+1253,"Marino, Marc J",BIPN 145 - Neurobiology Laboratory (B00),SP24,3.72,6.47,4.59,4.43,4.73,74,0.4054
+1254,"Juavinett, Ashley Lauren",BIPN 145 - Neurobiology Laboratory (A00),WI24,3.52,6.47,4.73,4.57,4.78,42,0.35710000000000003
+1255,"Marino, Marc J",BIPN 145 - Neurobiology Laboratory (B00),WI24,3.75,6.76,4.72,4.56,4.77,80,0.525
+1256,"Marino, Marc J",BIPN 145 - Neurobiology Laboratory (A00),FA23,3.55,7.00,4.58,4.51,4.66,55,0.5455
+1257,"Juavinett, Ashley Lauren",BIPN 145 - Neurobiology Laboratory (B00),FA23,3.57,8.82,4.6,4.59,4.78,41,0.4146
+1258,"Juavinett, Ashley Lauren",BIPN 145 - Neurobiology Laboratory (A00),SP23,3.52,9.44,4.5,4.44,4.47,42,0.2143
+1259,"Sejnowski, Terrence J",BIPN 147 - Computational Systems Neurobio (A00),SP24,3.55,5.00,3.97,3.66,4.08,55,0.3636
+1260,"Leutgeb, Jill K.",BIPN 148 - Cellular Basis Learning&Memory (A00),S123,3.52,8.06,4.65,4.51,4.62,53,0.3396
+1261,"Zou, Yimin",BIPN 150 - Diseases of the Nervous System (A00),FA23,3.33,6.00,4.32,4.25,4.57,160,0.3125
+1262,"Halpain, Shelley",BIPN 152 - Healthy and Diseased Brain (A00),SP24,3.26,5.84,3.88,3.49,4.05,162,0.4753
+1263,"Lim, Byungkook",BIPN 154 - Neuro Stress & Mental Disorder (A00),WI24,2.66,6.20,3.77,3.42,3.92,71,0.4366
+1264,"Root, Cory Matthew",BIPN 160 - Neuroanatomy (A00),WI24,3.7,6.62,4.36,4.34,4.55,192,0.7759999999999999
+1265,"Marino, Marc J",BIPN 160 - Neuroanatomy (A00),S123,3.57,7.96,4.35,4.22,4.58,60,0.45
+1266,"Juavinett, Ashley Lauren",BIPN 162 - Neural Data Science (A00),SP24,3.54,6.56,4.15,4.2,4.48,41,0.2439
+1267,"Benna, Marcus K",BIPN 164 - Comp Models in Neuro (A00),SP24,3.0,7.29,4.93,4.82,4.96,13,0.5385
+1268,"Gentner, Tim","BIPN 189 - Brain, Behavior, and Evolution (A00)",FA23,3.5,6.36,4.32,4.23,4.54,30,0.7333
+1269,"Glasgow, Stacey Marie",BIPN 194 - Adv Topics-Phys/Neuro (A00),SP24,3.99,4.38,4.83,4.79,4.81,22,0.5909000000000001
+1270,"Jin, Yishi",BIPN 194 - Adv Topics-Phys/Neuro (A00),WI24,4.0,5.00,4.75,4.5,4.7,7,0.8571
+1271,"Ackerman, Susan",BIPN 194 - Adv Topics-Phys/Neuro (B00),WI24,3.84,4.75,4.78,4.26,4.55,19,0.42110000000000003
+1272,"Meharena, Hiruy Sibhatu",BIPN 194 - Adv Topics-Phys/Neuro (C00),WI24,3.95,4.71,4.79,4.22,4.59,9,0.7778
+1273,"Banghart, Matthew Ryan",BIPN 194 - Adv Topics-Phys/Neuro (D00),WI24,3.91,4.82,4.75,4.63,4.63,17,0.6470999999999999
+1274,"Su, Chih-Ying",BIPN 194 - Adv Topics-Phys/Neuro (E00),WI24,4.0,5.40,4.75,4.8,4.74,7,0.7143
+1275,"Pekkurnaz Banghart, Gulcin",BIPN 194 - Adv Topics-Phys/Neuro (A00),FA23,3.82,6.43,4.64,4.36,4.32,17,0.4118
+1276,"Leutgeb, Stefan",BIPN 194 - Adv Topics-Phys/Neuro (A00),S123,4.0,9.00,4.8,4.8,4.75,7,0.7143
+1277,"French, Kathleen Ann",BISP 170 - Bioscholars Seminar (A00),SP24,3.54,3.00,3.69,3.55,4.14,27,0.3333
+1278,"Chisholm, Andrew D.",BISP 194 - Adv Topics in Modern Biology (A00),SP24,4.0,4.43,4.82,4.56,4.59,24,0.2917
+1279,"Farley, Emma Kristen",BISP 194 - Adv Topics in Modern Biology (B00),SP24,4.0,4.38,4.94,4.9,4.94,21,0.619
+1280,"Newsam, John",BISP 194 - Adv Topics in Modern Biology (A00),WI24,3.99,3.38,4.38,4.21,4.39,24,0.6667000000000001
+1281,"Rifkin, Scott",BISP 194 - Adv Topics in Modern Biology (B00),WI24,3.38,3.50,4.38,4.0,4.67,15,0.26670000000000005
+1282,"Wertheim, Joel Okrent",BISP 194 - Adv Topics in Modern Biology (A00),FA23,3.83,5.38,4.52,4.56,4.83,28,0.4643
+1283,"Muroyama, Andrew David",BISP 194 - Adv Topics in Modern Biology (B00),FA23,3.91,5.00,4.59,4.55,4.68,25,0.4
+1284,"Jindal, Granton Adarsh",BISP 194 - Adv Topics in Modern Biology (A00),S223,3.98,6.00,4.65,4.8,5.0,12,0.4167
+1285,"Nieh, James Charles",BISP 194 - Adv Topics in Modern Biology (A00),S123,3.97,5.00,4.75,4.6,4.66,34,0.3235
+1286,"Jindal, Granton Adarsh",BISP 194 - Adv Topics in Modern Biology (B00),S123,3.96,5.00,4.83,4.83,5.0,14,0.4286
+1287,"Antonovics, Kate L.",SEV 20 - First-Year Honors Seminar (A00),WI24,,1.11,4.7,4.71,4.8,31,0.6452
+1288,"Antonovics, Kate L.",SEV 20 - First-Year Honors Seminar (A00),SP23,,0.63,4.56,4.65,4.73,27,0.2963
+1289,"Polonik, Pascal",CCS 101 - Carbon Neutrality at UC (A00),FA23,3.81,5.00,4.63,4.66,4.7,27,0.5556
+1290,"Werner, Bradley T.",CCS 102 - Research Persp/Climate Change (A00),WI24,3.97,2.50,4.69,4.63,4.92,22,0.3636
+1291,"Gabriel, Corey John",CCS 123 - Policy\Politics Climate Change (A00),WI24,3.99,4.14,4.59,4.57,4.65,25,0.56
+1292,"Stegman, David",SIO 1 - The Planets (A00),WI24,3.27,3.89,4.1,4.07,4.33,121,0.39670000000000005
+1293,"Aburto Oropeza, Marco Octavio",SIO 3 - Life in the Oceans (A00),WI24,3.34,2.88,4.31,4.18,4.52,143,0.34270000000000006
+1294,"Borsa, Adrian Antal",SIO 10 - The Earth (A00),SP24,3.39,3.37,4.54,4.51,4.63,588,0.2534
+1295,"Cook, Geoffrey W",SIO 10 - The Earth (A00),S223,3.77,6.54,4.36,4.41,4.48,85,0.1529
+1296,"Peach, Cheryl",SIO 12 - History of Earth & Evolution (A00),FA23,3.48,5.19,4.52,4.53,4.6,154,0.3442
+1297,"Laske, Gabi",SIO 15 - Natural Disasters (A00),FA23,3.62,5.55,4.28,4.34,4.49,346,0.289
+1298,"Gee, Jeffrey S",SIO 16 - Geology of the National Parks (A00),SP24,2.68,4.45,4.43,4.43,4.58,108,0.3796
+1299,"Russell, Lynn M.",SIO 20R - The Atmosphere (A00),WI24,3.6,3.63,4.46,4.42,4.47,128,0.6718999999999999
+1300,"Rivera-Collazo, Isabel C",SIO 25 - Climate Change and Society (A00),WI24,3.7,3.20,4.33,4.29,4.47,135,0.763
+1301,"Gille, Sarah T",SIO 30 - The Oceans (A00),FA23,3.21,5.00,4.16,4.14,4.42,140,0.3786
+1302,"Barbeau, Katherine",SIO 40 - Life and Climate on Earth (A00),FA23,3.34,5.41,4.24,4.24,4.5,141,0.9433
+1303,"Cook, Geoffrey W",SIO 45 - Volcanoes (A00),WI24,3.75,2.65,4.67,4.61,4.73,136,0.4338
+1304,"Cook, Geoffrey W",SIO 45 - Volcanoes (A00),S223,3.75,5.28,4.57,4.55,4.64,100,0.19
+1305,"Cook, Geoffrey W",SIO 46GS - Global Volcanism (A00),S123,3.99,5.24,4.82,4.83,4.8,28,0.75
+1306,"Cook, Geoffrey W",SIO 50 - Intro to Physical Geology (A00),SP24,3.36,4.31,4.6,4.57,4.61,45,0.7111
+1307,"Cook, Geoffrey W",SIO 50 - Intro to Physical Geology (A00),FA23,3.44,5.38,4.85,4.81,4.82,43,0.6047
+1308,"Cook, Geoffrey W",SIO 50 - Intro to Physical Geology (A00),SP23,3.44,5.53,4.8,4.71,4.72,43,0.44189999999999996
+1309,"Ricke, Katharine L",SIO 60 - Exp/Oceanic & Atmospheric Sci (A00),FA23,3.54,8.00,4.8,4.54,4.83,27,0.3704
+1310,"Cook, Geoffrey W",SIO 65 - Geosciences Seminar (A00),WI24,,1.00,4.81,4.79,4.83,23,0.39130000000000004
+1311,"Norris, Richard D.",SIO 75 - Geological History of Earth (A00),SP24,3.6,4.33,4.77,4.75,4.82,35,0.4286
+1312,"Feddersen, Falk",SIO 87 - First-year Seminar (A00),SP24,,1.00,4.45,4.4,-1.0,18,0.16670000000000001
+1313,"Cook, Geoffrey W",SIO 87 - First-year Seminar (B00),SP24,,1.00,5.0,4.97,4.97,18,0.44439999999999996
+1314,"Cook, Geoffrey W",SIO 87 - First-year Seminar (C00),SP24,,1.00,4.86,4.76,4.84,19,0.36840000000000006
+1315,"Aburto Oropeza, Marco Octavio",SIO 87 - First-year Seminar (A00),WI24,,1.33,4.23,4.19,4.46,18,0.6667000000000001
+1316,"Cook, Geoffrey W",SIO 87 - First-year Seminar (B00),WI24,,1.00,4.9,4.84,4.86,20,0.5
+1317,"Norris, Joel Roland",SIO 87 - First-year Seminar (A00),FA23,,2.50,4.54,4.39,4.57,13,0.6154000000000001
+1318,"Cook, Geoffrey W",SIO 87 - First-year Seminar (B00),FA23,,2.00,4.74,4.69,4.69,17,0.5882000000000001
+1319,"Cook, Geoffrey W",SIO 87 - First-year Seminar (C00),FA23,,0.71,4.8,4.89,4.72,19,0.36840000000000006
+1320,"Cook, Geoffrey W",SIO 87 - First-year Seminar (B00),SP23,,2.50,4.91,5.0,4.9,12,0.5
+1321,"Cook, Geoffrey W",SIO 87 - First-year Seminar (C00),SP23,,3.75,4.81,4.8,4.83,14,0.5714
+1322,"Gangrade, Shailja Daphne",SIO 90 - Undergraduate Seminar (A00),SP24,,1.27,4.66,4.7,4.77,67,0.6716
+1323,"Kunselman, Emily Jane",SIO 90 - Undergraduate Seminar (A00),FA23,,0.91,4.71,4.62,4.72,67,0.4925
+1324,"Norris, Richard D.",SIO 100 - Geological Field Methods (A00),FA23,3.52,8.00,4.3,4.0,4.39,30,0.5
+1325,"Day, James M.D.",SIO 102 - Introduction to Geochemistry (A00),WI24,3.56,5.18,4.58,4.54,4.7,29,0.41380000000000006
+1326,"Parnell-Turner, Ross Ernes",SIO 103 - Introduction to Geophysics (A00),FA23,2.9,7.27,4.26,4.25,4.4,30,0.7333
+1327,"Driscoll, Neal W.",SIO 105 - Sedimentology & Stratigraphy (A00),FA23,3.7,6.00,4.25,3.9,4.3,26,0.1923
+1328,"Schartup, Amina Bocary",SIO 107 - Water Pollution (A00),WI24,3.33,4.00,4.33,4.15,4.43,25,0.48
+1329,"Charles, Christopher D.",SIO 108 - Paleoclimatology (A00),FA23,3.21,5.56,3.78,3.46,4.4,20,0.45
+1330,"Forman, Fonna",SIO 109R - Bending/Curve: Climate Change (A00),S223,3.67,5.00,5.0,5.0,5.0,20,0.15
+1331,"Batchelor, Heidi Ann",SIO 110 - Intro GIS & GPS for Scientists (A00),FA23,3.98,5.00,4.89,4.84,4.71,31,0.4516
+1332,"Feddersen, Falk",SIO 111 - Introduction to Ocean Waves (A00),WI24,2.34,7.80,3.38,3.74,4.16,20,0.5
+1333,"May, David Alexander",SIO 113 - Comp & Data Analysis in Geosci (A00),SP24,3.2,7.29,4.37,4.25,4.5,36,0.3889
+1334,"Fricker, Helen A.",SIO 115 - Ice and the Climate System (A00),WI24,3.36,4.36,4.41,4.2,4.5,30,0.7667
+1335,"Keeling, Ralph F.",SIO 117 - Physical Basis/Global Warming (A00),FA23,3.33,5.31,4.42,4.28,4.48,37,0.4324
+1336,"Send, Uwe",SIO 119 - Physics and Chem of the Oceans (A00),WI24,3.23,4.93,4.1,3.72,4.5,116,0.2328
+1337,"Cook, Geoffrey W",SIO 120 - Mineralogy (A00),WI24,3.59,3.12,4.75,4.6,4.81,25,0.68
+1338,"Bowman, Jeff Shovlowsky",SIO 121 - Biology of the Cryosphere (A),SP22,,2.97 (B-),3.0,-1.0,-1.0,-1,-0.01
+1339,"Jones, Joshua Mason",SIO 121 - Biology of the Cryosphere (A),SP22,,2.97 (B-),3.0,-1.0,-1.0,-1,-0.01
+1340,"Bowman, Jeff Shovlowsky",SIO 121 - Biology of the Cryosphere (A),FA18,,-1,2.94,-1.0,-1.0,-1,-0.01
+1341,"Bowman, Jeff Shovlowsky",SIO 121 - Biology of the Cryosphere (A),SP18,,3.13 (B),3.1,-1.0,-1.0,-1,-0.01
+1342,"Cook, Geoffrey W",SIO 121GS - Geology of the Alps (A00),S123,3.96,5.22,4.85,4.87,4.85,28,0.8214
+1343,"Lyons, Deirdre Colleen",SIO 122 - Ecological Developmental Bio (A00),FA23,3.86,8.75,4.23,4.08,4.66,24,0.6667000000000001
+1344,"Allen, Andrew Ellis",SIO 123 - Microbial Env Systems Biology (A00),WI24,3.64,3.75,4.32,4.0,4.4,21,0.7619
+1345,"Jensen, Paul R.",SIO 124 - Marine Natural Products (A00),FA23,2.82,5.50,4.22,4.03,4.38,64,0.3125
+1346,"Palenik, Brian",SIO 126 - Marine Microbiology (A00),WI24,3.12,4.47,4.23,4.25,4.49,42,0.35710000000000003
+1347,"Bartlett, Douglas H",SIO 128 - Microbial Life in Extreme Env. (A00),SP24,2.8,4.33,4.42,4.35,4.7,102,0.2451
+1348,"Bartlett, Douglas H",SIO 128 - Microbial Life in Extreme Env. (A00),SP23,2.72,5.69,3.97,3.61,4.3,108,0.2685
+1349,"Hechinger, Ryan F.",SIO 132 - Introduction to Marine Biology (A00),FA23,3.09,5.42,4.47,4.24,4.5,183,0.3333
+1350,"Russell, Tamara Michel",SIO 132 - Introduction to Marine Biology (A00),S123,3.54,6.25,4.94,4.91,4.91,22,0.3636
+1351,"Baumann-Pickering , Simone",SIO 133 - Marine Mammal Biology (A00),WI24,3.66,4.22,4.64,4.51,4.64,130,0.3923
+1352,"Barton, Andrew David",SIO 134 - Intro/Biological Oceanography (A00),WI24,3.03,4.58,4.61,4.41,4.58,172,0.2791
+1353,"Fricker, Helen A.",SIO 135 - Satellite Remote Sensing (A00),SP24,3.45,6.25,3.66,3.63,4.23,34,0.2353
+1354,"Kacev, David",SIO 136 - Marine Biology Laboratory (A00),SP24,3.52,5.90,4.62,4.54,4.71,69,0.7245999999999999
+1355,"Kacev, David",SIO 136 - Marine Biology Laboratory (A00),FA23,3.59,6.79,4.78,4.56,4.72,62,0.8548
+1356,"Petrik, Colleen Mary",SIO 137 - Ecosystems & Fisheries (A00),FA23,3.15,7.00,3.23,2.25,3.58,45,0.44439999999999996
+1357,"Kacev, David",SIO 139 - Current Research in Marine Bio (A00),SP24,,2.69,4.73,4.66,4.82,65,0.49229999999999996
+1358,"Palenik, Brian",SIO 139 - Current Research in Marine Bio (A00),WI24,,3.36,3.89,4.1,4.56,30,0.3667
+1359,"Kacev, David",SIO 139 - Current Research in Marine Bio (A00),S123,,5.00,4.67,4.63,4.67,26,0.23079999999999998
+1360,"Pomeroy, Robert S.",SIO 141 - Chem Prin of Marine Systems (A00),SP24,3.14,5.00,4.75,4.42,4.42,7,0.4286
+1361,"Andersson, Andreas Jerry",SIO 143 - Ocean Acidification (A00),SP24,3.17,5.50,4.72,4.72,4.74,34,0.2353
+1362,"Castillo, Paterno R.",SIO 144 - Intro to Isotope Geochemistry (A),WI17,,-1,4.0,-1.0,-1.0,-1,-0.01
+1363,"Severinghaus, Jeffrey P.",SIO 144 - Intro to Isotope Geochemistry (A),WI17,,-1,4.0,-1.0,-1.0,-1,-0.01
+1364,"Choy, Carolyn Anela",SIO 145 - Intro Field Method Bio Ocean (A00),SP24,3.4,6.78,4.94,4.69,4.82,18,1.0
+1365,"Lyons, Deirdre Colleen",SIO 146 - Cell and Dev. Bio. Lab (A00),WI24,3.98,8.33,4.42,4.0,4.0,24,0.125
+1366,"Van Allen, Emily Joyce",SIO 152 - Petrology and Petrography (A00),SP24,3.4,7.40,4.1,4.1,4.35,8,0.625
+1367,"Capaldi, Tomas",SIO 153 - Geomorphology (A00),SP24,3.36,5.92,4.79,4.71,4.79,17,0.7647
+1368,"Stegman, David",SIO 160 - Intro to Global Tectonics (A00),SP24,3.3,4.00,4.31,3.89,4.14,23,0.43479999999999996
+1369,"Fialko, Yuri A.",SIO 160 - Intro to Global Tectonics (A00),SP23,3.2,5.77,4.29,4.25,4.42,24,0.5417000000000001
+1370,"Fan, Wenyuan",SIO 161 - Seismology (A00),WI24,3.21,5.00,4.7,4.7,4.9,8,0.625
+1371,"Wright, Vanshan",SIO 162 - Structural Geology (A00),WI24,2.92,6.09,4.35,4.31,4.64,12,1.0
+1372,"Rodriguez, Eric Andrew",SIO 164 - Underwater Archaeology (A00),SP24,3.69,3.80,4.53,4.62,4.73,44,0.5682
+1373,"Cantu, Katrina Marie",SIO 166 - Environmental Archaeology (A00),FA23,3.64,5.00,4.06,4.19,4.59,22,0.3636
+1374,"Cook, Geoffrey W",SIO 170 - Volcanology (A00),FA23,3.74,5.25,4.78,4.85,4.81,27,0.7406999999999999
+1375,"Rudnick, Daniel Lars",SIO 171 - Intro to Physical Oceanography (A00),FA23,3.53,6.36,4.8,4.64,4.84,28,0.3929
+1376,"Norris, Joel Roland",SIO 172 - Physics of the Atmosphere (A00),WI24,3.57,5.00,4.52,4.33,4.56,23,0.5217
+1377,"Lutsko, Nicholas J.",SIO 173 - Dynamics of Atmos & Climate (A00),SP24,3.34,6.33,4.25,4.17,4.48,22,0.6818000000000001
+1378,"Aluwihare, Lihini",SIO 174 - Chemistry of Atmosph and Ocean (A00),SP24,2.99,6.56,4.27,4.21,4.44,23,0.8261000000000001
+1379,"Russell, Lynn M.",SIO 174 - Chemistry of Atmosph and Ocean (A00),SP23,2.96,5.67,4.48,4.56,4.74,26,0.5769
+1380,"Merrifield, Mark A",SIO 175 - Analysis Ocean/Atmosph Data (A00),FA23,3.56,8.57,4.89,4.79,4.86,25,0.28
+1381,"Straneo, Fiammetta",SIO 176 - Observ Physical Oceanography (A00),WI24,3.62,5.86,4.73,4.75,4.68,24,0.5833
+1382,"Becker, Janet Maria",SIO 177 - Fluid Dynamics (A00),FA23,3.39,10.00,5.0,4.83,4.83,12,0.25
+1383,"Becker, Janet Maria",SIO 178 - Geophysical Fluid Dynamics (A00),WI24,3.73,8.20,4.85,5.0,5.0,12,0.4167
+1384,"Martz, Todd R.",SIO 179 - Ocean Instruments and Sensors (A00),FA23,4.0,4.38,4.91,4.74,4.71,13,0.6154000000000001
+1385,"Tresguerres, Martin",SIO 181 - Marine Biochemistry (A00),SP24,3.44,3.70,4.68,4.62,4.7,147,0.2993
+1386,"Constable, Steven C",SIO 182 - Envr & Exploration Geophysics (A00),WI24,3.94,6.60,4.95,4.65,4.65,10,0.5
+1387,"Smith, Jennifer",SIO 183 - Phycology: Marine Plant Biolgy (B00),WI24,3.54,8.05,4.61,4.19,4.56,60,0.3333
+1388,"Rouse, Gregory W.",SIO 184 - Marine Invertebrates (A00),WI24,3.09,7.31,4.66,4.35,4.62,36,0.8056000000000001
+1389,"Gilbert, Jack Anthony",SIO 186 - Microbiomes Across Environmnts (A00),FA23,3.56,5.00,4.67,4.67,4.8,15,0.2
+1390,"Kacev, David",SIO 187 - Stat Methods in Marine Biology (A00),WI24,3.54,5.91,4.78,4.75,4.8,109,0.3119
+1391,"Kacev, David",SIO 187 - Stat Methods in Marine Biology (A00),S223,3.51,6.67,4.58,4.58,4.87,39,0.15380000000000002
+1392,"Gaasterland, Theresa",SIO 190 - Special Topic/Earth/Ocean/Atmo (A00),FA23,3.74,5.00,4.35,4.06,4.82,16,0.3125
+1393,"Gerwick, William Henry",SIO 192 - Senior Seminar/SIOceanogrphy (A00),SP24,,2.50,5.0,4.85,4.87,5,0.8
+1394,"Bronstein, Phoebe Malan",SXTH 1 - First Year Experience (A00),FA23,,3.78,4.44,4.52,4.82,42,0.881
+1395,"Chambers, Christina D",SPPH 161R - Introduction/Clin Teratology (A00),SP24,4.0,4.00,4.81,4.78,4.78,24,0.3333
+1396,"Kernell, Samuel H.",SOCE 194 - Research Seminar/Washington DC (A),SP14,,-1,3.5,-1.0,-1.0,-1,-0.01
+1397,"Kernell, Samuel H.",SOCE 194   - Research Seminar/Washington DC (A),SP11,,3.57 (B+),7.3,-1.0,-1.0,-1,-0.01
+1398,"Kernell, Samuel H.",SOCE 194   - Research Seminar/Washington DC (A),WI11,,3.30 (B+),3.83,-1.0,-1.0,-1,-0.01
+1399,"Kernell, Samuel H.",SOCE 194 - Research Seminar/Washington DC (A),FA10,,3.00 (B),4.5,-1.0,-1.0,-1,-0.01
+1400,"Kernell, Samuel H.",SOCE 194 - Research Seminar/Washington DC (A),WI10,,3.00 (B),2.5,-1.0,-1.0,-1,-0.01
+1401,"Rogers, Julia Ellen",SOCI 1 - Introduction to Sociology (A00),WI24,3.35,4.18,4.41,4.29,4.43,171,0.3041
+1402,"Skrentny, John David",SOCI 1 - Introduction to Sociology (A00),FA23,3.55,4.84,4.69,4.58,4.67,244,0.5041
+1403,"Thorpe, Charles Robert",SOCI 1 - Introduction to Sociology (A00),S223,3.41,7.39,3.55,3.43,4.02,36,1.8611000000000002
+1404,"Rogers, Julia Ellen",SOCI 2 - The Study of Society (A00),SP24,3.51,4.23,4.52,4.47,4.58,131,0.22899999999999998
+1405,"Raudenbush, Danielle",SOCI 2 - The Study of Society (A00),WI24,3.51,3.23,4.54,4.48,4.62,241,0.3237
+1406,"Thorpe, Charles Robert",SOCI 2 - The Study of Society (A00),S123,3.32,8.00,4.1,3.97,4.31,48,0.20829999999999999
+1407,"Calderon-Zaks, Michael Aar",SOCI 20 - Social Change/Modern World (A00),SP24,3.81,3.96,4.06,4.14,4.43,66,0.7879
+1408,"Ruiz, Jonathan Joseph","SOCI 30 - Science, Technology & Society (A00)",WI24,3.28,4.20,3.84,3.92,4.45,58,0.4483
+1409,"Rogers, Julia Ellen","SOCI 30 - Science, Technology & Society (A00)",FA23,3.08,5.15,4.3,4.21,4.35,66,0.5152
+1410,"Pardo Guerra, Juan Pablo","SOCI 30 - Science, Technology & Society (A00)",S223,3.02,6.67,4.25,4.25,4.27,30,0.1
+1411,"Raudenbush, Danielle",SOCI 40 - Sociology/Health Care Issues (A00),SP24,3.52,4.09,4.59,4.54,4.67,198,0.2929
+1412,"Skrentny, John David",SOCI 50 - Introduction to Law & Society (A00),WI24,3.53,3.72,4.62,4.39,4.51,117,0.3419
+1413,"Sutton, April Marie",SOCI 60 - Practice of Social Research (A00),SP24,3.19,3.21,4.08,4.15,4.25,122,0.2377
+1414,"Payne, Christine Anna",SOCI 60 - Practice of Social Research (A00),WI24,3.67,3.00,4.75,4.75,4.73,62,0.3226
+1415,"Ribas Norris, Janet Vanesa",SOCI 60 - Practice of Social Research (A00),FA23,3.49,6.09,4.14,4.26,4.58,117,0.5982999999999999
+1416,"Lopez Ricoy, Ana Eugenia",SOCI 60 - Practice of Social Research (A00),S123,3.3,5.59,4.46,4.53,4.72,32,0.5313
+1417,"Lewis, Kevin Michael",SOCI 70 - Gen Soc for Pre-Med Students (A00),WI24,3.65,3.34,4.66,4.51,4.67,115,0.3565
+1418,"Estefan, Michel",SOCI 90 - Sociology Connect (A00),FA23,,4.50,4.87,4.83,4.84,20,1.0
+1419,"Payne, Christine Anna",SOCI 100 - Classical Sociological Theory (A00),SP24,3.69,4.90,4.83,4.8,4.82,112,0.3661
+1420,"Goldman, Harvey Stern",SOCI 100 - Classical Sociological Theory (A00),WI24,2.21,5.29,3.4,3.51,4.27,49,0.2857
+1421,"Estefan, Michel",SOCI 100 - Classical Sociological Theory (A00),FA23,3.37,5.74,4.7,4.65,4.81,137,0.9416
+1422,"Kilpatrick, Kevin",SOCI 103M - Computer Appl/Data Management (A00),SP24,3.72,3.67,4.55,4.66,4.6,26,0.5769
+1423,"Kilpatrick, Kevin",SOCI 103M - Computer Appl/Data Management (A00),WI24,3.7,2.73,3.76,3.67,3.98,28,0.7857
+1424,"Kilpatrick, Kevin",SOCI 103M - Computer Appl/Data Management (A00),FA23,3.7,5.00,4.03,3.73,4.32,22,0.3636
+1425,"Turner, Christena L.",SOCI 104 - Fld Res:Meth/Participnt Observ (A00),SP24,3.21,4.00,4.56,4.75,4.8,21,0.1905
+1426,"Stembridge, Sarah",SOCI 104 - Fld Res:Meth/Participnt Observ (A00),FA23,3.22,6.67,3.63,3.56,3.81,19,0.21050000000000002
+1427,"Rogers, Julia Ellen",SOCI 104Q - Qualitative Interviewing (A00),SP24,3.58,5.00,4.38,4.56,4.5,29,0.1379
+1428,"Raudenbush, Danielle",SOCI 104Q - Qualitative Interviewing (A00),WI24,3.93,4.71,4.71,4.61,4.82,29,0.2414
+1429,"Rogers, Julia Ellen",SOCI 104Q - Qualitative Interviewing (A00),FA23,3.75,7.00,4.15,4.1,4.4,23,0.21739999999999998
