@@ -1,0 +1,1226 @@
+,instructor,course,term,avg_grade,avg_hours,student_learning_rating,course_structure_rating,class_environment_rating,num_enrolled,resp_rate
+0,"Dewaard, Andrew Michael",COMM 196B - Honors Seminar II: Research (A00),WI24,4.0,9.00,5.0,4.94,4.95,8,0.625
+1,"Mignozzetti, Umberto",CSS 1 - Prog Computational Social Sci (A00),WI24,3.68,4.43,4.43,4.44,4.47,109,0.7798
+2,"Trott, Sean Thomas",CSS 1 - Prog Computational Social Sci (A00),FA23,3.72,6.22,4.41,4.31,4.55,118,0.3814
+3,"Mignozzetti, Umberto",CSS 1 - Prog Computational Social Sci (B00),FA23,3.64,5.50,4.4,4.38,4.5,66,0.7576
+4,"Trott, Sean Thomas",CSS 2 - Data/Model Programming: CSS (A00),WI24,3.82,4.12,4.67,4.67,4.75,77,0.33770000000000006
+5,"Trott, Sean Thomas",CSS 100 - Advanced Programming: CSS (A00),SP24,3.93,5.00,4.51,4.53,4.59,48,0.3333
+6,"Mignozzetti, Umberto",CSS 120 - Environmental Data Science (A00),SP24,4.0,3.80,4.5,4.63,4.87,27,0.3704
+7,"Moshiri, Niema",CSE 6R - Intr/CompSci&Obj-Ori:Python (A00),WI24,2.66,6.16,3.97,3.91,4.33,98,0.3265
+8,"Miranda, Gregory Joseph",CSE 8A - Intro to Programming 1 (A00),SP24,3.08,6.24,4.16,4.23,4.48,241,0.1411
+9,"Alvarado, Christine J.",CSE 8A - Intro to Programming 1 (A00),WI24,2.93,7.26,4.3,4.23,4.62,144,0.8472
+10,"Alvarado, Christine J.",CSE 8A - Intro to Programming 1 (B00),WI24,2.98,6.75,4.34,4.27,4.59,149,0.7517
+11,"Porter, Leonard Emerson",CSE 8A - Intro to Programming 1 (A00),FA23,3.37,7.07,4.14,4.04,4.52,287,0.6167
+12,"Porter, Leonard Emerson",CSE 8A - Intro to Programming 1 (B00),FA23,3.43,7.13,4.1,3.96,4.47,266,0.688
+13,"Cao, Yingjun",CSE 8A - Intro to Programming 1 (A00),S223,2.67,9.09,3.98,3.47,4.33,33,0.3333
+14,"Cao, Yingjun",CSE 8A - Intro to Programming 1 (A00),S123,2.67,8.33,3.54,3.63,4.46,49,0.12240000000000001
+15,"Salguero, Adrian",CSE 8A - Intro to Programming 1 (B00),S123,2.7,7.92,4.67,4.76,4.8,40,0.6
+16,"Miranda, Gregory Joseph",CSE 8B - Intro to Programming 2 (A00),WI24,3.4,6.26,4.16,4.16,4.47,205,0.3561
+17,"Ochoa, Benjamin Lawrence",CSE 8B - Intro to Programming 2 (A00),SP23,2.47,8.79,3.98,3.62,4.39,134,0.2463
+18,"Ochoa, Benjamin Lawrence",CSE 11 - Accel. Intro to Programming (A00),SP24,2.92,9.48,3.72,3.45,4.08,322,0.2236
+19,"Miranda, Gregory Joseph",CSE 11 - Accel. Intro to Programming (A00),WI24,3.44,7.15,4.18,4.08,4.41,296,0.2939
+20,"Soosai Raj, Adalbert Geral",CSE 11 - Accel. Intro to Programming (A00),FA23,3.44,7.64,4.42,4.38,4.7,387,0.7778
+21,"Soosai Raj, Adalbert Geral",CSE 11 - Accel. Intro to Programming (B00),FA23,3.65,7.16,4.46,4.47,4.73,196,0.8316
+22,"Cao, Yingjun",CSE 11 - Accel. Intro to Programming (A00),S223,3.11,8.33,4.12,4.08,4.45,23,0.6522
+23,"Cao, Yingjun",CSE 11 - Accel. Intro to Programming (A00),S123,3.11,8.89,4.44,4.24,4.56,41,0.2195
+24,"Cao, Yingjun",CSE 12 - Basic Data Struct & OO Design (A00),SP24,3.21,8.71,4.41,4.33,4.49,126,0.5714
+25,"Miranda, Gregory Joseph",CSE 12 - Basic Data Struct & OO Design (B00),SP24,3.16,7.46,4.28,4.3,4.59,277,0.24550000000000002
+26,"Cao, Yingjun",CSE 12 - Basic Data Struct & OO Design (A00),WI24,3.33,8.52,4.45,4.26,4.55,187,0.5186999999999999
+27,"Cao, Yingjun",CSE 12 - Basic Data Struct & OO Design (B00),WI24,3.43,8.25,4.39,4.26,4.51,289,0.5986
+28,"Miranda, Gregory Joseph",CSE 12 - Basic Data Struct & OO Design (A00),FA23,3.08,8.95,3.99,3.88,4.29,231,0.2727
+29,"Miranda, Gregory Joseph",CSE 12 - Basic Data Struct & OO Design (B00),SP23,3.17,9.45,3.5,3.09,4.03,207,0.2657
+30,"Solares, Edwin A",CSE 15L - Software Tools&Techniques Lab (A00),SP24,3.0,5.25,4.56,4.33,4.44,37,0.2432
+31,"Solares, Edwin A",CSE 15L - Software Tools&Techniques Lab (B00),SP24,3.08,4.43,4.55,4.52,4.57,36,0.3889
+32,"Solares, Edwin A",CSE 15L - Software Tools&Techniques Lab (C00),SP24,3.24,5.18,4.51,4.42,4.7,47,0.4681
+33,"Solares, Edwin A",CSE 15L - Software Tools&Techniques Lab (D00),SP24,3.0,6.10,4.35,4.39,4.51,44,0.4545
+34,"Politz, Joseph Gibbs",CSE 15L - Software Tools&Techniques Lab (A00),WI24,3.39,4.25,4.41,4.41,4.57,403,0.6104
+35,"Politz, Joseph Gibbs",CSE 15L - Software Tools&Techniques Lab (A00),FA23,3.39,6.05,4.45,4.36,4.6,350,0.5914
+36,"Gungor, Onat",CSE 15L - Software Tools&Techniques Lab (B00),FA23,3.13,5.66,4.01,3.99,4.34,49,0.7755
+37,"Gungor, Onat",CSE 15L - Software Tools&Techniques Lab (C00),FA23,2.77,6.04,4.28,4.34,4.52,43,0.5581
+38,"Solares, Edwin A",CSE 15L - Software Tools&Techniques Lab (E00),FA23,2.7,5.63,4.38,4.13,4.63,12,0.6667000000000001
+39,"Politz, Joseph Gibbs",CSE 15L - Software Tools&Techniques Lab (A00),SP23,3.39,5.71,4.44,4.5,4.58,217,0.35479999999999995
+40,"Politz, Joseph Gibbs",CSE 15L - Software Tools&Techniques Lab (B00),SP23,3.66,5.62,4.52,4.56,4.64,209,0.31579999999999997
+41,"Minnes Kemp, Mor Mia",CSE 20 - Discrete Mathematics (A00),SP24,2.89,6.43,4.41,4.38,4.53,198,0.2323
+42,"Borkowski, Michael Humes",CSE 20 - Discrete Mathematics (A00),WI24,3.48,5.69,3.77,3.63,4.03,181,0.3425
+43,"Jones, Miles E",CSE 20 - Discrete Mathematics (A00),FA23,3.05,7.65,4.31,4.24,4.43,194,0.34020000000000006
+44,"Briones, Jor-el Thomas Caparas",CSE 20 - Discrete Mathematics (A00),S223,3.47,8.67,4.12,4.05,4.22,25,0.6
+45,"Borkowski, Michael Humes",CSE 20 - Discrete Mathematics (A00),S123,3.46,7.50,4.21,4.13,4.75,24,0.16670000000000001
+46,"Jones, Miles E",CSE 21 - Math/Algorithm&Systems Analys (A00),SP24,3.09,7.29,4.21,4.16,4.39,193,0.24350000000000002
+47,"Jones, Miles E",CSE 21 - Math/Algorithm&Systems Analys (A00),WI24,3.11,7.83,4.28,4.15,4.45,246,0.2927
+48,"Impagliazzo, Russell",CSE 21 - Math/Algorithm&Systems Analys (A00),FA23,3.14,8.57,3.18,3.03,4.0,356,0.46630000000000005
+49,"Braun, Oliver",CSE 21 - Math/Algorithm&Systems Analys (A00),S223,2.44,7.00,4.54,4.52,4.6,-1,-0.01
+50,"Briones, Jor-el Thomas Caparas",CSE 21 - Math/Algorithm&Systems Analys (A00),S123,3.59,8.24,4.03,3.91,4.22,60,0.5667
+51,"Soosai Raj, Adalbert Geral",CSE 29 - Sys Prog and Software Tools (C00),SP24,2.86,8.05,4.45,4.36,4.66,175,0.8286
+52,"Shalev, Aaron D",CSE 29 - Sys Prog and Software Tools (D00),SP24,2.68,7.83,4.63,4.39,4.7,37,0.6486
+53,"Cao, Yingjun",CSE 30 - Computer Organiz&Systms Progrm (A00),SP24,2.22,8.98,4.15,4.0,4.43,211,0.25120000000000003
+54,"Muller, P Keith",CSE 30 - Computer Organiz&Systms Progrm (B00),SP24,3.14,9.10,4.32,4.29,4.54,201,0.25870000000000004
+55,"Chin, Bryan W.",CSE 30 - Computer Organiz&Systms Progrm (A00),WI24,2.76,12.30,4.26,4.19,4.5,201,0.7562000000000001
+56,"Chin, Bryan W.",CSE 30 - Computer Organiz&Systms Progrm (A00),FA23,2.76,9.71,4.23,3.98,4.31,211,0.8057
+57,"Cao, Yingjun",CSE 30 - Computer Organiz&Systms Progrm (B00),FA23,2.57,9.65,4.17,3.92,4.41,201,0.7164
+58,"Moshiri, Niema",CSE 87 - First-year Seminar (A00),SP24,,1.86,4.72,4.79,4.83,14,0.5
+59,"Cottrell, Garrison W",CSE 87 - First-year Seminar (A00),WI24,,2.33,4.08,4.64,4.73,8,0.375
+60,"Moshiri, Niema",CSE 87 - First-year Seminar (B00),WI24,,1.18,4.74,4.77,4.67,19,0.5789
+61,"Cottrell, Garrison W",CSE 87 - First-year Seminar (A00),FA23,,1.11,4.0,3.92,4.19,14,0.6429
+62,"Moshiri, Alexander Niema",CSE 87 - First-year Seminar (B00),FA23,,2.78,4.03,3.83,4.0,19,0.4737
+63,"Minnes Kemp, Mor Mia",CSE 90 - Undergraduate Seminar (A00),SP24,,1.22,4.64,4.56,4.64,43,0.25579999999999997
+64,"Minnes Kemp, Mor Mia",CSE 90 - Undergraduate Seminar (A00),WI24,,2.00,4.68,4.68,4.77,37,0.27030000000000004
+65,"Minnes Kemp, Mor Mia",CSE 90 - Undergraduate Seminar (A00),SP23,,1.18,4.45,4.68,4.78,55,0.3091
+66,"Minnes Kemp, Mor Mia",CSE 91 - Perspectives in CSE (B00),SP24,,10.50,4.8,-1.0,4.67,11,0.2727
+67,"Minnes Kemp, Mor Mia",CSE 91 - Perspectives in CSE (B00),WI24,,1.44,4.54,4.68,4.64,17,0.5294
+68,"Minnes Kemp, Mor Mia",CSE 91 - Perspectives in CSE (C00),WI24,,1.00,5.0,5.0,5.0,18,0.22219999999999998
+69,"Minnes Kemp, Mor Mia",CSE 91 - Perspectives in CSE (A00),FA23,,0.71,4.65,4.7,4.81,38,0.5789
+70,"Minnes Kemp, Mor Mia",CSE 91 - Perspectives in CSE (B00),FA23,,0.52,4.61,4.56,4.69,53,0.5472
+71,"Minnes Kemp, Mor Mia",CSE 91 - Perspectives in CSE (C00),FA23,,0.83,4.49,4.59,4.77,23,0.5217
+72,"Sahoo, Debashis",CSE 100 - Advanced Data Structures (A00),SP24,3.31,7.55,4.39,4.38,4.5,311,0.6367
+73,"Moshiri, Alexander Niema",CSE 100 - Advanced Data Structures (A00),FA23,3.3,7.90,4.55,4.54,4.65,247,0.7449
+74,"Moshiri, Niema",CSE 100R - Advanced Data Structures (A00),SP24,3.19,7.52,4.61,4.56,4.67,158,0.6646
+75,"Moshiri, Niema",CSE 100R - Advanced Data Structures (A00),WI24,3.33,8.00,4.61,4.57,4.7,402,0.7363
+76,"Moshiri, Alexander Niema",CSE 100R - Advanced Data Structures (A00),FA23,3.36,7.91,4.55,4.52,4.62,247,0.7126
+77,"Jones, Miles E",CSE 101 - Design & Analysis of Algorithm (A00),SP24,3.24,8.61,4.4,4.29,4.51,426,0.2887
+78,"Jones, Miles E",CSE 101 - Design & Analysis of Algorithm (A00),WI24,3.3,8.58,4.45,4.35,4.51,381,0.35960000000000003
+79,"Bach, Quang Tran",CSE 101 - Design & Analysis of Algorithm (A00),FA23,3.03,9.40,4.23,3.98,4.47,382,0.3089
+80,"Braun, Oliver",CSE 101 - Design & Analysis of Algorithm (A00),S223,3.2,9.00,4.45,4.39,4.47,-1,-0.01
+81,"Jones, Miles E",CSE 101 - Design & Analysis of Algorithm (B00),S223,2.86,6.67,4.42,4.33,4.63,50,0.12
+82,"Briones, Jor-el Thomas Caparas",CSE 101 - Design & Analysis of Algorithm (A00),S123,3.63,8.57,4.16,4.02,4.18,38,0.7632
+83,"Freund, Yoav",CSE 103 - Practical Intro/Prob & Stats (A00),FA23,3.47,6.85,3.69,3.61,4.08,85,0.7647
+84,"Micciancio, Daniele",CSE 105 - Theory of Computation (A00),SP24,2.91,7.90,3.99,3.76,4.08,235,0.4894
+85,"Minnes Kemp, Mor Mia",CSE 105 - Theory of Computation (A00),WI24,2.97,8.01,4.52,4.4,4.64,340,0.3824
+86,"Jones, Miles E",CSE 105 - Theory of Computation (A00),FA23,3.23,8.21,4.31,4.3,4.46,287,0.34840000000000004
+87,"Minnes Kemp, Mor Mia",CSE 105 - Theory of Computation (A00),SP23,2.96,9.20,4.17,4.17,4.4,323,0.29100000000000004
+88,"Grier, Daniel T",CSE 105 - Theory of Computation (B00),SP23,3.13,8.70,4.39,4.24,4.37,90,0.3
+89,"Paturi, Ramamohan",CSE 106 - Discrete/Cont Optimization (A00),FA23,3.92,8.75,3.94,3.56,4.13,23,0.1739
+90,"Bellare, Mihir",CSE 107 - Intro to Modern Cryptography (A00),SP24,2.5,7.00,4.2,4.11,4.58,83,0.2771
+91,"Heninger, Nadia A",CSE 107 - Intro to Modern Cryptography (A00),WI24,3.03,5.71,4.8,4.44,4.62,45,0.3778
+92,"Bellare, Mihir",CSE 107 - Intro to Modern Cryptography (A00),FA23,2.41,6.67,4.39,4.05,4.46,51,0.29410000000000003
+93,"Shang, Jingbo",CSE 109 - Intro to Programming Contests (A),SP23,,-1,3.61,-1.0,-1.0,-1,-0.01
+94,"Shang, Jingbo",CSE 109 - Intro to Programming Contests (A),SP22,,-1,4.25,-1.0,-1.0,-1,-0.01
+95,"Powell, Thomas Allan",CSE 110 - Software Engineering (A00),SP24,3.54,9.11,3.79,3.56,4.25,372,0.828
+96,"Griswold, William G.",CSE 110 - Software Engineering (A00),WI24,3.27,10.47,3.76,3.63,4.2,191,0.6386999999999999
+97,"Miranda, Gregory Joseph",CSE 110 - Software Engineering (A00),FA23,3.5,9.56,4.03,3.83,4.32,248,0.2298
+98,"Powell, Thomas Allan",CSE 112 - Advanced Software Engineering (A00),SP24,3.5,5.22,4.23,4.08,4.58,129,0.13949999999999999
+99,"Weibel, Nadir",CSE 118 - Ubiquitous Computing (A00),FA23,3.81,8.89,4.14,4.4,4.69,24,0.375
+100,"Zhou, Yuan-Yuan",CSE 120 - Princ/Computer Operating Systm (A00),SP24,2.71,11.18,4.29,4.08,4.36,205,0.7512000000000001
+101,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A00),WI24,2.98,11.07,4.5,4.16,4.51,163,0.3497
+102,"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (B00),WI24,3.32,8.59,4.58,4.37,4.73,79,0.36710000000000004
+103,"Voelker, Geoffrey M.",CSE 120 - Princ/Computer Operating Systm (A00),FA23,2.93,9.71,4.26,4.27,4.59,234,0.22219999999999998
+104,"Ousterhout, Amy",CSE 120 - Princ/Computer Operating Systm (B00),SP23,2.9,9.31,4.48,4.4,4.47,90,0.3222
+105,"Shalev, Aaron D",CSE 123 - Computer Networks (A00),WI24,2.63,13.30,4.64,4.34,4.56,69,0.2899
+106,"Snoeren, Alex C.",CSE 123 - Computer Networks (A00),FA23,3.12,9.74,4.67,4.29,4.52,70,0.27140000000000003
+107,"Voelker, Geoffrey M.",CSE 125 - Software Sys Design & Implemnt (A00),SP24,4.0,12.13,4.89,4.9,4.93,35,0.2286
+108,"Fernandes, Earlence T",CSE 127 - Intro to Computer Security (A00),SP24,3.31,8.04,4.49,3.85,4.41,150,0.1533
+109,"Munyaka, Imani N. S.",CSE 127 - Intro to Computer Security (A00),WI24,3.32,6.90,3.35,2.87,3.5,137,0.3139
+110,"Savage, Stefan",CSE 127 - Intro to Computer Security (A00),FA23,3.36,8.59,4.54,4.03,4.5,181,0.21550000000000002
+111,"Polikarpova, Nadezhda",CSE 130 - Progrmng Lang:Princpl&Paradigm (A00),SP24,3.66,7.74,4.54,4.55,4.7,196,0.2398
+112,"Jhala, Ranjit",CSE 130 - Progrmng Lang:Princpl&Paradigm (A00),WI24,3.41,7.67,4.58,4.59,4.61,62,0.1452
+113,"Polikarpova, Nadezhda",CSE 130 - Progrmng Lang:Princpl&Paradigm (A00),FA23,3.57,9.32,4.57,4.49,4.57,142,0.1549
+114,"Ding, Yufei",CSE 131 - Compiler Construction (A00),SP24,3.79,9.90,4.39,4.22,4.32,39,0.7692
+115,"Politz, Joseph Gibbs",CSE 131 - Compiler Construction (A00),SP23,3.02,9.58,4.94,4.75,4.88,69,0.1739
+116,"Vianu, Victor Dan",CSE 132A - Database System Principles (A00),WI24,3.01,5.79,4.28,4.2,4.51,170,0.2647
+117,"Vianu, Victor Dan",CSE 132A - Database System Principles (A00),FA23,3.0,6.72,4.02,3.88,4.31,176,0.1875
+118,"Deutsch, Alin Bernard",CSE 132B - Database System Applications (A00),SP24,3.86,7.83,3.96,3.96,4.34,58,0.20690000000000003
+119,"Gupta, Amarnath",CSE 132C - Database System Implementation (A00),WI24,3.27,5.00,4.67,4.73,4.89,9,0.3333
+120,"Powell, Thomas Allan",CSE 134B - Web Client Languages (A00),FA23,3.11,8.38,4.48,4.21,4.55,135,0.2519
+121,"Powell, Thomas Allan",CSE 134B - Web Client Languages (A00),S123,3.11,10.00,4.75,4.69,4.81,56,0.0893
+122,"Orailoglu, Alex",CSE 140 - Component&Desgn Tech/Digtl Sys (A00),SP24,2.81,10.00,4.04,3.63,4.04,23,0.2609
+123,"Eldon, John",CSE 140 - Component&Desgn Tech/Digtl Sys (B00),SP24,3.12,6.44,3.63,3.6,4.36,143,0.25170000000000003
+124,"Rosing, Tajana Simunic",CSE 140 - Component&Desgn Tech/Digtl Sys (A00),WI24,2.77,7.91,4.38,4.14,4.36,91,0.8791
+125,"Rosing, Tajana Simunic",CSE 140 - Component&Desgn Tech/Digtl Sys (B00),WI24,2.92,7.46,4.47,4.23,4.52,82,0.8537
+126,"Chin, Bryan W.",CSE 140 - Component&Desgn Tech/Digtl Sys (A00),FA23,2.96,8.77,4.15,4.06,4.31,189,0.6878000000000001
+127,"Eldon, John",CSE 140 - Component&Desgn Tech/Digtl Sys (A00),S123,3.25,7.27,4.07,4.16,4.5,95,0.1158
+128,"Orailoglu, Alex",CSE 140L - Digital Systems Laboratory (A00),SP24,2.41,13.50,4.25,4.06,4.44,16,0.25
+129,"Eldon, John",CSE 140L - Digital Systems Laboratory (B00),SP24,3.78,7.83,3.61,3.83,4.29,134,0.2313
+130,"Eldon, John",CSE 140L - Digital Systems Laboratory (A00),WI24,3.56,6.49,3.95,3.88,4.31,162,0.2963
+131,"Eldon, John",CSE 140L - Digital Systems Laboratory (A00),FA23,3.56,8.02,4.06,4.03,4.3,189,0.2804
+132,"Eldon, John",CSE 140L - Digital Systems Laboratory (A00),S123,3.56,9.44,4.28,4.23,4.56,90,0.1
+133,"Zhao, Jishen",CSE 141 - Intro/Computer Architecture (A00),SP24,3.71,6.45,4.29,4.21,4.42,191,0.8115000000000001
+134,"Pannuto, Patrick William",CSE 141 - Intro/Computer Architecture (A00),FA23,3.7,7.62,4.52,4.4,4.49,67,0.3134
+135,"Pannuto, Patrick William",CSE 141 - Intro/Computer Architecture (B00),FA23,3.53,8.00,4.9,4.9,4.85,32,0.15630000000000002
+136,"Eldon, John",CSE 141 - Intro/Computer Architecture (A00),S223,3.21,8.00,4.0,4.2,4.6,98,0.051
+137,"Zhao, Jishen",CSE 141 - Intro/Computer Architecture (A00),SP23,3.69,7.48,4.26,4.31,4.49,164,0.9024
+138,"Eldon, John",CSE 141L - Project/Computer Architecture (A00),SP24,3.11,7.63,3.98,3.84,4.3,181,0.2652
+139,"Eldon, John",CSE 141L - Project/Computer Architecture (A00),FA23,3.29,7.50,4.1,4.25,4.53,47,0.1702
+140,"Eldon, John",CSE 141L - Project/Computer Architecture (B00),FA23,3.34,7.22,3.82,4.14,4.39,59,0.1525
+141,"Eldon, John",CSE 141L - Project/Computer Architecture (A00),S223,3.29,10.00,4.58,4.67,4.75,100,0.03
+142,"Porter, Leonard Emerson",CSE 142 - Comp Arch Software Perspective (A00),WI24,3.29,8.07,4.37,4.29,4.46,153,0.7255
+143,"Porter, Leonard Emerson",CSE 142 - Comp Arch Software Perspective (B00),WI24,3.37,7.90,4.5,4.37,4.5,154,0.7922
+144,"Swanson, Steven James",CSE 142L - Software Proj Comp Arch (A00),WI24,3.24,10.00,4.08,4.16,4.43,153,0.2876
+145,"Swanson, Steven James",CSE 142L - Software Proj Comp Arch (B00),WI24,3.14,10.92,4.0,3.99,4.22,144,0.43060000000000004
+146,"Kastner, Ryan Charles",CSE 145 - Embedded System Design Project (A00),SP24,3.89,12.10,4.62,4.67,4.56,29,0.3448
+147,"Kastner, Ryan Charles",CSE 145 - Embedded System Design Project (A00),SP23,3.76,10.00,4.0,4.73,5.0,18,0.16670000000000001
+148,"Tullsen, Dean Michael",CSE 148 - Adv Processor Arch Design Proj (A00),WI24,3.68,12.60,4.82,4.79,4.62,24,0.4167
+149,"Smart, Mary Anne",CSE 150A - AI: Probabilistic Models (A00),S123,3.21,10.00,3.75,3.88,4.25,44,0.0909
+150,"Gao, Sicun",CSE 150B - AI: Search and Reasoning (A00),SP24,3.75,7.61,4.64,4.56,4.66,361,0.277
+151,"Solares, Edwin A",CSE 151A - Intro to Machine Learning (A00),WI24,3.73,7.77,3.38,3.13,4.17,323,0.7028
+152,"Dasgupta, Sanjoy",CSE 151A - Intro to Machine Learning (A00),FA23,3.23,8.71,4.78,4.65,4.72,138,0.2681
+153,"Imola, Jacob John",CSE 151A - Intro to Machine Learning (A00),S123,2.99,8.33,4.42,4.19,4.48,45,0.2889
+154,"Cottrell, Garrison W",CSE 151B - Deep Learning (A00),WI24,3.64,11.44,4.39,4.1,4.65,89,0.2022
+155,"Chandraker, Manmohan Krishna",CSE 152A - Intro to Comp Vision I (A00),WI24,3.55,9.21,4.59,4.29,4.63,155,0.5871000000000001
+156,"Chandraker, Manmohan Krishna",CSE 152A - Intro to Comp Vision I (A00),FA23,3.55,8.98,4.54,4.43,4.52,102,0.6373
+157,"Nakashole, Ndapandula",CSE 156 - Statistical NLP (A00),SP24,3.76,6.24,4.17,4.11,4.44,184,0.1902
+158,"McAuley, Julian John",CSE 158 - Recommender Sys&Web Mining (A00),FA23,3.79,8.24,4.47,4.5,4.65,200,0.26
+159,"McAuley, Julian John",CSE 158R - Recommender Sys&Web Mining (A00),FA23,3.7,7.75,4.39,4.37,4.56,408,0.2255
+160,"Kastner, Ryan Charles",CSE 160 - Intro to Parallel Computing (A00),WI24,3.36,7.34,4.43,4.25,4.52,231,0.3074
+161,"Weibel, Nadir",CSE 165 - 3D User Interaction (A00),SP24,3.85,10.38,3.47,3.35,4.1,43,0.18600000000000003
+162,"Ochoa, Benjamin Lawrence",CSE 166 - Image Processing (A00),FA23,2.97,10.00,4.21,3.65,4.19,52,0.23079999999999998
+163,"Ramamoorthi, Ravi",CSE 167 - Computer Graphics (A00),WI24,2.97,9.69,4.31,4.08,4.4,164,0.3049
+164,"Li, Tzumao",CSE 167 - Computer Graphics (A00),FA23,3.71,8.25,4.59,4.48,4.62,171,0.36840000000000006
+165,"Ramamoorthi, Ravi",CSE 168 - Computer Graphics II:Rendering (A00),SP24,3.67,13.21,4.64,4.37,4.5,37,0.5135000000000001
+166,"Rotenberg, Steven Paul",CSE 169 - Computer Animation (A00),WI24,3.46,10.00,4.72,4.44,4.47,32,0.25
+167,"Vaccaro, Kristen Marie",CSE 170 - Human-Comp Interaction Design (A00),FA23,3.55,6.18,3.16,2.68,3.74,67,0.25370000000000004
+168,"Vaccaro, Kristen Marie",CSE 170 - Human-Comp Interaction Design (B00),FA23,3.47,6.67,3.8,3.56,4.15,82,0.3293
+169,"Kumar, Rakesh",CSE 175 - Entrepreneurship for Engineers (A00),SP24,3.29,6.94,4.07,3.84,4.25,47,0.7234
+170,"Kumar, Rakesh",CSE 175 - Entrepreneurship for Engineers (A00),S123,3.29,8.33,4.21,4.04,4.29,22,0.8181999999999999
+171,"Riek, Laurel D",CSE 176A - Healthcare Robotics (A00),SP23,3.82,8.33,4.75,4.75,5.0,30,0.1
+172,"Swanson, Steven James",CSE 176E - Robotic Sys Design & Implemnt (A00),FA23,3.79,10.00,4.79,4.74,4.91,22,0.2727
+173,"Pevzner, Pavel Arkadjevich",CSE 181 - Molecular Sequence Analysis (A00),WI24,3.12,12.22,4.69,4.03,3.97,31,0.2903
+174,"Bafna, Vineet",CSE 182 - Biological Databases (A00),SP24,3.37,8.17,3.5,3.38,4.17,48,0.25
+175,"Gymrek, Melissa Ann",CSE 185 - Advanced Bioinformatics Lab (A00),SP24,3.73,7.05,4.68,4.61,4.67,115,0.3826
+176,"Grier, Daniel T",CSE 190 - Top/Computer Sci & Engineering (A00),SP24,3.33,7.84,4.41,4.3,4.47,41,0.4878
+177,"Shah, Anshul Yatin",CSE 190 - Top/Computer Sci & Engineering (C00),SP24,3.95,5.36,4.65,4.68,4.72,48,0.875
+178,"Saha, Barna",CSE 190 - Top/Computer Sci & Engineering (D00),SP24,3.95,6.33,4.83,4.82,4.75,22,0.13640000000000002
+179,"Liu, Qipeng",CSE 190 - Top/Computer Sci & Engineering (A00),WI24,3.73,7.00,4.75,4.72,4.7,37,0.1351
+180,"Coblenz, Michael J",CSE 190 - Top/Computer Sci & Engineering (A00),FA23,3.79,8.00,4.7,4.65,4.8,10,0.5
+181,"Bandeira, Nuno Filipe Cabrita",CSE 190 - Top/Computer Sci & Engineering (C00),FA23,3.29,6.00,4.65,4.55,4.6,17,0.29410000000000003
+182,"Shalev, Aaron D",CSE 190 - Top/Computer Sci & Engineering (E00),FA23,3.56,9.38,4.84,4.38,4.68,44,0.1818
+183,"Dubnov, Shlomo",CSE 190 - Top/Computer Sci & Engineering (A00),S123,2.98,10.00,4.42,3.82,4.55,26,0.11539999999999999
+184,"Reeis, Yaniv",CSE 191 - Semnr/Computer Sci & Engineer (A),SP23,,-1,2.25,-1.0,-1.0,-1,-0.01
+185,"Lerner, Ian Amihay",CSE 191 - Semnr/Computer Sci & Engineer (B),SP23,,4.00 (A),2.5,-1.0,-1.0,-1,-0.01
+186,"Schulze, Jurgen P.",CSE 191 - Semnr/Computer Sci & Engineer (B),SP22,,-1,6.5,-1.0,-1.0,-1,-0.01
+187,"Minnes Kemp, Mor Mia",CSE 191 - Semnr/Computer Sci & Engineer (C),SP22,,-1,1.17,-1.0,-1.0,-1,-0.01
+188,"Lerner, Ian Amihay",CSE 191 - Semnr/Computer Sci & Engineer (D),SP22,,-1,3.7,-1.0,-1.0,-1,-0.01
+189,"Gao, Sicun",CSE 191 - Semnr/Computer Sci & Engineer (A),FA21,,-1,0.5,-1.0,-1.0,-1,-0.01
+190,"Minnes Kemp, Mor Mia",CSE 191 - Semnr/Computer Sci & Engineer (C),FA21,,-1,1.17,-1.0,-1.0,-1,-0.01
+191,"Shang, Jingbo",CSE 191 - Semnr/Computer Sci & Engineer (A),SP21,,2.67 (C+),5.25,-1.0,-1.0,-1,-0.01
+192,"Halicioglu, Daniel T",CSE 191 - Semnr/Computer Sci & Engineer (A),WI21,,-1,1.0,-1.0,-1.0,-1,-0.01
+193,"Shang, Jingbo",CSE 191 - Semnr/Computer Sci & Engineer (C),WI20,,4.00 (A),5.39,-1.0,-1.0,-1,-0.01
+194,"Impagliazzo, Russell",CSE 191 - Semnr/Computer Sci & Engineer (A),SP19,,-1,3.83,-1.0,-1.0,-1,-0.01
+195,"Lerner, Ian Amihay",CSE 191 - Semnr/Computer Sci & Engineer (B),SP19,,-1,7.17,-1.0,-1.0,-1,-0.01
+196,"Halicioglu, Daniel T",CSE 191 - Semnr/Computer Sci & Engineer (C),SP19,,4.00 (A),0.72,-1.0,-1.0,-1,-0.01
+197,"Halicioglu, Daniel T",CSE 191 - Semnr/Computer Sci & Engineer (A),FA18,,4.00 (A),1.3,-1.0,-1.0,-1,-0.01
+198,"Halicioglu, Daniel T",CSE 191 - Semnr/Computer Sci & Engineer (B),SP18,,-1,0.5,-1.0,-1.0,-1,-0.01
+199,"Halicioglu, Daniel T",CSE 191 - Semnr/Computer Sci & Engineer (A),WI18,,-1,1.83,-1.0,-1.0,-1,-0.01
+200,"Minnes Kemp, Mor Mia",CSE 191 - Semnr/Computer Sci & Engineer (B),WI18,,-1,4.5,-1.0,-1.0,-1,-0.01
+201,"Minnes Kemp, Mor Mia",CSE 191 - Semnr/Computer Sci & Engineer (C),FA17,,-1,3.5,-1.0,-1.0,-1,-0.01
+202,"Halicioglu, Daniel T",CSE 191 - Semnr/Computer Sci & Engineer (B),SP17,,-1,1.64,-1.0,-1.0,-1,-0.01
+203,"Halicioglu, Daniel T",CSE 191 - Semnr/Computer Sci & Engineer (A),WI17,,4.00 (A),0.5,-1.0,-1.0,-1,-0.01
+204,"Alvarado, Christine J.",CSE 191 - Semnr/Computer Sci & Engineer (B),FA16,,3.15 (B),8.25,-1.0,-1.0,-1,-0.01
+205,"Minnes Kemp, Mor Mia",CSE 191 - Semnr/Computer Sci & Engineer (C),FA16,,-1,5.5,-1.0,-1.0,-1,-0.01
+206,"Halicioglu, Daniel T",CSE 191 - Semnr/Computer Sci & Engineer (D),FA16,,3.93 (A-),0.7,-1.0,-1.0,-1,-0.01
+207,"Halicioglu, Daniel T",CSE 191 - Semnr/Computer Sci & Engineer (B),SP16,,-1,1.7,-1.0,-1.0,-1,-0.01
+208,"Gaasterland, Theresa",CSE 191 - Semnr/Computer Sci & Engineer (C),SP16,,3.93 (A-),1.83,-1.0,-1.0,-1,-0.01
+209,"Micciancio, Daniele",CSE 191 - Semnr/Computer Sci & Engineer (E),SP16,,-1,1.17,-1.0,-1.0,-1,-0.01
+210,"Halicioglu, Daniel T",CSE 191 - Semnr/Computer Sci & Engineer (A),WI16,,3.00 (B),1.5,-1.0,-1.0,-1,-0.01
+211,"Minnes Kemp, Mor Mia",CSE 191 - Semnr/Computer Sci & Engineer (B),WI16,,-1,6.5,-1.0,-1.0,-1,-0.01
+212,"Alvarado, Christine J.",CSE 191 - Semnr/Computer Sci & Engineer (A),FA15,,-1,4.5,-1.0,-1.0,-1,-0.01
+213,"Alvarado, Christine J.",CSE 191 - Semnr/Computer Sci & Engineer (B),FA15,,-1,4.0,-1.0,-1.0,-1,-0.01
+214,"Halicioglu, Daniel T",CSE 191 - Semnr/Computer Sci & Engineer (C),FA15,,-1,0.5,-1.0,-1.0,-1,-0.01
+215,"Minnes Kemp, Mor Mia",CSE 191 - Semnr/Computer Sci & Engineer (D),FA15,,-1,9.0,-1.0,-1.0,-1,-0.01
+216,"Bellare, Mihir",CSE 191 - Semnr/Computer Sci & Engineer (A),SP15,,-1,5.7,-1.0,-1.0,-1,-0.01
+217,"Gaasterland, Theresa",CSE 191 - Semnr/Computer Sci & Engineer (B),SP15,,3.92 (A-),1.04,-1.0,-1.0,-1,-0.01
+218,"Halicioglu, Daniel T",CSE 191 - Semnr/Computer Sci & Engineer (C),SP15,,4.00 (A),0.5,-1.0,-1.0,-1,-0.01
+219,"Minnes Kemp, Mor Mia",CSE 191 - Semnr/Computer Sci & Engineer (D),SP15,,-1,7.17,-1.0,-1.0,-1,-0.01
+220,"Micciancio, Daniele",CSE 191 - Semnr/Computer Sci & Engineer (E),SP15,,-1,2.5,-1.0,-1.0,-1,-0.01
+221,"Halicioglu, Daniel T",CSE 191 - Semnr/Computer Sci & Engineer (A),WI15,,3.55 (B+),0.68,-1.0,-1.0,-1,-0.01
+222,"Minnes Kemp, Mor Mia",CSE 191 - Semnr/Computer Sci & Engineer (B),WI15,,-1,10.5,-1.0,-1.0,-1,-0.01
+223,"Alvarado, Christine J.",CSE 191 - Semnr/Computer Sci & Engineer (A),FA14,,-1,5.25,-1.0,-1.0,-1,-0.01
+224,"Gaasterland, Theresa",CSE 191 - Semnr/Computer Sci & Engineer (C),SP14,,3.94 (A-),1.11,-1.0,-1.0,-1,-0.01
+225,"Halicioglu, Daniel T",CSE 191 - Semnr/Computer Sci & Engineer (D),SP14,,3.56 (B+),0.5,-1.0,-1.0,-1,-0.01
+226,"Alvarado, Christine J.",CSE 191 - Semnr/Computer Sci & Engineer (E),SP14,,3.81 (A-),5.5,-1.0,-1.0,-1,-0.01
+227,"Kunin, Jay Stuart",CSE 191 - Semnr/Computer Sci & Engineer (A),WI14,,-1,7.3,-1.0,-1.0,-1,-0.01
+228,"Halicioglu, Daniel T",CSE 191 - Semnr/Computer Sci & Engineer (B),WI14,,4.00 (A),0.67,-1.0,-1.0,-1,-0.01
+229,"Halicioglu, Daniel T",CSE 191 - Semnr/Computer Sci & Engineer (B),FA13,,-1,0.5,-1.0,-1.0,-1,-0.01
+230,"Halicioglu, Daniel T",CSE 191 - Semnr/Computer Sci & Engineer (B),SP13,,-1,0.79,-1.0,-1.0,-1,-0.01
+231,"Gaasterland, Theresa",CSE 191 - Semnr/Computer Sci & Engineer (C),SP13,,3.97 (A-),1.5,-1.0,-1.0,-1,-0.01
+232,"Lee, Cynthia Bailey",CSE 191 - Semnr/Computer Sci & Engineer (D),SP13,,-1,1.83,-1.0,-1.0,-1,-0.01
+233,"Halicioglu, Daniel T",CSE 191 - Semnr/Computer Sci & Engineer (A),WI13,,3.86 (A-),0.5,-1.0,-1.0,-1,-0.01
+234,"Gaasterland, Theresa",CSE 191   - Semnr/Computer Sci & Engineer  (B),SP12,,4.00 (A),2.35,-1.0,-1.0,-1,-0.01
+235,"Griswold, William G.",CSE 191   - Semnr/Computer Sci & Engineer  (A),FA11,,-1,1.0,-1.0,-1.0,-1,-0.01
+236,"Huang, Ruanqianqian",CSE 193 - Introduction to CS Research (A00),FA23,3.8,8.62,4.43,4.56,4.72,53,0.5472
+237,"Munyaka, Imani N. S.","CSE 194 - Race, Gender & Computing (A00)",FA23,3.59,6.25,3.49,3.23,4.15,47,0.3404
+238,"Martin Sandino, Amanda Maria Yoland","CGS 2A - Intro/CGS: Key Terms, Concepts (A00)",FA23,3.83,5.08,4.44,4.42,4.59,111,0.5586
+239,"Huang, Ningning","CGS 2A - Intro/CGS: Key Terms, Concepts (A00)",S123,3.69,5.59,4.31,4.3,4.71,35,0.4857
+240,"Whitley, Leila Marie",CGS 2B - Intro/CGS:Social Formations (A00),WI24,3.53,4.10,4.47,4.28,4.47,56,0.35710000000000003
+241,"Wesling, Megan E.",CGS 87 - First-year Seminar (A00),SP24,,1.50,5.0,4.23,4.83,8,0.5
+242,"Perez, Roy",CGS 100A - Conceptualizing Gndr: Theories (A00),FA23,3.71,6.15,4.71,4.54,4.77,30,0.4333
+243,"Whitley, Leila Marie",CGS 100B - Conceptualizing Gndr: Methods (A00),SP24,3.71,4.50,4.91,4.88,4.91,32,0.25
+244,"Werner, Bradley T.",CGS 101 - Gender & Globalization (A00),WI24,3.89,4.67,4.8,4.71,4.75,32,0.40630000000000005
+245,"Gushiken, Gregory Seiichi Pom",CGS 101 - Gender & Globalization (A00),S123,4.0,6.67,4.5,4.58,4.5,18,0.16670000000000001
+246,"Whitley, Leila Marie",CGS 105 - Queer Theory (A00),WI24,3.6,4.30,4.72,4.54,4.76,66,0.34850000000000003
+247,"Wesling, Megan E.",CGS 105 - Queer Theory (A00),S223,3.76,6.25,4.75,4.25,4.56,27,0.1481
+248,"Whitley, Leila Marie",CGS 106 - Gender & the Law (A00),FA23,3.53,5.53,4.53,4.51,4.68,41,0.46340000000000003
+249,"Schaffer, Max Benjamin","CGS 108 - Gender, Race, & Artificial Int (A00)",S223,4.0,6.25,4.81,4.84,4.9,9,0.8889
+250,"Whitley, Leila Marie",CGS 109 - Sexual Violence (A00),SP24,3.66,4.75,5.0,4.88,4.78,22,0.3636
+251,"Martin Sandino, Amanda Maria Yoland",CGS 111 - Gender and the Body (A00),WI24,3.94,3.07,4.47,4.51,4.62,45,0.6667000000000001
+252,"Martin Sandino, Amanda Maria Yoland",CGS 112 - Sexuality & Nation (A00),SP24,3.74,2.83,3.83,3.98,4.43,28,0.4286
+253,"McFee, Rochelle Alexia",CGS 112 - Sexuality & Nation (A00),S123,3.94,5.79,4.19,4.08,4.29,16,1.1875
+254,"Martin Sandino, Amanda Maria Yoland",CGS 113 - Gender & Sexuality in the Arts (A00),WI24,3.65,2.25,4.47,4.47,4.54,32,0.2813
+255,"Martin Sandino, Amanda Maria Yoland",CGS 113 - Gender & Sexuality in the Arts (A00),FA23,3.65,6.67,4.78,4.75,4.85,21,0.4286
+256,"Steelman, Katherine Wallis","CGS 114 - Gender,Race,Ethnicity & Class (A00)",SP24,4.0,4.33,4.71,4.67,4.71,19,0.36840000000000006
+257,"Pierce, India",CGS 116 - Feminist Social Movements (A00),SP24,3.73,3.22,4.81,4.64,4.83,22,0.40909999999999996
+258,"Martin Sandino, Amanda Maria Yoland",CGS 117 - Transgenderisms (A00),SP24,3.76,3.17,4.46,4.48,4.61,20,0.6
+259,"Hankins, Joseph D.",CGS 118 - Gender and Incarceration (A00),SP24,3.62,4.43,4.71,4.21,4.64,29,0.2414
+260,"Kim, Joo Ok",CGS 119 - Asian American Film and Media (A00),WI24,3.76,3.22,4.67,4.58,4.58,28,0.3214
+261,"Beardsley, Steven Thomas",CGS 119 - Asian American Film and Media (A00),S223,3.0,7.50,3.81,3.06,3.4,10,0.4
+262,"Dwyer, Rose Smucker",CGS 120 - Capitalism & Gender (A00),S223,2.97,6.15,4.56,4.5,4.56,12,1.0833
+263,"Whitley, Leila Marie",CGS 121 - Topics:Critical Gender Studies (A00),FA23,3.88,5.00,4.75,4.8,4.75,13,0.3846
+264,"Whitley, Leila Marie",CGS 123 - Gender & Reproductive Politics (A00),WI24,3.93,3.40,4.6,4.23,4.53,32,0.3125
+265,"Martin Sandino, Amanda Maria Yoland",CGS 125 - Women of Color Writers (A00),WI24,3.6,3.22,4.81,4.89,4.89,15,0.6
+266,"Whitley, Leila Marie",CGS 128 - Transnational Feminisms (A00),SP24,4.0,4.00,4.81,4.87,4.81,15,0.26670000000000005
+267,"Martin Sandino, Amanda Maria Yoland",CGS 130 - Queer Performativity (A00),FA23,3.95,5.00,4.88,4.91,4.88,15,0.4
+268,"Martin Sandino, Amanda Maria Yoland",CGS 137 - Latina Issues & Cultural Prod. (A00),SP24,3.86,4.20,4.6,4.47,4.82,21,0.47619999999999996
+269,"Taylor-Garcia, Daphne","CGS 150 - Visuality, Sexuality, and Race (A00)",SP24,3.57,4.50,5.0,5.0,5.0,9,0.44439999999999996
+270,"Taylor-Garcia, Daphne","CGS 150 - Visuality, Sexuality, and Race (A00)",SP23,3.28,5.83,4.48,4.71,5.0,14,0.4286
+271,"Perez, Roy",CGS 187 - Latinx Sexualities (A00),FA23,3.31,5.00,4.67,4.58,4.83,14,0.2143
+272,"Kaplan, Sara Clarke",CGS 190 - Honors Seminar (A),FA18,,-1,16.5,-1.0,-1.0,-1,-0.01
+273,"Kaplan, Sara Clarke",CGS 190 - Honors Seminar (A),FA17,,-1,8.5,-1.0,-1.0,-1,-0.01
+274,"el Tayeb, Fatima",CGS 190 - Honors Seminar (A),FA15,,-1,5.83,-1.0,-1.0,-1,-0.01
+275,"Anderson, Patrick W.",CGS 190 - Honors Seminar (A),FA12,,-1,5.17,-1.0,-1.0,-1,-0.01
+276,"Anderson, Patrick W.",CGS 190   - Honors Seminar                 (A),FA11,,-1,5.3,-1.0,-1.0,-1,-0.01
+277,"Yoneyama, Lisa",CGS 190 - Honors Seminar                 (A),FA10,,-1,9.3,-1.0,-1.0,-1,-0.01
+278,"Algaze, Guillermo","CAT 1 - Culture, Art, and Technology 1 (A00)",FA23,3.56,5.29,3.9,3.91,4.4,223,0.5381
+279,"Bronstein, Phoebe Malan","CAT 1 - Culture, Art, and Technology 1 (B00)",FA23,3.8,5.61,4.22,4.2,4.6,255,0.9098
+280,"Patterson, Patrick H.","CAT 1 - Culture, Art, and Technology 1 (C00)",FA23,3.45,6.47,3.89,3.95,4.52,256,0.5703
+281,"Bigham, David Joseph","CAT 1 - Culture, Art, and Technology 1 (D00)",FA23,3.73,5.57,4.04,4.27,4.55,192,0.4115
+282,"Yoldas, Pinar","CAT 2 - Culture, Art, and Technology 2 (A00)",WI24,3.86,3.48,3.85,3.85,4.12,224,0.3929
+283,"Bronstein, Phoebe Malan","CAT 2 - Culture, Art, and Technology 2 (B00)",WI24,3.7,4.30,3.91,4.0,4.36,255,0.9216
+284,"Marchisotto, Jennifer Anne","CAT 2 - Culture, Art, and Technology 2 (C00)",WI24,3.56,4.86,4.07,4.08,4.38,222,0.6261
+285,"Bronstein, Phoebe Malan","CAT 2 - Culture, Art, and Technology 2 (D00)",WI24,3.73,4.68,3.7,3.84,4.21,191,0.8743000000000001
+286,"Popko, Elizabeth Ashley",CAT 2CE - Writing and Community 1 (A00),WI24,3.79,6.83,4.67,4.68,4.71,24,0.5417000000000001
+287,"Glaser, Amelia","CAT 3 - Culture, Art, and Technology 3 (A00)",SP24,3.8,4.28,3.87,3.84,4.36,217,0.39630000000000004
+288,"Porter, Lisa","CAT 3 - Culture, Art, and Technology 3 (B00)",SP24,3.73,4.20,4.15,4.18,4.44,210,0.2429
+289,"Marchisotto, Jennifer Anne","CAT 3 - Culture, Art, and Technology 3 (C00)",SP24,3.65,4.40,3.78,4.05,4.4,275,0.3273
+290,"Rahimi, Babak","CAT 3 - Culture, Art, and Technology 3 (D00)",SP24,3.91,3.62,4.13,4.18,4.39,184,0.2826
+291,"Gumm, Elizabeth Ashley","CAT 3 - Culture, Art, and Technology 3 (C00)",SP23,3.73,5.62,4.04,4.11,4.49,224,0.6204999999999999
+292,"Bronstein, Phoebe Malan","CAT 3 - Culture, Art, and Technology 3 (E00)",SP23,3.8,7.38,4.61,4.61,4.76,23,0.913
+293,"Bronstein, Phoebe Malan",CAT 3CE - Writing and Community 2 (A00),SP24,3.85,4.70,4.68,4.59,4.84,22,0.9091
+294,"Bronstein, Phoebe Malan",CAT 87 - Freshman Seminar (A00),SP24,,2.00,5.0,5.0,4.95,15,0.7333
+295,"Geibel, William",CAT 90 - Experiential Learning Seminar (A00),FA23,,5.00,4.58,4.72,4.78,15,0.6
+296,"Knight, Amy",CAT 124 - Sixth College Practicum (C00),WI24,3.44,5.75,4.75,4.81,4.88,9,0.8889
+297,"Geibel, William",CAT 124 - Sixth College Practicum (D00),WI24,3.5,5.80,4.29,4.38,4.25,9,0.6667000000000001
+298,"Knight, Amy",CAT 124 - Sixth College Practicum (A00),FA23,4.0,5.00,4.94,4.88,4.94,4,1.0
+299,"Rose, Becca Rae",CAT 124 - Sixth College Practicum (B00),FA23,3.91,5.00,5.0,4.88,4.88,12,0.3333
+300,"Westerfeld, Kevin John",CAT 124 - Sixth College Practicum (A00),S223,3.96,5.00,4.75,4.88,4.89,16,0.5625
+301,"Rose, Becca Rae",CAT 124 - Sixth College Practicum (A00),S123,3.94,6.67,4.64,4.58,4.67,14,0.2143
+302,"Geibel, William",CAT 124RS - Sixth Practicum Online GS (A00),S323,4.0,6.58,3.95,4.05,4.4,22,0.8636
+303,"Bigham, David Joseph",CAT 125 - Public Rhetoric & Prac Comm,SP24,3.66,2.33,5.0,5.0,5.0,15,0.2
+304,"Bigham, David Joseph",CAT 125 - Public Rhetoric & Prac Comm,SP24,3.73,4.67,4.71,4.79,4.92,19,0.31579999999999997
+305,"Bigham, David Joseph",CAT 125 - Public Rhetoric & Prac Comm,SP24,3.7,3.40,4.53,4.55,4.5,20,0.25
+306,"Vanderschuit, Maya Alysia",CAT 125 - Public Rhetoric & Prac Comm,SP24,2.74,3.67,4.5,4.83,4.67,3,1.0
+307,"Vanderschuit, Maya Alysia",CAT 125 - Public Rhetoric & Prac Comm,SP24,3.53,3.00,4.39,4.43,4.81,12,0.9167000000000001
+308,"Vanderschuit, Maya Alysia",CAT 125 - Public Rhetoric & Prac Comm,SP24,3.59,4.17,4.63,4.58,4.6,20,0.6
+309,"Rose, Becca Rae",CAT 125 - Public Rhetoric & Prac Comm,SP24,3.19,4.00,4.19,4.5,4.44,18,0.2778
+310,"Rose, Becca Rae",CAT 125 - Public Rhetoric & Prac Comm,SP24,3.43,4.20,3.8,4.0,4.6,20,0.25
+311,"Rose, Becca Rae",CAT 125 - Public Rhetoric & Prac Comm,SP24,3.58,7.00,3.69,4.13,4.25,17,0.2353
+312,"Tosun, Adriana",CAT 125 - Public Rhetoric & Prac Comm,SP24,3.84,2.86,4.59,4.48,4.71,19,0.7368000000000001
+313,"Tosun, Adriana",CAT 125 - Public Rhetoric & Prac Comm,SP24,3.79,2.80,4.25,4.1,4.65,17,0.5882000000000001
+314,"Irwin, Matthew Joseph",CAT 125 - Public Rhetoric & Prac Comm,SP24,3.72,3.89,4.31,4.28,4.33,10,0.9
+315,"Irwin, Matthew Joseph",CAT 125 - Public Rhetoric & Prac Comm,SP24,3.84,4.00,4.69,4.63,4.75,17,0.4706
+316,"Irwin, Matthew Joseph",CAT 125 - Public Rhetoric & Prac Comm,SP24,3.92,4.33,4.46,4.36,4.48,7,0.8571
+317,"Delaville, Romain",CAT 125 - Public Rhetoric & Prac Comm,WI24,3.33,2.71,4.5,4.64,4.89,20,0.35000000000000003
+318,"Bigham, David Joseph",CAT 125 - Public Rhetoric & Prac Comm,WI24,3.73,6.50,4.44,4.6,4.75,19,0.21050000000000002
+319,"Bigham, David Joseph",CAT 125 - Public Rhetoric & Prac Comm,WI24,3.57,2.67,4.58,4.46,4.67,20,0.3
+320,"Bigham, David Joseph",CAT 125 - Public Rhetoric & Prac Comm,WI24,3.71,3.00,4.78,4.85,4.79,20,0.35000000000000003
+321,"Marchisotto, Jennifer Anne",CAT 125 - Public Rhetoric & Prac Comm,WI24,3.93,3.38,4.36,4.62,4.61,20,0.8
+322,"Marchisotto, Jennifer Anne",CAT 125 - Public Rhetoric & Prac Comm,WI24,3.88,3.71,4.36,4.57,4.73,17,0.8235
+323,"Vanderschuit, Maya Alysia",CAT 125 - Public Rhetoric & Prac Comm,WI24,2.76,3.80,4.05,4.24,4.68,16,0.625
+324,"Vanderschuit, Maya Alysia",CAT 125 - Public Rhetoric & Prac Comm,WI24,3.65,4.60,3.85,4.0,4.37,19,0.7895000000000001
+325,"Vanderschuit, Maya Alysia",CAT 125 - Public Rhetoric & Prac Comm,WI24,3.65,4.25,4.37,4.36,4.51,20,0.8
+326,"Morales, Celeste Georgianna",CAT 125 - Public Rhetoric & Prac Comm,WI24,3.57,3.00,4.17,4.25,4.58,14,0.2143
+327,"Morales, Celeste Georgianna",CAT 125 - Public Rhetoric & Prac Comm,WI24,3.62,3.80,4.1,4.25,4.5,16,0.3125
+328,"Morales, Celeste Georgianna",CAT 125 - Public Rhetoric & Prac Comm,WI24,3.61,3.00,4.5,4.55,4.75,18,0.2778
+329,"Rose, Becca Rae",CAT 125 - Public Rhetoric & Prac Comm,WI24,3.23,3.67,3.67,4.0,4.42,17,0.1765
+330,"Rose, Becca Rae",CAT 125 - Public Rhetoric & Prac Comm,WI24,3.48,4.20,4.3,4.4,4.65,5,1.0
+331,"Rose, Becca Rae",CAT 125 - Public Rhetoric & Prac Comm,WI24,3.43,5.00,4.83,4.83,4.92,4,0.75
+332,"Tosun, Adriana",CAT 125 - Public Rhetoric & Prac Comm,WI24,3.87,3.57,4.43,4.52,4.62,20,0.7000000000000001
+333,"Tosun, Adriana",CAT 125 - Public Rhetoric & Prac Comm,WI24,3.86,3.25,4.45,4.28,4.59,20,0.8
+334,"Irwin, Matthew Joseph",CAT 125 - Public Rhetoric & Prac Comm,WI24,3.71,3.80,4.05,4.05,4.45,19,0.2632
+335,"Irwin, Matthew Joseph",CAT 125 - Public Rhetoric & Prac Comm,WI24,3.72,4.11,4.05,4.03,4.3,19,0.5263
+336,"Irwin, Matthew Joseph",CAT 125 - Public Rhetoric & Prac Comm,WI24,3.91,3.67,4.79,4.75,4.92,19,0.31579999999999997
+337,"Vanderschuit, Maya Alysia",CAT 125 - Public Rhetoric & Prac Comm (A00),FA23,3.36,6.00,3.72,3.63,4.33,20,0.75
+338,"Vanderschuit, Maya Alysia",CAT 125 - Public Rhetoric & Prac Comm (B00),FA23,3.71,5.00,4.09,4.0,4.29,19,0.42110000000000003
+339,"Vanderschuit, Maya Alysia",CAT 125 - Public Rhetoric & Prac Comm (C00),FA23,3.79,5.00,4.36,4.31,4.59,17,0.8235
+340,"Morales, Celeste Georgianna",CAT 125 - Public Rhetoric & Prac Comm (D00),FA23,3.74,5.00,4.17,4.36,4.58,20,0.15
+341,"Morales, Celeste Georgianna",CAT 125 - Public Rhetoric & Prac Comm (E00),FA23,3.86,5.00,4.21,4.08,4.5,20,0.3
+342,"Morales, Celeste Georgianna",CAT 125 - Public Rhetoric & Prac Comm (F00),FA23,3.26,5.71,3.71,3.57,3.89,20,0.35000000000000003
+343,"Rose, Becca Rae",CAT 125 - Public Rhetoric & Prac Comm (G00),FA23,3.69,5.00,4.14,4.3,4.5,19,0.42110000000000003
+344,"Rose, Becca Rae",CAT 125 - Public Rhetoric & Prac Comm (H00),FA23,3.62,5.91,4.5,4.47,4.61,20,0.55
+345,"Marchisotto, Jennifer Anne",CAT 125 - Public Rhetoric & Prac Comm (I00),FA23,3.91,5.67,4.5,4.63,4.75,19,0.7895000000000001
+346,"Bigham, David Joseph",CAT 125 - Public Rhetoric & Prac Comm (J00),FA23,3.88,5.00,4.72,4.81,4.63,20,0.4
+347,"Bigham, David Joseph",CAT 125 - Public Rhetoric & Prac Comm (K00),FA23,3.88,5.00,4.68,4.86,4.83,20,0.5
+348,"Tosun, Adriana",CAT 125 - Public Rhetoric & Prac Comm (L00),FA23,3.79,4.69,4.36,4.31,4.63,20,0.8
+349,"Tosun, Adriana",CAT 125 - Public Rhetoric & Prac Comm (M00),FA23,3.81,5.00,4.44,4.49,4.81,20,0.9
+350,"Irwin, Matthew Joseph",CAT 125 - Public Rhetoric & Prac Comm (N00),FA23,3.94,5.83,3.67,3.54,3.78,20,0.3
+351,"Irwin, Matthew Joseph",CAT 125 - Public Rhetoric & Prac Comm (O00),FA23,3.73,5.00,4.05,4.1,4.55,20,0.5
+352,"Irwin, Matthew Joseph",CAT 125 - Public Rhetoric & Prac Comm (P00),FA23,3.61,5.91,3.84,4.09,4.4,19,0.5789
+353,"Marchisotto, Jennifer Anne",CAT 125 - Public Rhetoric & Prac Comm (Q00),FA23,3.93,5.56,4.57,4.51,4.56,20,0.9
+354,"Marchisotto, Jennifer Anne",CAT 125 - Public Rhetoric & Prac Comm (R00),FA23,3.76,5.33,4.47,4.75,4.9,20,0.75
+355,"Marchisotto, Jennifer Anne",CAT 125 - Public Rhetoric & Prac Comm (A00),S223,3.92,5.45,4.67,4.84,4.89,20,0.55
+356,"Delaville, Romain",CAT 125 - Public Rhetoric & Prac Comm (A00),S123,3.81,7.00,3.9,4.15,4.1,17,0.29410000000000003
+357,"Rose, Becca Rae",CAT 125 - Public Rhetoric & Prac Comm (C00),S123,3.69,5.83,4.58,4.75,4.88,19,0.31579999999999997
+358,"Bronstein, Phoebe Malan",CAT 125GS - Public Rhetoric & Prac Comm GS (A00),S123,4.0,5.50,4.85,4.9,4.92,14,0.7143
+359,"Smith, Lauryn Alissa",CAT 125R - Pub Rhet & Prac Comm Online (A00),SP24,3.42,4.33,4.37,4.51,4.75,19,0.7895000000000001
+360,"Smith, Lauryn Alissa",CAT 125R - Pub Rhet & Prac Comm Online (B00),SP24,3.43,4.07,4.33,4.39,4.64,20,0.75
+361,"Smith, Lauryn Alissa",CAT 125R - Pub Rhet & Prac Comm Online (C00),SP24,3.53,5.57,4.13,3.9,4.59,16,0.5
+362,"Tosun, Adriana",CAT 125R - Pub Rhet & Prac Comm Online (D00),SP24,3.89,3.00,4.15,4.15,4.41,20,0.35000000000000003
+363,"Hyland, Tina Mae",CAT 125R - Pub Rhet & Prac Comm Online (E00),SP24,3.58,3.67,4.68,4.57,4.89,19,0.31579999999999997
+364,"Hyland, Tina Mae",CAT 125R - Pub Rhet & Prac Comm Online (F00),SP24,3.62,6.20,4.7,4.9,4.9,19,0.2632
+365,"Hyland, Tina Mae",CAT 125R - Pub Rhet & Prac Comm Online (G00),SP24,3.93,3.29,5.0,4.89,5.0,19,0.36840000000000006
+366,"Hyland, Tina Mae",CAT 125R - Pub Rhet & Prac Comm Online (A00),WI24,3.97,3.25,4.23,4.03,4.34,20,0.4
+367,"Hyland, Tina Mae",CAT 125R - Pub Rhet & Prac Comm Online (B00),WI24,3.94,3.25,4.56,4.58,4.61,20,0.4
+368,"Hyland, Tina Mae",CAT 125R - Pub Rhet & Prac Comm Online (C00),WI24,3.94,4.43,4.71,4.5,4.68,20,0.35000000000000003
+369,"Smith, Lauryn Alissa",CAT 125R - Pub Rhet & Prac Comm Online (D00),WI24,3.42,4.08,4.25,4.25,4.37,20,0.65
+370,"Smith, Lauryn Alissa",CAT 125R - Pub Rhet & Prac Comm Online (E00),WI24,3.18,4.00,4.15,3.95,4.3,18,0.5556
+371,"Smith, Lauryn Alissa",CAT 125R - Pub Rhet & Prac Comm Online (F00),WI24,3.35,5.00,4.18,4.14,4.37,19,0.7368000000000001
+372,"Tosun, Adriana",CAT 125R - Pub Rhet & Prac Comm Online (G00),WI24,3.72,3.80,4.53,4.44,4.68,19,0.5263
+373,"Tosun, Adriana",CAT 125R - Pub Rhet & Prac Comm Online (A00),FA23,3.76,5.00,4.54,4.64,4.74,20,0.85
+374,"Hyland, Tina Mae",CAT 125R - Pub Rhet & Prac Comm Online (B00),FA23,3.94,5.00,4.58,4.68,4.8,20,0.55
+375,"Hyland, Tina Mae",CAT 125R - Pub Rhet & Prac Comm Online (C00),FA23,3.94,5.56,4.56,4.53,4.58,20,0.45
+376,"Smith, Lauryn Alissa",CAT 125R - Pub Rhet & Prac Comm Online (D00),FA23,3.42,5.00,4.32,4.41,4.62,19,0.7368000000000001
+377,"Smith, Lauryn Alissa",CAT 125R - Pub Rhet & Prac Comm Online (E00),FA23,3.14,5.00,4.01,3.87,4.43,20,0.85
+378,"Smith, Lauryn Alissa",CAT 125R - Pub Rhet & Prac Comm Online (F00),FA23,3.34,5.29,3.81,3.85,4.26,20,0.85
+379,"Hyland, Tina Mae",CAT 125R - Pub Rhet & Prac Comm Online (G00),FA23,3.9,5.00,4.45,4.3,4.55,19,0.2632
+380,"Smith, Lauryn Alissa",CAT 125R - Pub Rhet & Prac Comm Online (A00),S223,3.28,5.83,4.25,4.49,4.54,20,0.6
+381,"Irwin, Matthew Joseph",CAT 125R - Pub Rhet & Prac Comm Online (C00),S223,3.91,6.67,4.71,4.71,4.58,20,0.3
+382,"Irwin, Matthew Joseph",CAT 125R - Pub Rhet & Prac Comm Online (A00),S123,3.89,6.67,4.0,4.0,4.06,18,0.5
+383,"Hyland, Tina Mae",CAT 125R - Pub Rhet & Prac Comm Online (C00),S123,3.94,5.83,4.35,4.52,4.67,19,0.31579999999999997
+384,"Vanderschuit, Maya Alysia",CAT 125R - Pub Rhet & Prac Comm Online (D00),S123,3.78,6.25,4.48,4.21,4.37,19,0.6315999999999999
+385,"Vanderschuit, Maya Alysia",CAT 125R - Pub Rhet & Prac Comm Online (F00),S123,3.53,5.00,4.19,3.81,4.13,19,0.21050000000000002
+386,"Geibel, William",CAT 125RS - Pub Rhet & Prac Comm Online GS (A00),S323,3.84,7.50,3.87,3.96,4.36,22,0.8181999999999999
+387,"Tiefenbruck, Janine LoBue",DSC 10 - Principles of Data Science (A00),SP24,3.22,7.60,4.45,4.22,4.57,40,0.525
+388,"Tiefenbruck, Janine LoBue",DSC 10 - Principles of Data Science (B00),SP24,3.03,8.45,4.41,4.06,4.51,73,0.6437999999999999
+389,"Tiefenbruck, Janine LoBue",DSC 10 - Principles of Data Science (C00),SP24,2.9,7.89,4.45,4.29,4.5,81,0.6173
+390,"Tiefenbruck, Janine LoBue",DSC 10 - Principles of Data Science (A00),WI24,3.25,8.41,4.4,4.05,4.51,56,0.7857
+391,"Tiefenbruck, Janine LoBue",DSC 10 - Principles of Data Science (B00),WI24,3.13,7.39,4.41,4.09,4.53,87,0.6207
+392,"Tiefenbruck, Janine LoBue",DSC 10 - Principles of Data Science (C00),WI24,2.93,8.55,4.36,3.99,4.41,67,0.6866
+393,"Tiefenbruck, Janine LoBue",DSC 10 - Principles of Data Science (A00),FA23,3.25,8.10,4.42,4.03,4.52,137,0.7664
+394,"Tiefenbruck, Janine LoBue",DSC 10 - Principles of Data Science (B00),FA23,3.13,8.51,4.36,4.01,4.43,138,0.8043000000000001
+395,"Rampure, Suraj",DSC 10 - Principles of Data Science (C00),FA23,3.31,8.77,4.53,4.14,4.58,136,0.8382
+396,"Albuyeh, Rod",DSC 10 - Principles of Data Science (D00),FA23,3.15,8.52,4.32,3.94,4.44,72,0.8472
+397,"Langlois, Marina",DSC 20 - Prgrmng/DataStruc for Data Sci (A00),SP24,2.96,8.41,4.39,4.35,4.46,144,0.2778
+398,"Langlois, Marina",DSC 20 - Prgrmng/DataStruc for Data Sci (A00),WI24,3.01,8.96,4.58,4.49,4.65,145,0.3586
+399,"Langlois, Marina",DSC 20 - Prgrmng/DataStruc for Data Sci (B00),WI24,3.38,7.88,4.52,4.42,4.56,148,0.3311
+400,"Langlois, Marina",DSC 20 - Prgrmng/DataStruc for Data Sci (A00),FA23,3.01,9.38,4.52,4.29,4.55,108,0.2963
+401,"Langlois, Marina",DSC 30 - DataStrc/Algrthms for Data Sci (A00),SP24,2.81,11.35,4.38,4.11,4.41,119,0.3361
+402,"Langlois, Marina",DSC 30 - DataStrc/Algrthms for Data Sci (B00),SP24,3.19,10.43,4.28,4.05,4.44,146,0.30820000000000003
+403,"Langlois, Marina",DSC 30 - DataStrc/Algrthms for Data Sci (A00),WI24,2.74,10.71,4.52,4.35,4.55,87,0.2759
+404,"Langlois, Marina",DSC 30 - DataStrc/Algrthms for Data Sci (A00),FA23,2.74,9.83,4.39,4.21,4.5,92,0.3261
+405,"Lin, Kevin",DSC 30 - DataStrc/Algrthms for Data Sci (A00),S123,3.58,8.88,4.14,4.2,4.58,46,0.8695999999999999
+406,"Rampure, Suraj",DSC 40A - Theor Fndtns of Data Sci I (A00),SP24,3.25,9.74,4.35,4.17,4.55,112,0.9554
+407,"Rampure, Suraj",DSC 40A - Theor Fndtns of Data Sci I (B00),SP24,3.19,8.79,4.36,4.07,4.46,80,0.9
+408,"Li, Aobo",DSC 40A - Theor Fndtns of Data Sci I (A00),WI24,2.89,8.81,4.05,3.83,4.27,150,0.6133
+409,"Ma, Yian",DSC 40A - Theor Fndtns of Data Sci I (A00),FA23,3.27,9.02,3.8,3.33,4.45,149,0.30870000000000003
+410,"Albuyeh, Rod",DSC 40A - Theor Fndtns of Data Sci I (A00),S123,3.33,9.00,4.5,4.4,4.55,29,0.8621
+411,"Tiefenbruck, Janine LoBue",DSC 40A - Theor Fndtns of Data Sci I (A00),SP23,3.11,9.07,4.28,4.11,4.46,70,0.7857
+412,"Tiefenbruck, Janine LoBue",DSC 40A - Theor Fndtns of Data Sci I (B00),SP23,2.72,9.30,4.2,3.99,4.46,70,0.8143000000000001
+413,"Rafiey, Akbar",DSC 40B - Theor Fndtns of Data Sci II (A00),SP24,3.06,6.35,4.17,4.07,4.26,100,0.79
+414,"Kolovos, Alexandros",DSC 40B - Theor Fndtns of Data Sci II (A00),WI24,3.13,6.00,4.54,4.31,4.55,46,0.2609
+415,"Tabaghi, Puoya",DSC 40B - Theor Fndtns of Data Sci II (B00),WI24,3.72,6.14,4.14,3.82,4.05,63,0.22219999999999998
+416,"Eldridge, Justin Matthew",DSC 40B - Theor Fndtns of Data Sci II (A00),FA23,3.3,8.21,4.71,4.62,4.59,100,0.28
+417,"Rafiey, Akbar",DSC 40B - Theor Fndtns of Data Sci II (B00),FA23,3.06,8.18,4.41,4.56,4.52,33,0.3333
+418,"Lau, Samuel Ethan",DSC 80 - Practice of Data Science (A00),SP24,3.36,12.12,4.57,4.26,4.54,72,0.7222
+419,"Lau, Samuel Ethan",DSC 80 - Practice of Data Science (B00),SP24,3.55,11.89,4.57,4.23,4.67,68,0.8088
+420,"Rampure, Suraj",DSC 80 - Practice of Data Science (A00),WI24,3.39,12.55,4.52,4.33,4.56,135,0.8370000000000001
+421,"Lau, Samuel Ethan",DSC 80 - Practice of Data Science (A00),FA23,3.33,9.88,4.48,4.16,4.46,153,0.5425
+422,"Rampure, Suraj",DSC 95 - Tutor Appshp in Data Science (A00),SP24,,2.69,4.58,4.65,4.69,25,0.52
+423,"Langlois, Marina",DSC 95 - Tutor Appshp in Data Science (A00),FA23,,4.75,4.56,4.69,4.72,34,0.5882000000000001
+424,"Quer, Giorgio",DSC 96 - Workshop in Data Science (A00),WI24,,3.75,4.37,4.11,4.33,34,0.2647
+425,"Jemmott, Colin William",DSC 96 - Workshop in Data Science (A00),FA23,,5.00,4.32,4.21,4.44,22,0.5
+426,"Salimi, Babak",DSC 100 - Intro to Data Management (A00),SP24,3.82,5.70,4.11,3.9,4.26,106,0.6981
+427,"Shannon, Kyle Michael",DSC 100 - Intro to Data Management (A00),WI24,3.55,6.68,4.43,4.29,4.53,141,0.5816
+428,"Salimi, Babak",DSC 100 - Intro to Data Management (A00),FA23,3.76,6.49,4.33,4.21,4.4,49,0.7551000000000001
+429,"Shannon, Kyle Michael",DSC 100 - Intro to Data Management (B00),FA23,3.65,7.19,4.67,4.65,4.69,42,0.7619
+430,"Jin, Haojian",DSC 102 - Systems for Scalable Analytics (A00),SP24,3.68,6.80,4.01,3.91,4.27,147,0.6259
+431,"Bellur, Umesh",DSC 102 - Systems for Scalable Analytics (A00),WI24,3.02,9.90,2.95,2.84,3.61,48,0.4167
+432,"Jin, Haojian",DSC 102 - Systems for Scalable Analytics (A00),FA23,3.71,8.33,3.67,3.64,4.13,97,0.3093
+433,"Wilber, Jared Dane",DSC 106 - Intro to Data Visualization (A00),SP24,3.96,6.35,4.04,3.81,4.1,142,0.2183
+434,"Lau, Samuel Ethan",DSC 106 - Intro to Data Visualization (A00),WI24,3.74,7.78,4.66,4.5,4.66,46,0.5652
+435,"Lau, Samuel Ethan",DSC 106 - Intro to Data Visualization (B00),WI24,3.72,9.19,4.19,4.09,4.37,151,0.6623
+436,"Mishne, Gal",DSC 120 - Signal Processing/Data Analys (A00),FA23,3.08,9.44,4.64,4.34,4.29,29,0.3103
+437,"Eldridge, Justin Matthew",DSC 140A - Probabilistic Modeling and ML (A00),SP24,3.33,6.78,4.73,4.76,4.72,155,0.2452
+438,"Eldridge, Justin Matthew",DSC 140A - Probabilistic Modeling and ML (A00),WI24,3.28,7.97,4.7,4.59,4.67,122,0.3033
+439,"Eldridge, Justin Matthew",DSC 140A - Probabilistic Modeling and ML (B00),WI24,3.32,7.21,4.67,4.49,4.62,123,0.2927
+440,"Weng, Tsui-Wei (lily)",DSC 140B - Representation Learning (A00),SP24,3.51,7.27,4.07,3.73,3.94,129,0.6512000000000001
+441,"Hu, Zhiting",DSC 140B - Representation Learning (A00),WI24,3.63,5.74,4.65,4.68,4.59,31,0.6129
+442,"Shang, Jingbo",DSC 148 - Introduction to Data Mining (A00),WI24,3.66,6.35,4.17,4.11,4.43,77,0.5844
+443,"Dumitriu, Ioana",DSC 155 - Hidden Data in Random Matrices (A00),WI24,2.89,5.86,4.04,3.89,4.3,19,0.36840000000000006
+444,"Roberts, Margaret Earling",DSC 161 - Text as Data (A00),WI24,3.5,6.50,4.75,4.75,4.75,14,0.2857
+445,"Zaslavsky, Ilya",DSC 170 - Spatial Data Science and Appl (A00),WI24,3.85,9.50,4.69,4.63,4.75,38,0.10529999999999999
+446,"Rampure, Suraj",DSC 180A - Data Science Project I (A00),FA23,3.97,9.06,4.7,4.72,4.62,96,0.16670000000000001
+447,"Rampure, Suraj",DSC 180A - Data Science Project I (B00),FA23,3.98,7.50,4.53,4.63,4.74,139,0.1727
+448,"Rampure, Suraj",DSC 180B - Data Science Project II (A00),WI24,3.96,9.60,4.6,4.59,4.58,97,0.10310000000000001
+449,"Rampure, Suraj",DSC 180B - Data Science Project II (B00),WI24,3.99,6.23,4.57,4.57,4.53,138,0.0942
+450,"Silberman, Jack",DSC 190 - Topics in Data Science (A00),SP24,3.97,11.80,4.51,4.42,4.6,14,0.7857
+451,"Ustun, Tevfik Berk",DSC 190 - Topics in Data Science (B00),SP24,3.79,5.93,4.48,4.55,4.53,35,0.4286
+452,"Rahman, Tauhidur",DSC 190 - Topics in Data Science (C00),SP24,3.75,5.14,3.86,3.64,3.98,43,0.32560000000000006
+453,"Eldridge, Justin Matthew",DSC 190 - Topics in Data Science (A00),FA23,3.87,7.37,4.95,4.96,4.97,72,0.2639
+454,"Silberman, Jack",DSC 190 - Topics in Data Science (A00),S123,3.96,10.00,4.71,4.3,4.46,8,0.75
+455,"Rodriguez, Ruben",ENG 5 - Orientation to Engr Profession (A00),FA23,,4.00,4.22,4.25,4.43,65,0.3846
+456,"Evdokimenko, Ekaterina",ENG 10 - Fundamentals/Engineering Appln (A00),SP24,3.63,4.25,4.52,4.54,4.64,20,0.8
+457,"Evdokimenko, Ekaterina",ENG 10 - Fundamentals/Engineering Appln (B00),WI24,3.77,5.00,4.17,4.33,4.54,18,0.7222
+458,"Evdokimenko, Ekaterina",ENG 10 - Fundamentals/Engineering Appln (A00),FA23,3.67,5.59,4.34,4.48,4.63,31,0.5484
+459,"Metera, Jenna Marie",ENG 15 - Engineer Your Success (A00),WI24,,2.20,4.8,4.85,4.85,10,0.5
+460,"Metera, Jenna Marie",ENG 15 - Engineer Your Success (A00),FA23,,6.11,4.33,4.31,4.56,18,0.5
+461,"Evdokimenko, Ekaterina",ENG 20 - Intro to Engineering Research (A00),FA23,3.93,6.25,4.29,4.41,4.59,41,0.5854
+462,"Ngo, Anh-Thu T.",ENG 100D - Sustainable Development Design (A00),SP24,3.71,5.17,4.35,4.36,4.53,58,0.6207
+463,"Ngo, Anh-Thu T.",ENG 100D - Sustainable Development Design (A00),WI24,3.68,5.96,4.28,4.3,4.26,48,0.5833
+464,"Ngo, Anh-Thu T.",ENG 100D - Sustainable Development Design (A00),FA23,3.68,6.52,4.05,4.23,4.46,55,0.6182
+465,"Ngo, Anh-Thu T.",ENG 100DR - Sustainable Development Design (A00),SP24,3.71,5.64,4.05,4.07,4.26,48,0.7917000000000001
+466,"Ngo, Anh-Thu T.",ENG 100DR - Sustainable Development Design (A00),WI24,3.77,6.00,4.15,4.2,4.26,46,0.6522
+467,"Ngo, Anh-Thu T.",ENG 100DR - Sustainable Development Design (A00),FA23,3.77,6.25,4.16,4.3,4.4,37,0.7568000000000001
+468,"Kleissl, Jan",ENG 100L - Design for Development Lab (A00),SP24,3.82,2.33,4.58,4.55,4.58,6,0.5
+469,"Bratton, Maryann",ENG 100L - Design for Development Lab (F00),SP24,3.86,6.33,4.75,4.91,5.0,7,0.4286
+470,"Boyle, Mary E. T.",ENG 100L - Design for Development Lab (G00),SP24,4.0,5.00,4.3,4.12,4.18,23,0.21739999999999998
+471,"Boyle, Mary E. T.",ENG 100L - Design for Development Lab (G00),WI24,4.0,5.80,4.94,5.0,5.0,20,0.25
+472,"Bratton, Maryann",ENG 100L - Design for Development Lab (G00),FA23,3.95,8.33,4.67,4.67,4.67,8,0.375
+473,"Strom, Megan C.",DOC 1 - Diversity (A00),FA23,3.67,5.72,4.03,4.14,4.46,234,0.9487000000000001
+474,"Strom, Megan C.",DOC 1 - Diversity (B00),FA23,3.81,5.93,4.11,4.16,4.47,238,0.9496
+475,"Chapman, Dillon",DOC 1 - Diversity (C00),FA23,3.87,5.65,4.03,4.11,4.48,210,0.919
+476,"Chapman, Dillon",DOC 1 - Diversity (D00),FA23,3.65,5.88,3.71,3.71,4.19,182,0.9066
+477,"Strom, Megan C.",DOC 1 - Diversity (A00),S223,3.67,7.59,4.35,4.31,4.5,41,0.7073
+478,"Strom, Megan C.",DOC 2 - Justice (A00),WI24,3.88,4.71,4.11,4.2,4.47,239,0.9247
+479,"Strom, Megan C.",DOC 2 - Justice (B00),WI24,3.83,4.84,4.07,4.1,4.43,239,0.9665
+480,"Chapman, Dillon",DOC 2 - Justice (C00),WI24,3.8,4.67,3.84,3.83,4.11,210,0.8856999999999999
+481,"Chapman, Dillon",DOC 2 - Justice (D00),WI24,3.77,4.90,3.85,3.85,4.21,179,0.9218000000000001
+482,"Strom, Megan C.",DOC 3 - Imagination (A00),SP24,3.92,4.07,4.04,4.14,4.37,210,0.7905
+483,"Strom, Megan C.",DOC 3 - Imagination (B00),SP24,3.94,4.32,4.13,4.26,4.45,206,0.8251999999999999
+484,"Chapman, Dillon",DOC 3 - Imagination (C00),SP24,3.9,4.14,4.07,4.11,4.34,207,0.8212999999999999
+485,"Chapman, Dillon",DOC 3 - Imagination (D00),SP24,3.94,3.92,3.94,4.03,4.34,210,0.8095
+486,"Pass, Natalye Joann",DOC 100D - Promises&Contradictions/USCult (A00),SP24,3.66,10.50,5.0,5.0,5.0,21,0.2857
+487,"Pass, Natalye Joann",DOC 100D - Promises&Contradictions/USCult (B00),SP24,3.56,5.50,4.69,4.44,4.38,21,0.1905
+488,"Pass, Natalye Joann",DOC 100D - Promises&Contradictions/USCult (A00),FA23,3.59,9.38,4.56,4.44,4.56,26,0.30770000000000003
+489,"Pass, Natalye Joann",DOC 100D - Promises&Contradictions/USCult (B00),FA23,3.47,7.78,4.58,4.28,4.61,20,0.45
+490,"Pass, Natalye Joann",DOC 100D - Promises&Contradictions/USCult (A00),S223,3.59,7.50,3.25,3.25,3.75,15,0.26670000000000005
+491,"Crane, Meredith Helen",ECON 1 - Principles of Microeconomics (A00),SP24,3.09,3.99,4.5,4.47,4.63,318,0.478
+492,"Crane, Meredith Helen",ECON 1 - Principles of Microeconomics (A00),WI24,3.17,3.72,4.35,4.37,4.58,118,0.6102000000000001
+493,"Newhouse, Herbert S",ECON 1 - Principles of Microeconomics (B00),WI24,2.69,5.00,4.19,4.25,4.51,47,0.383
+494,"Candido, Maria Teresa",ECON 1 - Principles of Microeconomics (C00),WI24,2.8,5.56,3.93,4.03,4.47,87,0.2184
+495,"Crane, Meredith Helen",ECON 1 - Principles of Microeconomics (D00),WI24,3.11,4.00,4.57,4.54,4.7,140,0.7143
+496,"Levkoff, Steven B.",ECON 1 - Principles of Microeconomics (A00),FA23,2.69,6.82,3.96,3.94,4.4,467,0.4518
+497,"Levkoff, Steven B.",ECON 1 - Principles of Microeconomics (B00),FA23,3.05,6.37,4.08,4.03,4.4,390,0.4462
+498,"Ma, Alyson Chan",ECON 1 - Principles of Microeconomics (C00),FA23,3.06,5.00,4.11,3.98,4.45,334,0.4611
+499,"Crane, Meredith Helen",ECON 1 - Principles of Microeconomics (A00),S223,3.17,6.67,4.52,4.62,4.65,36,0.3333
+500,"Famulari, Melissa",ECON 1 - Principles of Microeconomics (A00),S123,2.94,5.00,4.45,4.33,4.54,32,0.4375
+501,"Crane, Meredith Helen",ECON 1 - Principles of Microeconomics (A00),SP23,3.17,5.54,4.37,4.47,4.6,248,0.3387
+502,"Candido, Maria Teresa",ECON 2 - Market Imperfections & Policy (A00),SP24,2.86,5.29,4.38,4.25,4.59,70,0.2
+503,"Crane, Meredith Helen",ECON 2 - Market Imperfections & Policy (A00),WI24,3.11,4.04,4.47,4.48,4.56,155,0.5032
+504,"Crane, Meredith Helen",ECON 2 - Market Imperfections & Policy (A00),FA23,3.11,5.33,4.31,4.35,4.53,170,0.5353
+505,"Levkoff, Steven B.",ECON 2 - Market Imperfections & Policy (A00),S123,3.24,5.00,4.47,4.45,4.84,38,0.2368
+506,"Crane, Meredith Helen",ECON 3 - Principles of Macroeconomics (A00),SP24,3.14,4.24,4.44,4.45,4.63,321,0.5327000000000001
+507,"Rondina, Giacomo",ECON 3 - Principles of Macroeconomics (A00),WI24,3.09,5.20,4.17,4.0,4.45,229,0.6987000000000001
+508,"Rondina, Giacomo",ECON 3 - Principles of Macroeconomics (B00),WI24,3.14,5.24,4.2,4.09,4.4,229,0.655
+509,"Dai, Yinlin",ECON 3 - Principles of Macroeconomics (C00),WI24,3.11,3.83,4.47,4.42,4.4,50,0.58
+510,"Dai, Yinlin",ECON 3 - Principles of Macroeconomics (A00),FA23,2.79,5.97,3.97,3.7,4.06,103,0.6505
+511,"Crane, Meredith Helen",ECON 3 - Principles of Macroeconomics (A00),S223,3.25,6.00,4.61,4.7,4.73,68,0.2206
+512,"Crane, Meredith Helen",ECON 3 - Principles of Macroeconomics (A00),SP23,3.25,5.81,4.44,4.47,4.59,281,0.45909999999999995
+513,"Levkoff, Steven B.",ECON 4 - Financial Accounting (A00),SP24,2.71,4.88,4.07,4.17,4.43,173,0.19649999999999998
+514,"Levkoff, Steven B.",ECON 4 - Financial Accounting (A00),WI24,2.6,5.30,3.93,4.0,4.25,109,0.2569
+515,"Levkoff, Steven B.",ECON 4 - Financial Accounting (B00),WI24,2.92,5.00,4.22,4.14,4.46,116,0.3448
+516,"Anderson, John Charles",ECON 4 - Financial Accounting (A00),S223,3.17,6.88,3.97,3.94,4.16,10,0.8
+517,"Anderson, John Charles",ECON 4 - Financial Accounting (A00),S123,3.17,8.33,4.08,4.17,4.57,10,0.6
+518,"Dai, Yinlin",ECON 5 - Data Analytics/Social Sciences (A00),SP24,3.02,4.50,4.22,4.15,4.29,217,0.49310000000000004
+519,"Dai, Yinlin",ECON 5 - Data Analytics/Social Sciences (B00),SP24,3.2,4.73,4.12,4.21,4.41,148,0.5540999999999999
+520,"Chatterjee, Ishani",ECON 5 - Data Analytics/Social Sciences (C00),SP24,3.07,4.83,3.21,3.15,3.96,36,0.3333
+521,"Arnold, David Hall",ECON 5 - Data Analytics/Social Sciences (A00),WI24,3.19,5.83,4.49,4.43,4.65,260,0.22690000000000002
+522,"Arnold, David Hall",ECON 5 - Data Analytics/Social Sciences (A06),WI24,3.19,6.28,4.63,4.52,4.64,260,0.15
+523,"Arnold, David Hall",ECON 5 - Data Analytics/Social Sciences (B00),WI24,3.18,5.11,4.47,4.47,4.62,251,0.3028
+524,"Arnold, David Hall",ECON 5 - Data Analytics/Social Sciences (B06),WI24,3.18,5.33,4.57,4.52,4.61,251,0.20320000000000002
+525,"Levkoff, Steven B.",ECON 5 - Data Analytics/Social Sciences (C00),WI24,3.39,4.83,4.71,4.69,4.6,36,0.3333
+526,"Ramachandran, Sabareesh",ECON 5 - Data Analytics/Social Sciences (A00),FA23,3.5,6.67,4.06,3.75,4.06,22,0.40909999999999996
+527,"Hall, Zachary",ECON 5 - Data Analytics/Social Sciences (B00),FA23,3.37,5.83,4.33,4.25,4.58,20,0.3
+528,"Hua, Xiameng",ECON 5 - Data Analytics/Social Sciences (D00),FA23,3.32,5.71,4.74,4.71,4.96,19,0.36840000000000006
+529,"Li, Xintong",ECON 5 - Data Analytics/Social Sciences (E00),FA23,3.21,5.00,3.38,3.38,3.69,22,0.1818
+530,"Bharadwaj, Prashant",ECON 87 - Freshman Seminar (A00),FA23,,2.92,4.85,4.81,4.87,20,0.6
+531,"Famulari, Melissa",ECON 100A - Microeconomics A (A00),SP24,2.6,7.00,3.78,3.74,4.25,176,0.6023
+532,"Famulari, Melissa",ECON 100A - Microeconomics A (B00),SP24,2.67,6.45,3.98,3.97,4.45,70,0.6714
+533,"Newhouse, Herbert S",ECON 100A - Microeconomics A (A00),WI24,2.71,5.55,3.75,3.74,4.19,194,0.24739999999999998
+534,"Newhouse, Herbert S",ECON 100A - Microeconomics A (B00),WI24,2.76,6.28,3.96,3.79,4.08,182,0.26920000000000005
+535,"Newhouse, Herbert S",ECON 100A - Microeconomics A (A00),FA23,2.71,6.67,4.07,3.92,4.4,223,0.3139
+536,"Newhouse, Herbert S",ECON 100A - Microeconomics A (B00),FA23,2.76,6.82,4.0,3.9,4.38,241,0.278
+537,"He, Songyu",ECON 100A - Microeconomics A (A00),S223,2.92,9.17,3.63,3.92,4.68,50,0.12
+538,"Famulari, Melissa",ECON 100A - Microeconomics A (A00),S123,2.6,8.41,4.18,4.08,4.43,38,0.5789
+539,"Famulari, Melissa",ECON 100AH - Honors Microeconomics A (A00),SP24,4.0,3.56,4.74,4.61,4.65,20,0.9
+540,"Grigoryan, Aram",ECON 100B - Microeconomics B (A00),SP24,3.01,5.86,4.36,4.31,4.47,234,0.6111
+541,"Grigoryan, Aram",ECON 100B - Microeconomics B (B00),SP24,2.91,5.99,4.33,4.24,4.39,157,0.6497
+542,"Grigoryan, Aram",ECON 100B - Microeconomics B (C00),WI24,3.15,5.30,4.38,4.38,4.46,238,0.6345000000000001
+543,"Grigoryan, Aram",ECON 100B - Microeconomics B (D00),WI24,3.2,5.68,4.54,4.59,4.62,110,0.5909000000000001
+544,"Crane, Meredith Helen",ECON 100B - Microeconomics B (A00),FA23,3.19,6.53,4.62,4.67,4.76,130,0.7615000000000001
+545,"Crane, Meredith Helen",ECON 100B - Microeconomics B (B00),FA23,3.16,6.75,4.54,4.59,4.7,138,0.8551000000000001
+546,"Wolanski, Adrian",ECON 100B - Microeconomics B (A00),S223,2.81,8.57,4.49,4.51,4.5,50,0.42
+547,"Levkoff, Steven B.",ECON 100C - Microeconomics C (A00),SP24,3.03,5.80,4.37,4.07,4.47,39,0.3846
+548,"Levkoff, Steven B.",ECON 100C - Microeconomics C (B00),SP24,2.8,5.56,4.38,4.17,4.47,97,0.1856
+549,"Du, Songzi",ECON 100C - Microeconomics C (A00),WI24,2.7,5.81,4.59,4.57,4.57,171,0.15789999999999998
+550,"Du, Songzi",ECON 100C - Microeconomics C (B00),WI24,2.87,7.00,3.75,4.55,4.5,20,0.15
+551,"Lammert, Malte Johannes",ECON 100C - Microeconomics C (B00),FA23,2.21,7.22,4.0,3.94,4.08,32,0.2813
+552,"Newhouse, Herbert S",ECON 100C - Microeconomics C (A00),S223,2.72,7.22,4.58,4.56,4.63,64,0.1406
+553,"Vespa, Emanuel Ignacio",ECON 105 - Industrl Orgniztn&Firm Stratgy (A00),S223,2.72,8.33,4.5,4.83,4.92,26,0.11539999999999999
+554,"Bowen, T. Renee",ECON 106 - Int'l Economic Agreements (A00),SP24,3.76,4.50,4.06,4.08,3.64,19,0.21050000000000002
+555,"Watson, Joel Christopher",ECON 109 - Game Theory (A00),WI24,2.82,6.50,4.56,4.41,4.52,66,0.303
+556,"Shishkin, Denis",ECON 109 - Game Theory (A00),FA23,2.78,6.48,4.49,4.35,4.59,48,0.5625
+557,"Shishkin, Denis",ECON 109 - Game Theory (B00),FA23,3.03,6.93,4.47,4.27,4.48,63,0.6984
+558,"Shishkin, Denis",ECON 109 - Game Theory (A00),S223,2.78,7.00,4.26,4.25,4.6,35,0.2857
+559,"Trevino, Isabel",ECON 109T - Advanced Topics in Game Theory (A00),SP24,4.0,3.67,5.0,5.0,4.92,6,0.5
+560,"Bezerra De Goes, Carlos Andre",ECON 110A - Long Run Macroeconomics (A00),SP24,2.88,6.16,4.05,4.04,4.44,82,0.23170000000000002
+561,"Jaimovich, Nir",ECON 110A - Long Run Macroeconomics (A00),WI24,3.14,5.38,4.59,4.64,4.69,79,0.2025
+562,"Jaimovich, Nir",ECON 110A - Long Run Macroeconomics (B00),WI24,2.99,4.88,4.5,4.42,4.63,65,0.2615
+563,"Alon, Titan Michael",ECON 110A - Long Run Macroeconomics (A00),FA23,3.17,6.67,4.55,4.42,4.61,108,0.2778
+564,"Bezerra De Goes, Carlos Andre",ECON 110A - Long Run Macroeconomics (A00),S223,3.07,7.00,4.43,4.5,4.67,-1,-0.01
+565,"Rondina, Giacomo",ECON 110A - Long Run Macroeconomics (A00),SP23,2.68,6.20,4.08,4.05,4.41,82,0.561
+566,"Rondina, Giacomo",ECON 110A - Long Run Macroeconomics (B00),SP23,2.49,6.79,4.38,4.19,4.53,58,0.4828
+567,"Herreno Lopera, Juan",ECON 110B - Short Run Macroeconomics (A00),SP24,2.8,5.68,4.04,3.94,4.36,245,0.3755
+568,"Herreno Lopera, Juan",ECON 110B - Short Run Macroeconomics (B00),SP24,2.83,6.04,4.07,3.94,4.33,93,0.24730000000000002
+569,"Hamilton, James D.",ECON 110B - Short Run Macroeconomics (A00),WI24,2.85,5.94,4.05,4.05,4.28,184,0.1902
+570,"Hamilton, James D.",ECON 110B - Short Run Macroeconomics (B00),WI24,3.05,5.93,4.2,4.17,4.49,143,0.23079999999999998
+571,"Trottner, Fabian Gunter We",ECON 110B - Short Run Macroeconomics (A00),FA23,2.92,6.94,4.35,4.25,4.46,208,0.45189999999999997
+572,"Trottner, Fabian Gunter We",ECON 110B - Short Run Macroeconomics (B00),FA23,2.94,6.84,4.39,4.39,4.64,141,0.539
+573,"Chen, Junyuan",ECON 110B - Short Run Macroeconomics (A00),S123,3.16,8.06,3.79,3.53,3.87,37,0.5135000000000001
+574,"Trottner, Fabian Gunter We",ECON 110BH - Honors Macroeconomics B (A00),FA23,4.0,6.00,4.45,4.16,4.28,18,0.2778
+575,"Rondina, Giacomo",ECON 112 - Macroeconomic Data Analysis (A00),SP23,3.63,8.44,4.91,4.75,4.88,30,0.5333
+576,"Toda, Alexis Akira",ECON 113 - Mathematical Economics (A00),FA23,3.27,6.15,4.87,4.76,4.86,24,0.5417000000000001
+577,"Lowes, Sara Rachel",ECON 116 - Economic Development (A00),WI24,2.9,6.73,4.02,3.59,4.23,53,0.6226
+578,"Lowes, Sara Rachel",ECON 116 - Economic Development (B00),WI24,2.98,5.60,4.13,3.88,4.55,43,0.6977
+579,"Candido, Maria Teresa",ECON 120A - Econometrics A (A00),SP24,2.84,5.69,4.12,4.07,4.28,140,0.2571
+580,"Candido, Maria Teresa",ECON 120A - Econometrics A (B00),SP24,2.82,5.87,4.21,4.21,4.29,173,0.23120000000000002
+581,"Dai, Yinlin",ECON 120A - Econometrics A (A00),WI24,2.94,6.69,4.08,4.14,4.35,84,0.47619999999999996
+582,"Dai, Yinlin",ECON 120A - Econometrics A (B00),WI24,2.98,5.86,4.22,4.28,4.43,54,0.537
+583,"Candido, Maria Teresa",ECON 120A - Econometrics A (C00),WI24,2.94,5.00,4.46,4.36,4.41,74,0.25680000000000003
+584,"Idoux, Clemence Marie",ECON 120A - Econometrics A (D00),WI24,2.64,5.40,4.1,4.16,4.28,90,0.2778
+585,"Candido, Maria Teresa",ECON 120A - Econometrics A (E00),WI24,2.74,6.50,3.94,3.98,4.36,90,0.23329999999999998
+586,"Dai, Yinlin",ECON 120A - Econometrics A (A00),FA23,2.94,6.90,3.82,3.69,4.2,126,0.6825
+587,"Dai, Yinlin",ECON 120A - Econometrics A (B00),FA23,2.97,6.59,3.56,3.33,4.02,128,0.6406000000000001
+588,"Idoux, Clemence Marie",ECON 120A - Econometrics A (C00),FA23,2.67,7.05,3.68,3.61,4.25,74,0.2973
+589,"Han, Jinhyeon",ECON 120A - Econometrics A (A00),S223,2.96,6.58,4.22,4.26,4.68,30,0.6333
+590,"Nieto-Barthaburu, Augusto",ECON 120A - Econometrics A (A00),S123,2.57,5.83,4.21,4.42,4.5,26,0.23079999999999998
+591,"Ma, Xinwei",ECON 120B - Econometrics B (A00),SP24,2.93,6.23,3.4,3.5,3.99,267,0.3221
+592,"Ma, Xinwei",ECON 120B - Econometrics B (B00),SP24,2.52,7.22,3.63,3.53,4.0,57,0.15789999999999998
+593,"Dahl, Gordon B.",ECON 120B - Econometrics B (A00),WI24,2.85,5.89,4.09,4.07,4.46,205,0.3171
+594,"Dahl, Gordon B.",ECON 120B - Econometrics B (B00),WI24,3.12,5.53,4.48,4.5,4.7,47,0.383
+595,"Candido, Maria Teresa",ECON 120B - Econometrics B (A00),FA23,2.84,7.24,4.17,4.17,4.35,153,0.32030000000000003
+596,"Candido, Maria Teresa",ECON 120B - Econometrics B (B00),FA23,2.77,6.39,4.13,4.2,4.34,150,0.24
+597,"Ma, Xinwei",ECON 120B - Econometrics B (A00),S123,3.12,7.92,3.92,3.88,4.04,66,0.1818
+598,"Dahl, Gordon B.",ECON 120BH - Honors Econometrics B (A00),WI24,4.0,3.91,4.98,4.95,5.0,19,0.5789
+599,"Sun, Yixiao",ECON 120C - Econometrics C (A00),SP24,2.73,6.88,4.44,4.44,4.69,85,0.1882
+600,"Sun, Yixiao",ECON 120C - Econometrics C (B00),SP24,2.77,7.20,4.33,4.13,4.5,31,0.35479999999999995
+601,"Wuthrich, Kaspar",ECON 120C - Econometrics C (A00),WI24,2.99,5.19,4.65,4.69,4.73,65,0.3385
+602,"Wuthrich, Kaspar",ECON 120C - Econometrics C (B00),WI24,2.92,5.75,4.86,4.88,4.87,63,0.254
+603,"Candido, Maria Teresa",ECON 120C - Econometrics C (A00),FA23,2.88,6.85,4.43,4.38,4.65,173,0.1561
+604,"Sun, Yixiao",ECON 120C - Econometrics C (A00),S223,2.77,8.50,4.25,4.21,4.2,70,0.1429
+605,"Sun, Yixiao",ECON 120C - Econometrics C (B00),S223,2.8,6.67,3.92,3.92,4.08,32,0.09380000000000001
+606,"Vogl, Tom Saul",ECON 121 - Applied Econometrics & Data (A00),FA23,3.33,8.42,4.49,4.23,4.47,36,0.5278
+607,"Vogl, Tom Saul",ECON 121 - Applied Econometrics & Data (B00),FA23,3.32,8.33,4.65,4.62,4.65,42,0.5
+608,"Eckert, Fabian Paul","ECON 129 - Cities, Inequality, Innovation (A00)",SP24,3.16,3.62,4.75,4.76,4.49,64,0.2031
+609,"Eckert, Fabian Paul","ECON 129 - Cities, Inequality, Innovation (A00)",S123,3.16,8.33,-1.0,-1.0,-1.0,33,0.0909
+610,"Tang, Yuan Emily",ECON 130 - Public Policy (A00),FA23,2.86,6.45,4.39,4.26,4.54,147,0.26530000000000004
+611,"Jacobsen, Mark",ECON 131 - Economics of the Environment (A00),FA23,3.08,6.52,4.25,4.14,4.45,250,0.64
+612,"Nieto-Barthaburu, Augusto",ECON 131 - Economics of the Environment (A00),S123,2.52,6.43,4.54,4.26,4.46,56,0.125
+613,"Carson, Richard T",ECON 132 - Energy Economics (A00),FA23,3.16,5.00,4.5,4.25,4.43,31,0.1935
+614,"Carson, Richard T",ECON 132 - Energy Economics (B00),FA23,3.32,7.50,3.69,3.13,3.56,21,0.1905
+615,"Gelber, Alexander Michael",ECON 134 - U.S. Budget Policy (A00),SP24,3.24,4.50,4.67,4.54,4.69,46,0.2609
+616,"Gelber, Alexander Michael",ECON 134 - U.S. Budget Policy (B00),SP24,3.29,4.43,4.79,4.79,4.71,42,0.16670000000000001
+617,"Betts, Julian",ECON 136 - Human Resources (A00),WI24,2.96,5.40,4.45,4.25,4.64,45,0.3333
+618,"Betts, Julian",ECON 136 - Human Resources (B00),WI24,2.86,4.20,3.75,3.7,3.8,21,0.23809999999999998
+619,"Niehaus, Paul",ECON 137 - Corruption (A00),SP24,3.17,6.23,4.79,4.58,4.78,16,0.8125
+620,"Bharadwaj, Prashant",ECON 138 - Economics of Discrimination (A00),WI24,2.74,4.86,4.4,4.34,4.53,123,0.22760000000000002
+621,"Bharadwaj, Prashant",ECON 138 - Economics of Discrimination (B00),WI24,2.75,4.00,4.52,4.33,4.46,120,0.275
+622,"Clemens, Jeffrey",ECON 140 - Economics of Health Producers (A00),WI24,2.9,4.27,4.5,4.33,4.53,39,0.2821
+623,"Clemens, Jeffrey",ECON 140 - Economics of Health Producers (A00),FA23,2.9,6.00,4.25,4.33,4.49,35,0.2857
+624,"Trevino, Isabel",ECON 142 - Behavioral Economics (A00),SP24,2.85,3.56,4.25,4.01,4.0,34,0.5294
+625,"Trevino, Isabel",ECON 142 - Behavioral Economics (B00),SP24,2.94,5.17,4.34,4.21,4.44,42,0.5714
+626,"Squires, Dale E",ECON 144 - Economics of Conservation (A00),S223,3.15,6.25,4.5,4.45,4.35,35,0.1429
+627,"Squires, Dale E",ECON 145 - Economics of Ocean Resources (A00),WI24,3.1,4.79,4.26,4.14,4.37,120,0.24170000000000003
+628,"Grigoryan, Aram",ECON 149 - Introduction/Economic Design (A00),WI24,3.21,7.65,4.22,4.24,4.53,40,0.5
+629,"Meckel, Katherine Hunter",ECON 151 - Public Economics:Expenditure I (A00),WI24,3.11,3.40,4.53,4.6,4.6,19,0.2632
+630,"Meckel, Katherine Hunter",ECON 151 - Public Economics:Expenditure I (B00),WI24,3.15,5.50,4.67,4.38,4.5,12,0.3333
+631,"Fadlon, Yizhak",ECON 152 - Public Economics:ExpenditureII (A00),FA23,3.17,5.81,4.22,4.19,4.42,43,0.7209000000000001
+632,"Fadlon, Yizhak",ECON 152 - Public Economics:ExpenditureII (B00),FA23,2.92,5.26,4.64,4.49,4.61,36,0.5278
+633,"Muralidharan, Karthik",ECON 164 - The Indian Economy (A00),SP24,2.93,5.07,4.56,4.38,4.49,182,0.1648
+634,"Du, Songzi",ECON 171 - Decisions Under Uncertainty (A00),WI24,3.15,5.39,4.41,4.45,4.5,136,0.2721
+635,"Newhouse, Herbert S",ECON 171 - Decisions Under Uncertainty (A00),S223,2.73,8.33,4.55,4.33,4.75,35,0.0857
+636,"Du, Songzi",ECON 171 - Decisions Under Uncertainty (A00),SP23,3.15,6.14,4.44,4.56,4.54,95,0.2316
+637,"Newhouse, Herbert S",ECON 172A - Operations Research A (A00),SP24,2.91,5.92,4.38,4.26,4.44,94,0.1489
+638,"Newhouse, Herbert S",ECON 172B - Operations Research B (A00),SP24,2.92,4.00,4.0,4.0,4.0,17,0.1765
+639,"Newhouse, Herbert S",ECON 172B - Operations Research B (B00),SP24,2.93,10.67,4.5,4.58,4.58,19,0.15789999999999998
+640,"Levkoff, Steven B.",ECON 172B - Operations Research B (A00),S123,3.05,10.00,4.25,4.33,4.5,9,0.3333
+641,"Toda, Alexis Akira",ECON 173A - Financial Markets (A00),WI24,3.15,5.79,4.28,4.23,4.46,23,0.6087
+642,"Toda, Alexis Akira",ECON 173A - Financial Markets (A00),S223,3.15,6.88,4.72,4.78,4.84,20,0.4
+643,"Zhu, Ying",ECON 178 - Economic&Business Forecasting (A00),WI24,3.32,7.82,3.39,3.36,4.01,46,0.39130000000000004
+644,"Zhu, Ying",ECON 178 - Economic&Business Forecasting (A00),S123,3.32,10.00,-1.0,-1.0,-1.0,29,0.1034
+645,"Wu, Pak Yeung",ECON 183 - Topics in Macroeconomics (A00),WI24,3.42,5.35,4.62,4.74,4.72,47,0.4894
+646,"Wu, Pak Yeung",ECON 183 - Topics in Macroeconomics (B00),WI24,3.55,4.68,4.7,4.8,4.82,46,0.5435
+647,"Vespa, Emanuel Ignacio",ECON 190 - Intro to Research in Economics (A00),WI24,3.31,5.36,4.87,4.92,4.96,32,0.40630000000000005
+648,"Cullen, Julie",ECON 191A - Senior Essay Seminar A (A00),SP24,,6.43,5.0,5.0,5.0,12,0.5833
+649,"Cullen, Julie",ECON 191B - Senior Essay Seminar B (A00),FA23,3.95,7.50,4.95,5.0,5.0,12,0.5
+650,"Trejos, Jessica",EDS 23 - Higher Education Second Year (A00),WI24,,1.80,4.72,4.73,4.83,39,0.5128
+651,"Trejos, Jessica",EDS 23 - Higher Education Second Year (B00),WI24,,2.11,4.54,4.64,4.71,26,0.6923
+652,"Meyer, Leslie Rose",EDS 25 - Am Higher Edu&Collegiate Exper (A00),S223,3.85,6.55,4.48,4.45,4.69,-1,-0.01
+653,"Ramirez, Brianna Rachelle",EDS 25 - Am Higher Edu&Collegiate Exper (B00),S223,3.92,6.49,4.42,4.35,4.68,-1,-0.01
+654,"Stevens, Laura Jeanne",EDS 30 - Introduction to Teaching Math (A),SP21,,-1,1.5,-1.0,-1.0,-1,-0.01
+655,"Stevens, Laura Jeanne",EDS 30 - Introduction to Teaching Math (A),WI21,,-1,1.5,-1.0,-1.0,-1,-0.01
+656,"Stevens, Laura Jeanne",EDS 30 - Introduction to Teaching Math (A),WI20,,-1,1.0,-1.0,-1.0,-1,-0.01
+657,"Stevens, Laura Jeanne",EDS 30 - Introduction to Teaching Math (A),SP19,,-1,0.5,-1.0,-1.0,-1,-0.01
+658,"Stevens, Laura Jeanne",EDS 30 - Introduction to Teaching Math (A),SP18,,-1,0.5,-1.0,-1.0,-1,-0.01
+659,"Harel, Guershon",EDS 30 - Introduction to Teaching Math (A),WI18,,-1,7.0,-1.0,-1.0,-1,-0.01
+660,"Stevens, Laura Jeanne",EDS 30 - Introduction to Teaching Math (A),SP17,,-1,0.5,-1.0,-1.0,-1,-0.01
+661,"Stevens, Laura Jeanne",EDS 30 - Introduction to Teaching Math (B),SP16,,-1,1.7,-1.0,-1.0,-1,-0.01
+662,"Stevens, Laura Jeanne",EDS 30 - Introduction to Teaching Math (A),SP15,,-1,2.9,-1.0,-1.0,-1,-0.01
+663,"Harel, Guershon",EDS 30 - Introduction to Teaching Math (A),WI15,,-1,1.5,-1.0,-1.0,-1,-0.01
+664,"Stevens, Laura Jeanne",EDS 30 - Introduction to Teaching Math (A),SP14,,-1,0.5,-1.0,-1.0,-1,-0.01
+665,"Stevens, Laura Jeanette",EDS 30 - Introduction to Teaching Math (A),WI14,,-1,1.83,-1.0,-1.0,-1,-0.01
+666,"Stevens, Laura Jeanne",EDS 30 - Introduction to Teaching Math (A),SP13,,-1,0.5,-1.0,-1.0,-1,-0.01
+667,"Stevens, Laura Jeanette",EDS 30 - Introduction to Teaching Math (A),WI13,,-1,1.83,-1.0,-1.0,-1,-0.01
+668,"Harel, Guershon",EDS 30   - Introduction to Teaching Math  (A),WI12,,-1,3.7,-1.0,-1.0,-1,-0.01
+669,"Stevens, Laura Jeanne",EDS 30   - Introduction to Teaching Math  (A),SP11,,-1,2.37,-1.0,-1.0,-1,-0.01
+670,"Harel, Guershon",EDS 30   - Introduction to Teaching Math  (A),WI11,,-1,2.5,-1.0,-1.0,-1,-0.01
+671,"Stevens, Laura Jeanne",EDS 30 - Introduction to Teaching Math  (A),FA10,,-1,0.98,-1.0,-1.0,-1,-0.01
+672,"Stevens, Laura Jeanne",EDS 30 - Introduction to Teaching Math  (A),SP10,,-1,2.29,-1.0,-1.0,-1,-0.01
+673,"Harel, Guershon",EDS 30 - Introduction to Teaching Math  (A),WI10,,-1,3.1,-1.0,-1.0,-1,-0.01
+674,"Stevens, Laura Jeanne",EDS 30 - Introduction to Teaching Math  (A),SP09,,3.94 (A-),1.41,-1.0,-1.0,-1,-0.01
+675,"Stevens, Laura Jeanne",EDS 30 - Introduction to Teaching Math  (A),WI09,,3.57 (B+),2.38,-1.0,-1.0,-1,-0.01
+676,"Stevens, Laura Jeanne",EDS 30 - Introduction to Teaching Math  (A),SP08,,3.95 (A-),1.21,-1.0,-1.0,-1,-0.01
+677,"Stevens, Laura Jeanne",EDS 30 - Introduction to Teaching Math  (A),WI08,,4.00 (A),2.33,-1.0,-1.0,-1,-0.01
+678,"Bussey, Thomas J",EDS 31 - Introductn to Teaching Science (A),SP23,,-1,4.5,-1.0,-1.0,-1,-0.01
+679,"Bussey, Thomas J",EDS 31 - Introductn to Teaching Science (A),FA22,,-1,2.5,-1.0,-1.0,-1,-0.01
+680,"Bussey, Thomas J",EDS 31 - Introductn to Teaching Science (A),SP22,,-1,3.7,-1.0,-1.0,-1,-0.01
+681,"Bussey, Thomas J",EDS 31 - Introductn to Teaching Science (A),FA20,,-1,4.0,-1.0,-1.0,-1,-0.01
+682,"Bussey, Thomas J",EDS 31 - Introductn to Teaching Science (A),SP20,,-1,2.5,-1.0,-1.0,-1,-0.01
+683,"Bussey, Thomas J",EDS 31 - Introductn to Teaching Science (A),SP19,,-1,3.3,-1.0,-1.0,-1,-0.01
+684,"Bussey, Thomas J",EDS 31 - Introductn to Teaching Science (A),SP17,,-1,3.83,-1.0,-1.0,-1,-0.01
+685,"Bussey, Thomas J",EDS 31 - Introductn to Teaching Science (A),FA16,,-1,3.83,-1.0,-1.0,-1,-0.01
+686,"Bussey, Thomas J",EDS 31 - Introductn to Teaching Science (A),SP16,,-1,2.5,-1.0,-1.0,-1,-0.01
+687,"Bussey, Thomas J",EDS 31 - Introductn to Teaching Science (A),WI16,,-1,1.93,-1.0,-1.0,-1,-0.01
+688,"Czworkowski, John",EDS 31 - Introductn to Teaching Science (A),SP13,,-1,3.83,-1.0,-1.0,-1,-0.01
+689,"Czworkowski, John",EDS 31   - Introductn to Teaching Science (A),SP12,,-1,2.5,-1.0,-1.0,-1,-0.01
+690,"Czworkowski, John",EDS 31   - Introductn to Teaching Science (A),SP11,,-1,3.1,-1.0,-1.0,-1,-0.01
+691,"Czworkowski, John",EDS 31   - Introductn to Teaching Science (A),WI11,,-1,3.5,-1.0,-1.0,-1,-0.01
+692,"Czworkowski, John",EDS 31 - Introductn to Teaching Science (A),WI10,,-1,3.93,-1.0,-1.0,-1,-0.01
+693,"Czworkowski, John",EDS 31 - Introductn to Teaching Science (A),SP09,,-1,3.0,-1.0,-1.0,-1,-0.01
+694,"Czworkowski, John",EDS 31 - Introductn to Teaching Science (A),WI09,,-1,2.88,-1.0,-1.0,-1,-0.01
+695,"Czworkowski, John",EDS 31 - Introductn to Teaching Science (A),SP08,,-1,2.06,-1.0,-1.0,-1,-0.01
+696,"Czworkowski, John",EDS 31 - Introductn to Teaching Science (A),WI08,,-1,3.05,-1.0,-1.0,-1,-0.01
+697,"Chung, Luz Marina",EDS 38 - Explorations in Education (A00),SP24,3.75,5.00,5.0,5.0,5.0,13,0.23079999999999998
+698,"Heinzman, Erica M.",EDS 39 - Explore Secondary STEM Ed (A00),SP24,3.94,4.85,4.69,4.76,4.87,17,0.8235
+699,"Heinzman, Erica M.",EDS 39 - Explore Secondary STEM Ed (A00),WI24,3.95,4.33,4.88,4.87,4.78,20,0.3
+700,"Heinzman, Erica M.",EDS 39 - Explore Secondary STEM Ed (A00),SP23,3.95,5.48,4.62,4.77,4.77,23,0.913
+701,"Ambo, Theresa Jean",EDS 102 - Intro to Qual Methods/EdRsrch (A00),SP24,3.98,3.25,4.64,4.67,4.66,44,0.3636
+702,"Datnow, Amanda Lee",EDS 102 - Intro to Qual Methods/EdRsrch (A00),FA23,3.73,5.56,4.93,4.88,4.94,36,0.5
+703,"Halter, Christopher P.",EDS 103 - Intro to Quant Methods/EdRsrch (A00),WI24,3.55,5.00,4.78,4.88,4.9,37,0.27030000000000004
+704,"Halter, Christopher P.",EDS 103 - Intro to Quant Methods/EdRsrch (A00),FA23,3.55,5.71,4.91,4.93,4.91,36,0.3889
+705,"Wishard Guerra, Alison G.","EDS 108GS - Cultr,Cogn & Schooling in Amer (A00)",S123,4.0,7.00,4.65,4.35,4.55,9,0.5556
+706,"Molgaard, Monica Newton",EDS 110R - Early Learning Environments (A00),SP24,3.64,4.87,4.57,4.73,4.85,46,0.3261
+707,"Wishard Guerra, Alison G.",EDS 111 - Child Family Community (A00),SP24,3.91,5.31,3.98,3.88,4.02,53,0.24530000000000002
+708,"Wishard Guerra, Alison G.",EDS 111GS - Child Family Community (A00),S123,4.0,7.00,4.6,4.55,4.6,9,0.5556
+709,"Chapman, Thandeka K",EDS 112 - U.S. Urban Education (A00),FA23,3.76,5.50,4.59,4.58,4.75,63,0.3175
+710,"Chapman, Thandeka K",EDS 112 - U.S. Urban Education (A00),S123,3.76,6.43,4.52,4.52,4.5,23,0.3043
+711,"Enriquez, Jose Jesus",EDS 113 - Chicanas/os & Latinos in Edu (A00),S123,3.73,6.25,4.75,4.76,4.72,34,0.5882000000000001
+712,"Eguchi, Emi",EDS 114 - Cogn Develp&Intractv Compt Env (A00),WI24,3.44,7.50,4.06,4.06,4.27,19,0.21050000000000002
+713,"Eguchi, Emi",EDS 114 - Cogn Develp&Intractv Compt Env (A00),FA23,3.44,7.50,4.13,3.92,4.03,31,0.3226
+714,"Clarke, Sherice Nicole",EDS 115 - Cog Development & Education (A00),WI24,3.67,4.19,4.38,4.2,4.44,57,0.8421
+715,"Jones, Gabrielle Anastasia",EDS 115 - Cog Development & Education (A00),FA23,3.69,5.25,4.4,4.33,4.59,60,0.6667000000000001
+716,"Jones, Gabrielle Anastasia",EDS 115 - Cog Development & Education (A00),S323,3.69,6.52,3.61,3.59,4.37,27,0.8519
+717,"Jones, Gabrielle Anastasia","EDS 117 - Language, Culture & Education (A00)",SP24,3.55,4.94,4.43,4.4,4.52,87,0.6207
+718,"Jones, Makeba","EDS 117 - Language, Culture & Education (A00)",WI24,3.79,5.15,4.69,4.56,4.72,77,0.33770000000000006
+719,"Jones, Makeba","EDS 117 - Language, Culture & Education (A00)",FA23,3.79,5.94,4.62,4.49,4.69,71,0.2254
+720,"Osoria, Ruby","EDS 117 - Language, Culture & Education (A00)",S323,3.9,7.00,4.38,4.2,4.53,44,0.2273
+721,"Warstadt, Melissa Fawn",EDS 118 - Adolescent Devlp & Education (A00),SP24,3.62,3.83,4.79,4.75,4.81,62,0.2097
+722,"Warstadt, Melissa Fawn",EDS 118 - Adolescent Devlp & Education (A00),WI24,3.81,3.93,4.58,4.48,4.77,64,0.23440000000000003
+723,"Warstadt, Melissa Fawn",EDS 118 - Adolescent Devlp & Education (A00),S123,3.81,5.71,4.93,4.96,5.0,19,0.36840000000000006
+724,"Goodall, Grant Todd",EDS 119 - 1st&2nd Lang Lrn:Child to Adol (A00),WI24,2.91,3.00,4.68,4.5,4.7,32,0.2188
+725,"Takahashi, Maho",EDS 119 - 1st&2nd Lang Lrn:Child to Adol (A00),S123,3.12,5.71,4.57,4.5,4.75,9,1.5556
+726,"Stevens, Laura Jeanne",EDS 121B  - Found of Teachg/Learng Math II (A),SP11,,3.30 (B+),5.83,-1.0,-1.0,-1,-0.01
+727,"Czworkowski, John",EDS 122   - Foundn of Teach&Learn Science  (B),WI11,,-1,2.79,-1.0,-1.0,-1,-0.01
+728,"Czworkowski, John",EDS 122 - Foundn of Teach&Learn Science  (A),WI10,,-1,4.5,-1.0,-1.0,-1,-0.01
+729,"Simon, Elizabeth A",EDS 124AR - Teach Computation/DigitalWorld (A00),SP24,3.58,7.68,4.38,4.39,4.56,225,0.1778
+730,"Simon, Elizabeth A",EDS 124AR - Teach Computation/DigitalWorld (B00),SP24,3.71,6.28,4.35,4.45,4.5,216,0.19440000000000002
+731,"Eguchi, Emi",EDS 124AR - Teach Computation/DigitalWorld (A00),WI24,3.74,6.67,4.38,4.48,4.42,134,0.1418
+732,"Eguchi, Emi",EDS 124BR - Teach Computational Thinking (A00),SP24,3.66,5.25,4.57,4.61,4.64,98,0.16329999999999997
+733,"Simon, Elizabeth A",EDS 124BR - Teach Computational Thinking (A00),WI24,3.86,6.33,4.62,4.63,4.66,138,0.21739999999999998
+734,"Simon, Elizabeth A",EDS 124BR - Teach Computational Thinking (C00),WI24,3.69,5.33,4.54,4.54,4.6,134,0.18660000000000002
+735,"Eguchi, Emi",EDS 124BR - Teach Computational Thinking (A00),FA23,3.66,6.32,4.47,4.42,4.52,92,0.21739999999999998
+736,"Aragon, Maria Jose","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A00)",SP24,3.58,3.88,4.67,4.68,4.76,57,0.5789
+737,"Jones, Gabrielle Anastasia","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A00)",WI24,3.4,4.38,4.58,4.55,4.69,68,0.6618
+738,"Jones, Gabrielle Anastasia","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A00)",FA23,3.4,5.51,4.12,4.2,4.54,52,0.75
+739,"Gallagher-Geurtsen, Tricia Meghan","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A00)",S323,3.93,10.00,4.85,4.5,4.9,23,0.21739999999999998
+740,"Gautsch, Leslie","EDS 125 - Hist,Polic&Theory/Bilingual Ed (A00)",S223,3.86,5.00,4.88,4.94,5.0,13,0.30770000000000003
+741,"Jones, Makeba",EDS 126 - Social Organization/Education (A00),SP24,3.61,4.47,4.55,4.36,4.62,108,0.1389
+742,"Pitt, Richard Norris",EDS 126 - Social Organization/Education (A00),WI24,3.0,4.60,4.59,4.31,4.42,26,0.7692
+743,"Jones, Makeba",EDS 126 - Social Organization/Education (A00),FA23,3.51,4.76,4.44,4.37,4.64,85,0.24710000000000001
+744,"Reece, Erika Rae",EDS 126 - Social Organization/Education (A00),S223,2.75,8.75,4.69,4.63,4.88,9,0.44439999999999996
+745,"Gallagher-Geurtsen, Tricia Meghan",EDS 126 - Social Organization/Education (A00),SP23,3.55,5.74,4.36,4.35,4.64,58,0.5861999999999999
+746,"Fargason, Sharon Gayle",EDS 128A - Intro/Teaching&Learning (Elem) (A00),WI24,3.83,6.41,4.61,4.48,4.54,49,0.8367
+747,"Fargason, Sharon Gayle",EDS 128A - Intro/Teaching&Learning (Elem) (A00),S323,3.83,8.75,4.75,4.69,5.0,20,0.2
+748,"Pappas, Elizabeth",EDS 128B - Intro/Teaching&Learning (Elem) (A00),SP24,3.94,5.00,4.7,4.63,4.76,47,0.3404
+749,"Pappas, Elizabeth",EDS 128B - Intro/Teaching&Learning (Elem) (A00),S323,3.93,7.50,5.0,4.88,4.93,20,0.2
+750,"Heinzman, Erica M.",EDS 129A - Intro/Teach&Learn (Secondary) (A00),FA23,3.95,6.81,4.72,4.84,4.92,37,0.973
+751,"Black, Alison Michelle",EDS 129B - Intro/Teach&Learn (Secondary) (A00),WI24,3.89,5.95,4.39,4.49,4.59,39,0.4872
+752,"Millstone, Rachel Diana",EDS 129C - Intro/Teach&Learn (Secondary) (A00),SP24,3.87,5.57,4.74,4.83,4.84,39,0.6154000000000001
+753,"Millstone, Rachel Diana",EDS 129C - Intro/Teach&Learn (Secondary) (A00),SP23,3.89,6.15,4.53,4.67,4.81,51,0.5098
+754,"Mendez, Kathrina Mendoza",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A00),SP24,3.81,7.83,4.6,4.54,4.65,42,0.7143
+755,"Choi, Bailey Miyeon",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A00),WI24,3.78,8.18,4.85,4.87,4.89,38,0.8947
+756,"Choi, Bailey Miyeon",EDS 130 - Intro/Acad Ment/Elem Schl Stdn (A00),FA23,3.77,7.50,4.76,4.84,4.81,55,0.7273000000000001
+757,"Cohen, Shana R",EDS 131 - Early Child Dev & Education (A00),WI24,3.88,8.67,4.71,4.48,4.7,30,0.7667
+758,"Choi, Bailey Miyeon",EDS 131 - Early Child Dev & Education (A00),FA23,3.75,8.25,4.6,4.81,4.83,25,0.8
+759,"Bintliff, Amy S.V.","EDS 133 - Counsel, Mentor, Advise (P-12) (A00)",SP24,3.91,6.17,4.54,4.53,4.6,51,0.2353
+760,"Bintliff, Amy S.V.","EDS 133 - Counsel, Mentor, Advise (P-12) (A00)",WI24,3.93,7.21,4.82,4.83,4.91,27,0.7037000000000001
+761,"Drake, Kristy Nicole",EDS 135 - Newcomer Communities in SD (A00),S123,3.7,10.00,4.67,4.58,4.75,11,0.2727
+762,"Chung, Luz Marina",EDS 136 - Intro/Acad Tut/Second Schl Std (A00),SP24,3.81,6.43,4.89,4.93,4.96,17,0.4118
+763,"Chung, Luz Marina",EDS 136 - Intro/Acad Tut/Second Schl Std (A00),FA23,3.78,7.50,4.78,4.79,4.8,29,0.3448
+764,"Millstone, Rachel Diana",EDS 139 - Practicum in Teaching/Learning (A00),SP24,,4.82,4.73,4.75,4.68,39,0.2821
+765,"Mamas, Christoforos",EDS 139 - Practicum in Teaching/Learning (G00),SP24,,7.00,4.17,4.27,4.58,28,0.10710000000000001
+766,"Millstone, Rachel Diana",EDS 139 - Practicum in Teaching/Learning (D00),SP23,,7.92,4.64,4.72,4.82,51,0.2353
+767,"Mamas, Christoforos",EDS 139 - Practicum in Teaching/Learning (F00),SP23,,10.00,5.0,5.0,5.0,18,0.3889
+768,"Chung, Luz Marina",EDS 140 - Intro Action Rsrch P-12 Edu (A00),WI24,3.71,6.71,5.0,5.0,5.0,29,0.2414
+769,"Mamas, Christoforos",EDS 141 - Adv. Action Rsrch in P-12 Educ (A00),SP24,3.84,6.50,4.78,4.82,4.75,28,0.3214
+770,"Mamas, Christoforos",EDS 141 - Adv. Action Rsrch in P-12 Educ (A00),SP23,3.96,8.33,4.74,4.97,4.97,18,0.5
+771,"Choi, Bailey Miyeon",EDS 145 - Arts Across the Curriculum (A00),SP24,3.71,5.20,4.5,4.45,4.48,15,0.6667000000000001
+772,"Hemans, Patricia Ann Benitez",EDS 146 - Mindfulness and Education (A00),S223,4.0,9.29,4.79,4.81,4.82,16,0.4375
+773,"Wishard Guerra, Alison G.",EDS 164R - Early Childhood Policy (A00),FA23,3.49,8.50,4.33,4.33,4.65,40,0.25
+774,"Chapman, Thandeka K",EDS 180 - Topics in Education Studies (A00),SP24,4.0,5.00,5.0,4.83,5.0,9,0.3333
+775,"Ambo, Theresa Jean",EDS 180 - Topics in Education Studies (B00),SP24,4.0,3.67,5.0,4.92,4.92,12,0.25
+776,"Jones, Gabrielle Anastasia",EDS 180 - Topics in Education Studies (C00),SP24,3.78,4.71,4.21,4.11,4.25,12,0.5833
+777,"Jones, Gabrielle Anastasia",EDS 180 - Topics in Education Studies (A00),WI24,3.71,4.75,4.69,4.19,4.59,20,0.4
+778,"Clarke, Sherice Nicole",EDS 180 - Topics in Education Studies (A00),FA23,3.88,6.00,4.95,4.7,4.75,18,0.2778
+779,"Gallagher-Geurtsen, Tricia Meghan",EDS 180 - Topics in Education Studies (A00),S123,3.16,9.44,4.58,4.43,4.55,18,0.5
+780,"Kenley, Nicole",CCE 1 - CriticalApproach/CommPractice (A00),SP24,4.0,3.60,4.1,4.44,4.6,25,0.4
+781,"Quijada, David",CCE 1 - CriticalApproach/CommPractice (B00),SP24,3.86,4.27,3.92,4.0,4.43,38,0.31579999999999997
+782,"Bigley, Michele Heather",CCE 1 - CriticalApproach/CommPractice (C00),SP24,3.59,4.54,3.92,4.19,4.52,39,0.3333
+783,"Bigley, Michele Heather",CCE 1 - CriticalApproach/CommPractice (D00),SP24,3.96,5.00,4.0,3.95,3.95,25,0.2
+784,"Lee, Kassandra",CCE 1 - CriticalApproach/CommPractice (E00),SP24,3.88,2.50,4.31,4.31,4.53,36,0.11109999999999999
+785,"Lee, Kassandra",CCE 1 - CriticalApproach/CommPractice (F00),SP24,3.83,3.33,4.33,4.29,4.39,24,0.25
+786,"Merryman, Ashley",CCE 1 - CriticalApproach/CommPractice (G00),SP24,3.88,3.00,-1.0,4.78,-1.0,8,0.375
+787,"Quijada, David",CCE 1 - CriticalApproach/CommPractice (A00),WI24,3.75,3.36,4.05,3.89,4.49,40,0.275
+788,"Quijada, David",CCE 1 - CriticalApproach/CommPractice (B00),WI24,3.93,3.73,3.77,3.75,4.48,40,0.55
+789,"Kenley Grounds, Nicole",CCE 1 - CriticalApproach/CommPractice (C00),WI24,4.0,4.08,4.35,4.47,4.71,39,0.3333
+790,"Kenley Grounds, Nicole",CCE 1 - CriticalApproach/CommPractice (D00),WI24,3.95,3.55,4.55,4.64,4.8,38,0.2895
+791,"Lee, Kassandra",CCE 1 - CriticalApproach/CommPractice (E00),WI24,3.86,3.79,3.86,3.98,4.44,40,0.8250000000000001
+792,"Lee, Kassandra",CCE 1 - CriticalApproach/CommPractice (F00),WI24,3.81,2.92,4.16,4.19,4.58,40,0.625
+793,"Bigley, Michele Heather",CCE 1 - CriticalApproach/CommPractice (G00),WI24,3.86,4.00,4.11,4.54,4.64,40,0.4
+794,"Bigley, Michele Heather",CCE 1 - CriticalApproach/CommPractice (H00),WI24,3.74,3.92,3.88,4.29,4.65,40,0.325
+795,"Rahimi, Babak",ERC 1 - First Year Experience (A00),FA23,,2.10,4.32,4.24,4.33,45,0.6889000000000001
+796,"Rahimi, Babak",ERC 2 - Transfer Year Experience (A00),FA23,,4.64,4.4,4.31,4.39,29,0.4828
+797,"Evans, Ivan T",ERC 20 - Frshmn Honors Sem:Intntl Theme (A00),WI24,,1.12,3.74,3.45,3.88,30,0.5667
+798,"Evans, Ivan T",ERC 20 - Frshmn Honors Sem:Intntl Theme (A00),FA23,,2.14,3.91,3.7,4.19,30,0.7000000000000001
+799,"Evans, Ivan T",ERC 20 - Frshmn Honors Sem:Intntl Theme (B00),FA23,,1.82,4.38,4.47,4.5,20,0.55
+800,"Evans, Ivan T",ERC 89 - Practicum in Math Tutoring (A00),WI24,,4.43,3.37,3.13,3.83,22,0.3182
+801,"Lewis, Leslie R",ERC 190GS - Envirn&SustainableCommDevl (A00),S123,4.0,5.31,4.97,4.97,4.97,20,0.8
+802,"Patterson, Patrick H.",HMNR 100 - Human Rights I: Introduction (A),WI23,,-1,10.5,-1.0,-1.0,-1,-0.01
+803,"Shafir, Gershon",HMNR 100 - Human Rights I: Introduction (A),WI22,,-1,9.0,-1.0,-1.0,-1,-0.01
+804,"Shafir, Gershon",HMNR 100 - Human Rights I: Introduction (A),WI21,,3.66 (B+),4.79,-1.0,-1.0,-1,-0.01
+805,"Patterson, Patrick H.",HMNR 100 - Human Rights I: Introduction (A),WI20,,-1,6.79,-1.0,-1.0,-1,-0.01
+806,"Shafir, Gershon",HMNR 100 - Human Rights I: Introduction (A),WI19,,-1,4.83,-1.0,-1.0,-1,-0.01
+807,"Patterson, Patrick H.",HMNR 100 - Human Rights I: Introduction (A),WI18,,-1,7.5,-1.0,-1.0,-1,-0.01
+808,"Patterson, Patrick H.",HMNR 100 - Human Rights I: Introduction (A),WI17,,-1,8.04,-1.0,-1.0,-1,-0.01
+809,"Patterson, Patrick H.",HMNR 100 - Human Rights I: Introduction (A),WI16,,-1,9.0,-1.0,-1.0,-1,-0.01
+810,"Patterson, Patrick H.",HMNR 100 - Human Rights I: Introduction (A),WI15,,-1,9.17,-1.0,-1.0,-1,-0.01
+811,"Patterson, Patrick H.",HMNR 100 - Human Rights I: Hist. & Theory (A),WI14,,-1,8.94,-1.0,-1.0,-1,-0.01
+812,"Meade, Everard",HMNR 100 - Human Rights I: Hist. & Theory (A),WI13,,3.46 (B+),8.0,-1.0,-1.0,-1,-0.01
+813,"Meade, Everard",HMNR 100   - Human Rights I: Hist. & Theory (A),WI12,,3.14 (B),6.94,-1.0,-1.0,-1,-0.01
+814,"Meade, Everard",HMNR 100   - Human Rights I: Hist. & Theory (A),WI11,,3.45 (B+),4.98,-1.0,-1.0,-1,-0.01
+815,"Meade, Everard",HMNR 100 - Human Rights I: Hist. & Theory (A),WI10,,3.48 (B+),4.94,-1.0,-1.0,-1,-0.01
+816,"Meade, Everard",HMNR 100 - Human Rights I: Hist. & Theory (A),WI09,,3.57 (B+),4.4,-1.0,-1.0,-1,-0.01
+817,"Morris, Karcher William",ECE 5 - Intro to ECE (A00),SP24,3.44,7.67,4.92,4.64,4.55,26,0.23079999999999998
+818,"Morris, Karcher William",ECE 5 - Intro to ECE (A00),WI24,3.48,6.71,4.61,4.38,4.47,78,0.21789999999999998
+819,"Morris, Karcher William",ECE 5 - Intro to ECE (A00),FA23,3.48,7.83,4.63,4.45,4.71,162,0.43210000000000004
+820,"Morris, Karcher William",ECE 5 - Intro to ECE (A00),S223,3.48,6.82,4.7,4.6,4.95,28,0.3929
+821,"Morris, Karcher William",ECE 5 - Intro to ECE (A00),SP23,3.48,6.88,4.63,4.46,4.75,55,0.2909
+822,"Sahay, Rajeev",ECE 15 - Engineering Computation (A00),SP24,2.92,7.78,4.53,4.45,4.61,86,0.6395000000000001
+823,"Wang, Edward Jay",ECE 15 - Engineering Computation (A00),WI24,2.38,7.77,4.17,3.98,4.37,154,0.2013
+824,"Schurgers, Curt",ECE 15 - Engineering Computation (A00),FA23,2.84,8.31,4.44,4.22,4.6,178,0.6629
+825,"Wang, Edward Jay",ECE 16 - Rapid Hardware & Software Dsn (A00),SP24,3.45,10.10,4.36,4.42,4.5,31,0.35479999999999995
+826,"Khoshabeh, Ramsin",ECE 16 - Rapid Hardware & Software Dsn (A00),WI24,3.16,10.50,4.88,4.9,4.78,32,0.3125
+827,"Sahay, Rajeev",ECE 17 - Object-Oriented Programming (A00),SP24,3.17,6.91,4.6,4.54,4.76,64,0.7343999999999999
+828,"Sahay, Rajeev",ECE 17 - Object-Oriented Programming (A00),FA23,3.16,7.40,4.65,4.57,4.64,81,0.642
+829,"Dey, Sujit",ECE 25 - Introduction to Digital Design (A00),SP24,2.62,7.00,4.08,3.9,4.22,50,0.26
+830,"Morris, Karcher William",ECE 25 - Introduction to Digital Design (A00),WI24,2.74,6.78,4.37,4.26,4.59,134,0.5448
+831,"Liu, Zhaowei",ECE 25 - Introduction to Digital Design (A00),FA23,3.17,7.59,3.9,3.7,4.33,64,0.46880000000000005
+832,"Mir Arabbaygi, Siavash",ECE 30 - Intro to Computer Engineering (A00),SP24,2.76,9.40,3.8,3.76,4.15,115,0.21739999999999998
+833,"Mir Arabbaygi, Siavash",ECE 30 - Intro to Computer Engineering (A00),FA23,2.77,8.33,4.28,4.26,4.44,78,0.30770000000000003
+834,"Taur, Yuan",ECE 35 - Introduction to Analog Design (A00),SP24,2.43,6.67,3.89,3.64,4.1,75,0.28
+835,"Sahay, Rajeev",ECE 35 - Introduction to Analog Design (A00),WI24,2.93,8.80,4.55,4.5,4.59,149,0.6376
+836,"Schurgers, Curt",ECE 35 - Introduction to Analog Design (A00),FA23,2.84,8.97,4.53,4.45,4.7,144,0.6528
+837,"Schurgers, Curt",ECE 35 - Introduction to Analog Design (B00),FA23,2.73,9.06,4.61,4.49,4.7,126,0.5476
+838,"Zeger, Kenneth A.",ECE 45 - Circuits and Systems (A00),SP24,2.58,8.54,3.88,3.78,4.31,156,0.3397
+839,"Franceschetti, Massimo",ECE 45 - Circuits and Systems (A00),WI24,2.51,9.14,3.48,3.38,4.04,168,0.4167
+840,"Antipa, Nicholas A",ECE 45 - Circuits and Systems (A00),FA23,2.68,8.68,4.16,4.05,4.45,101,0.33659999999999995
+841,"Alcantara, Eldridge Escubido",ECE 45 - Circuits and Systems (A00),S323,3.01,9.71,4.88,4.93,4.89,40,0.875
+842,"Baghdadchi, Saharnaz",ECE 65 - Components & Circuits Lab (A00),SP24,2.83,8.45,4.46,4.36,4.59,152,0.7303000000000001
+843,"Baghdadchi, Saharnaz",ECE 65 - Components & Circuits Lab (A00),WI24,2.88,8.18,4.53,4.49,4.63,168,0.7202
+844,"Baghdadchi, Saharnaz",ECE 65 - Components & Circuits Lab (A00),FA23,2.88,8.20,4.38,4.43,4.65,74,0.6757
+845,"Saad, Andrew S",ECE 65 - Components & Circuits Lab (A00),S123,2.92,8.13,4.53,4.38,4.47,30,0.5333
+846,"Baghdadchi, Saharnaz",ECE 65 - Components & Circuits Lab (A00),SP23,2.88,7.95,4.33,4.43,4.54,161,0.7267
+847,"Baghdadchi, Saharnaz",ECE 100 - Linear Electronic Systems (A00),SP24,2.8,11.74,4.33,4.32,4.64,118,0.6609999999999999
+848,"Hall, Drew A.",ECE 100 - Linear Electronic Systems (A00),FA23,2.75,9.34,4.08,3.99,4.18,89,0.42700000000000005
+849,"Bharadia, Dinesh",ECE 101 - Linear Systems Fundamentals (A00),SP24,3.04,8.00,3.71,3.71,4.08,83,0.747
+850,"Baghdadchi, Saharnaz",ECE 101 - Linear Systems Fundamentals (A00),WI24,2.67,8.15,4.3,4.37,4.55,137,0.7226
+851,"Siegel, Paul H.",ECE 101 - Linear Systems Fundamentals (A00),FA23,3.05,8.66,4.28,4.21,4.41,136,0.7132
+852,"Wu, Yifan",ECE 101 - Linear Systems Fundamentals (A00),S223,3.1,9.06,4.31,4.23,4.41,-1,-0.01
+853,"Le, Hanh-Phuc",ECE 102 - Intro/Active Circuit Design (A00),WI24,3.19,8.18,4.41,4.09,4.36,76,0.2895
+854,"Hsueh, Tzu-Chien",ECE 102 - Intro/Active Circuit Design (A00),FA23,3.1,8.93,4.36,4.2,4.53,66,0.9242
+855,"Kuzum, Duygu",ECE 103 - Fundamntls/Devices & Materials (A00),SP24,3.28,7.21,4.55,4.62,4.74,43,0.44189999999999996
+856,"Lo, Yu-Hwa",ECE 103 - Fundamntls/Devices & Materials (A00),WI24,3.24,7.27,3.54,3.6,4.3,35,0.3143
+857,"Ng, Tse Nga",ECE 103 - Fundamntls/Devices & Materials (A00),FA23,3.37,6.88,4.22,4.22,4.52,39,0.4103
+858,"Fullerton, Eric E",ECE 107 - Electromagnetism (B00),SP24,2.89,10.50,4.22,4.14,4.48,58,0.4483
+859,"Lomakin, Vitaliy",ECE 107 - Electromagnetism (A00),WI24,3.03,7.43,4.45,4.46,4.67,83,0.3373
+860,"Lomakin, Vitaliy",ECE 107 - Electromagnetism (A00),FA23,3.03,6.67,3.92,3.96,4.29,41,0.1463
+861,"Baghdadchi, Saharnaz",ECE 107 - Electromagnetism (A00),S223,3.04,9.50,4.35,4.4,4.61,47,0.21280000000000002
+862,"Kang, Mingu",ECE 108 - Digital Circuits (A00),SP24,3.37,7.06,4.43,4.2,4.42,58,0.8276000000000001
+863,"Turakhia, Yatish Girish",ECE 108 - Digital Circuits (B00),FA23,3.05,8.48,4.49,4.13,4.45,27,0.8519
+864,"Orlitsky, Alon",ECE 109 - Engineering Probability&Stats (A00),SP24,2.87,8.92,3.64,3.48,4.17,118,0.2288
+865,"Poveda Fonseca, Jorge",ECE 109 - Engineering Probability&Stats (A00),WI24,2.88,9.51,4.16,4.09,4.45,145,0.5931000000000001
+866,"Zeger, Kenneth A.",ECE 109 - Engineering Probability&Stats (A00),FA23,2.57,7.37,4.24,4.03,4.57,133,0.2857
+867,"Turakhia, Yatish Girish",ECE 111 - Advanced Digital Design Proj (A00),SP24,3.4,6.65,4.19,4.11,4.38,126,0.7540000000000001
+868,"Eldon, John",ECE 111 - Advanced Digital Design Proj (A00),WI24,3.33,6.70,4.15,4.2,4.4,202,0.2525
+869,"Koushanfar, Farinaz",ECE 111 - Advanced Digital Design Proj (A00),FA23,3.3,7.50,3.82,3.53,3.8,62,0.2258
+870,"Karna, Vishal",ECE 111 - Advanced Digital Design Proj (A00),S323,3.55,8.75,4.84,4.88,4.88,34,0.2353
+871,"Turakhia, Yatish Girish",ECE 111 - Advanced Digital Design Proj (A00),SP23,3.45,8.19,4.24,4.03,4.34,168,0.6131000000000001
+872,"Yip, Michael",ECE 115 - Fast Prototyping (A00),SP24,3.69,12.33,4.54,4.4,4.38,26,0.4615
+873,"Esmaili, Gholamreza",ECE 121A - Power Sys Analysis & Fundmntls (A00),FA23,3.13,9.50,4.55,4.13,4.58,43,0.23260000000000003
+874,"Esmaili, Gholamreza",ECE 121B - Energy Conversion (A00),WI24,3.06,9.18,4.06,3.91,4.22,37,0.3243
+875,"Sievenpiper, Daniel F.",ECE 123 - Antenna Systems Engineering (A00),SP24,2.85,7.15,4.46,4.37,4.35,33,0.39390000000000003
+876,"Le, Hanh-Phuc",ECE 125A - Intro to Power Electronics I (A00),WI24,3.12,9.32,4.12,3.81,3.93,46,0.413
+877,"Esmaili, Gholamreza",ECE 125B - Intro to Power Electronics II (A00),SP24,3.5,9.00,4.21,4.13,4.27,21,0.619
+878,"Esmaili, Gholamreza",ECE 128A - Real Wrld Pwr Grid Operation (A00),FA23,2.85,8.13,4.28,4.26,4.56,65,0.1231
+879,"Esmaili, Gholamreza",ECE 128B - Power Grid Modernization (A00),WI24,3.19,6.87,3.93,3.86,4.2,70,0.2143
+880,"Ng, Tse Nga",ECE 134 - Electrnc Materls Sci/Integ Cir (A00),SP24,3.15,6.25,4.51,4.54,4.58,34,0.3824
+881,"Ng, Tse Nga",ECE 134 - Electrnc Materls Sci/Integ Cir (A00),SP23,3.02,6.43,4.64,4.54,4.68,39,0.1795
+882,"Kuzum, Duygu",ECE 135A - Semiconductor Physics (B00),FA23,3.38,6.15,4.77,4.6,4.61,27,0.4815
+883,"Dayeh, Shadi Ahmad",ECE 135B - Electronic Devices (A00),WI24,3.46,9.67,4.75,4.49,4.46,18,0.5
+884,"Dayeh, Shadi Ahmad",ECE 136L - Microelectronics Laboratory (A00),SP24,3.49,9.00,4.78,4.33,4.64,20,0.35000000000000003
+885,"Nomura, Kenji",ECE 139 - SemicndctorDeviceModelng/Desgn (A00),SP24,3.85,5.00,5.0,5.0,5.0,20,0.15
+886,"Khoshabeh, Ramsin",ECE 140A - The Art of Product Eng I (A00),WI24,3.43,11.03,4.39,4.24,4.3,102,0.3235
+887,"Khoshabeh, Ramsin",ECE 140B - The Art of Product Eng II (A00),SP24,3.17,12.00,4.48,4.18,4.35,61,0.2459
+888,"Gessner, Richard K.",ECE 141A - Software Foundations I (A00),WI24,2.47,15.30,4.45,4.2,4.67,61,0.37700000000000006
+889,"Gessner, Richard K.",ECE 141B - Software Foundations II (A00),SP24,3.19,11.63,4.69,4.69,4.68,21,0.381
+890,"Unpingco, Jose H.",ECE 143 - Programming for Data Analysis (A00),WI24,3.88,5.90,4.52,4.47,4.61,92,0.5870000000000001
+891,"Unpingco, Jose H.",ECE 143 - Programming for Data Analysis (A00),FA23,3.88,6.87,4.46,4.46,4.56,98,0.8571
+892,"Silberman, Jack",ECE 148 - Intro to Autonomous Vehicles (A),SP23,,3.95 (A-),13.3,-1.0,-1.0,-1,-0.01
+893,"Silberman, Jack",ECE 148 - Intro to Autonomous Vehicles (A),WI23,,3.84 (A-),11.5,-1.0,-1.0,-1,-0.01
+894,"Silberman, Jack",ECE 148 - Intro to Autonomous Vehicles (A),FA22,,3.96 (A-),15.07,-1.0,-1.0,-1,-0.01
+895,"Silberman, Jack",ECE 148 - Intro to Autonomous Vehicles (A),S222,,-1,18.5,-1.0,-1.0,-1,-0.01
+896,"Silberman, Jack",ECE 148 - Intro to Autonomous Vehicles (A),SP22,,-1,13.3,-1.0,-1.0,-1,-0.01
+897,"Silberman, Jack",ECE 148 - Intro to Autonomous Vehicles (A),WI22,,-1,9.83,-1.0,-1.0,-1,-0.01
+898,"Silberman, Jack",ECE 148 - Intro to Autonomous Vehicles (A),FA21,,-1,10.9,-1.0,-1.0,-1,-0.01
+899,"Silberman, Jack",ECE 148 - Intro to Autonomous Vehicles (A),S221,,-1,14.9,-1.0,-1.0,-1,-0.01
+900,"Silberman, Jack",ECE 148 - Intro to Autonomous Vehicles (A),SP21,,-1,12.25,-1.0,-1.0,-1,-0.01
+901,"Silberman, Jack",ECE 148 - Intro to Autonomous Vehicles (A),WI21,,-1,10.7,-1.0,-1.0,-1,-0.01
+902,"Silberman, Jack",ECE 148 - Intro to Autonomous Vehicles (A),FA20,,-1,10.9,-1.0,-1.0,-1,-0.01
+903,"Silberman, Jack",ECE 148 - Intro to Autonomous Vehicles (B),S220,,-1,11.25,-1.0,-1.0,-1,-0.01
+904,"Silberman, Jack",ECE 148 - Intro to Autonomous Vehicles (A),WI20,,-1,11.0,-1.0,-1.0,-1,-0.01
+905,"Silberman, Jack",ECE 148 - Intro to Autonomous Vehicles (A),FA19,,-1,10.5,-1.0,-1.0,-1,-0.01
+906,"Silberman, Jack",ECE 148 - Intro to Autonomous Vehicles (A),S219,,-1,15.7,-1.0,-1.0,-1,-0.01
+907,"de Oliveira, Mauricio",ECE 148 - Intro to Autonomous Vehicles (B),SP19,,-1,7.64,-1.0,-1.0,-1,-0.01
+908,"Silberman, Jack",ECE 148 - Intro to Autonomous Vehicles (B),SP19,,-1,7.64,-1.0,-1.0,-1,-0.01
+909,"de Oliveira, Mauricio",ECE 148 - Intro to Autonomous Vehicles (A),WI19,,-1,8.9,-1.0,-1.0,-1,-0.01
+910,"Silberman, Jack",ECE 148 - Intro to Autonomous Vehicles (A),WI19,,-1,8.9,-1.0,-1.0,-1,-0.01
+911,"de Oliveira, Mauricio",ECE 148 - Intro to Autonomous Vehicles (A),FA18,,-1,8.17,-1.0,-1.0,-1,-0.01
+912,"Silberman, Jack",ECE 148 - Intro to Autonomous Vehicles (A),S218,,-1,14.68,-1.0,-1.0,-1,-0.01
+913,"Silberman, Jack",ECE 148 - Intro to Autonomous Vehicles (A),SP18,,-1,6.79,-1.0,-1.0,-1,-0.01
+914,"Kumar, Rakesh",ECE 150 - Entrepreneurship for Engineers (A00),WI24,3.44,5.89,4.22,3.98,4.28,38,0.7632
+915,"Naghizadeh Ardabili, Parinaz",ECE 153 - Probability&Random Process/Eng (A00),SP24,3.19,7.73,4.22,4.25,4.53,64,0.34380000000000005
+916,"Milstein, Laurence B.",ECE 155 - Digital Communications Theory (A00),FA23,3.0,6.67,4.83,4.63,4.79,7,0.8571
+917,"Bharadia, Dinesh",ECE 157A - Communications Systems Lab I (A00),SP24,3.8,9.00,4.58,4.5,4.17,14,0.2143
+918,"Franceschetti, Massimo",ECE 158A - Data Networks I (A00),FA23,3.38,6.18,4.18,3.89,4.03,52,0.32689999999999997
+919,"Zhang, Xinyu",ECE 158B - Data Networks II (A00),SP24,3.12,9.00,4.58,4.08,4.17,17,0.1765
+920,"Javidi, Tara",ECE 159 - Intro Data Proc & Info Theory (A),WI23,,-1,5.7,-1.0,-1.0,-1,-0.01
+921,"Javidi, Tara",ECE 159 - Intro Data Proc & Info Theory (A),WI21,,-1,7.0,-1.0,-1.0,-1,-0.01
+922,"Javidi, Tara",ECE 159 - Intro Data Proc & Info Theory (A),WI20,,-1,6.64,-1.0,-1.0,-1,-0.01
+923,"Harris, Frederick Joel",ECE 161A - Intr/Digital Signal Processing (A00),FA23,3.47,6.88,3.97,3.29,4.03,68,0.3676
+924,"Harris, Frederick Joel",ECE 161B - Digital Signal Processing I (A00),WI24,3.76,4.47,4.43,4.2,4.46,52,0.28850000000000003
+925,"Cosman, Pamela C.",ECE 161C - Apps of Digital Signal Process (A00),SP24,3.14,6.43,4.71,4.56,4.77,29,0.4828
+926,"Hsueh, Tzu-Chien",ECE 163 - Electronic Circuits & Systems (A00),SP24,3.38,8.11,4.43,4.28,4.5,63,0.8889
+927,"Hall, Drew A.",ECE 164 - Analog Integrtd Circuit Design (A00),FA23,2.9,9.55,4.41,4.23,4.53,107,0.4112
+928,"Mercier, Patrick Philip",ECE 165 - Digtl Integrated Circuit Desgn (A00),SP24,3.17,10.00,4.63,4.59,4.65,83,0.45780000000000004
+929,"Rebeiz, Gabriel",ECE 166 - Microwave Systems and Circuits (A00),FA23,2.99,9.35,4.58,4.44,4.69,92,0.337
+930,"Zheng, Yang",ECE 171A - Linear Control System Theory (A00),SP24,3.34,9.52,4.59,4.59,4.73,79,0.6581999999999999
+931,"Atanasov, Nikolay A.",ECE 171A - Linear Control System Theory (A00),FA23,3.09,7.86,4.59,4.37,4.55,39,0.359
+932,"Shi, Yuanyuan",ECE 171B - Linear Control System Theory (A00),FA23,3.42,9.49,4.46,4.36,4.48,41,0.9756
+933,"Trivedi, Mohan M.",ECE 172A - Introductn/Intelligent Systems (A00),WI24,3.14,7.00,3.93,3.64,4.24,86,0.26739999999999997
+934,"Pal, Piya",ECE 174 - Intro/Linear&Nonlinear Optimiz (A00),FA23,2.86,9.00,4.31,4.08,4.59,92,0.43479999999999996
+935,"Vasconcelos, Nuno",ECE 175A - Pattrn Recogn and Machine Lrng (A00),WI24,2.9,12.00,4.06,3.68,4.03,57,0.1404
+936,"Xie, Pengtao",ECE 175B - Prob Reasoning & Graphical Mod (A00),SP24,2.98,8.54,3.99,3.86,4.28,25,0.96
+937,"Wang, Xiaolong",ECE 176 - Intro Deep Learning & Apps (A00),WI24,3.84,10.65,4.41,4.27,4.36,149,0.21480000000000002
+938,"Antipa, Nicholas A",ECE 181 - Physical Optics&Fourier Optics (A00),WI24,3.22,6.43,4.41,4.13,4.34,31,0.2581
+939,"Lomakin, Vitaliy",ECE 182 - Electromagnetic Optcs/GW&FbrOp (A00),FA23,3.64,7.50,4.06,3.56,4.56,10,0.4
+940,"Mookherjea, Shayan",ECE 183 - Optical Electronics (A00),SP24,3.48,5.60,4.7,4.53,4.74,31,0.3226
+941,"Fainman, Yeshaiahu",ECE 184 - Optical Info Proces&Holography (A00),WI24,3.62,11.25,3.81,3.06,3.56,5,0.8
+942,"Papen, George C.",ECE 185 - Lasers and Modulators (A),SP22,,-1,10.5,-1.0,-1.0,-1,-0.01
+943,"Papen, George C.",ECE 185 - Lasers and Modulators (A),SP20,,-1,7.0,-1.0,-1.0,-1,-0.01
+944,"Papen, George C.",ECE 185 - Lasers and Modulators (A),SP19,,-1,11.3,-1.0,-1.0,-1,-0.01
+945,"Papen, George C.",ECE 185 - Lasers and Modulators (A),SP17,,-1,13.83,-1.0,-1.0,-1,-0.01
+946,"Papen, George C.",ECE 185 - Lasers and Modulators (A),SP16,,-1,10.5,-1.0,-1.0,-1,-0.01
+947,"Papen, George C.",ECE 185 - Lasers and Modulators (A),SP13,,-1,12.5,-1.0,-1.0,-1,-0.01
+948,"Papen, George C.",ECE 185   - Lasers and Modulators          (B),SP12,,-1,9.93,-1.0,-1.0,-1,-0.01
+949,"Papen, George C.",ECE 185   - Lasers and Modulators          (A),SP11,,-1,12.5,-1.0,-1.0,-1,-0.01
+950,"Papen, George C.",ECE 185 - Lasers and Modulators          (A),SP10,,-1,8.1,-1.0,-1.0,-1,-0.01
+951,"LIU, ZHAOWEI",ECE 185 - Lasers and Modulators          (A),SP09,,-1,3.83,-1.0,-1.0,-1,-0.01
+952,"Lee, Sing H.",ECE 185 - Lasers and Modulators          (A),SP08,,-1,4.83,-1.0,-1.0,-1,-0.01
+953,"Zhang, Xinyu",ECE 191 - Engineering Group Design Proj (A00),WI24,3.34,11.80,4.0,3.5,4.17,20,0.25
+954,"Morris, Karcher William",ECE 196 - Eng Hands-on Group Project (A00),SP24,3.81,12.33,3.92,3.92,4.25,24,0.125
+955,"Morris, Karcher William",ECE 196 - Eng Hands-on Group Project (B00),SP24,3.81,5.50,4.94,4.69,4.88,21,0.1905
+956,"Morris, Karcher William",ECE 196 - Eng Hands-on Group Project (A00),FA23,3.87,10.00,4.83,4.79,4.79,27,0.22219999999999998
+957,"Morris, Karcher William",ECE 196 - Eng Hands-on Group Project (A00),SP23,3.87,8.33,4.0,4.0,4.27,24,0.125
+958,"Morris, Karcher William",ECE 196 - Eng Hands-on Group Project (B00),SP23,3.85,10.00,-1.0,-1.0,-1.0,11,0.2727
+959,"Cezo, Katharine",ENVR 30 - Intro to Environmental Studies (A00),FA23,3.65,5.51,4.45,4.5,4.59,177,0.774
+960,"Daly, Heather Marie",ENVR 102 - Selected Topics/Environmntl St (A00),SP24,3.85,3.00,4.81,4.81,4.86,21,0.619
+961,"Montejo, Carolina",ENVR 102 - Selected Topics/Environmntl St (B00),SP24,3.9,1.67,5.0,5.0,5.0,14,0.2143
+962,"Lin, Cindy Jih-Shing",ENVR 102 - Selected Topics/Environmntl St (C00),SP24,3.18,3.73,4.58,4.18,4.55,25,0.88
+963,"Patterson, Timothy Raymond",ENVR 110 - Environmental Law (A00),WI24,3.62,4.11,4.5,4.5,4.68,59,0.30510000000000004
+964,"Daly, Heather Marie",ENVR 111 - Env Law & Fed Indian Policy (A00),FA23,3.54,5.00,4.8,4.65,4.8,16,0.3125
+965,"Uyeda, Kellie Ann",ENVR 120 - Coastal Ecology (A00),WI24,3.79,3.75,4.75,4.74,4.71,15,0.5333
+966,"Siapno, Jacqueline A",ENVR 140 - Wilderness and Human Values (A00),SP24,3.88,2.83,4.36,4.17,4.41,43,0.2791
+967,"Siapno, Jacqueline A",ENVR 141 - Wilderness & HumanValue Worksh (A00),WI24,4.0,5.00,4.33,4.18,4.42,5,0.6
+968,"Daly, Heather Marie",ENVR 152 - IndigenousApproach/ClimChange (A00),WI24,3.9,3.86,4.61,4.29,4.68,15,0.4667
+969,"Taylor, Jennifer Rebecca",ESYS 101 - Environmental Biology (A00),FA23,3.57,5.21,4.24,4.02,4.26,138,0.1812
+970,"Haase, Jennifer Susan",ESYS 102 - The Solid and Fluid Earth (A00),WI24,3.51,5.25,3.61,3.55,4.34,86,0.8256
+971,"Lerner, Amy M",ESYS 103 - Envrnmntl Chall: Science & Sol (A00),SP24,3.55,4.19,4.48,4.45,4.66,181,0.2652
+972,"Hetherington, Elizabeth Dorsey",ESYS 187A - Senior Internship Project I (A00),FA23,,6.00,3.78,4.47,4.9,22,0.2273
+973,"Hetherington, Elizabeth Dorsey",ESYS 187A - Senior Internship Project I (B00),FA23,,5.63,3.38,3.89,4.14,57,0.1404
+974,"Hetherington, Elizabeth Dorsey",ESYS 187B - Senior Internship Project II (A00),WI24,,4.60,3.88,4.06,4.5,39,0.1282
+975,"Hetherington, Elizabeth Dorsey",ESYS 187B - Senior Internship Project II (B00),WI24,,6.80,4.17,4.46,4.86,48,0.20829999999999999
+976,"Hetherington, Elizabeth Dorsey",ESYS 187C - Envir Sys/Senior Seminar (A00),SP24,3.62,6.02,4.4,4.46,4.7,87,0.5402
+977,"Frank, Ross H.",ETHN 1R - R-Intro: Land and Labor (A00),FA23,3.76,5.91,4.31,4.25,4.44,431,0.40840000000000004
+978,"Sasaki, Christen T",ETHN 2R - R-Intro:CirculationsofDifferen (A00),WI24,3.84,3.44,4.52,4.47,4.59,448,0.35710000000000003
+979,"Streeby, Shelley",ETHN 3R - R-Intro: Making Culture (A00),SP24,3.75,3.64,4.17,4.27,4.36,358,0.2402
+980,"Fuste, Jose Ignacio",ETHN 30 - Intro Chicanx & Latinx Studies (A00),SP24,3.45,3.50,4.61,4.5,4.69,108,0.1852
+981,"Patel, Shaista",ETHN 100A - Theoretical Approaches (A00),FA23,3.69,5.38,4.71,4.52,4.75,37,0.3514
+982,"Gosin Wisniewski, Monika N.",ETHN 100B - InterdisciplinaryMethodologies (A00),WI24,3.57,4.83,4.5,4.55,4.75,25,0.48
+983,"Espiritu, Yen",ETHN 100H - Honors Research Design (A00),WI24,4.0,6.00,5.0,5.0,4.88,6,0.6667000000000001
+984,"Marez, Curtis F.",ETHN 101 - Ethnic Images in Film (A00),WI24,3.79,3.41,4.52,4.48,4.58,104,0.2788
+985,"Marez, Curtis F.",ETHN 101TV - Ethnic Images on TV (A00),SP24,3.98,3.29,4.8,4.8,4.84,53,0.26420000000000005
+986,"Streeby, Shelley",ETHN 103 - Environmental Racism (A00),WI24,3.78,4.83,4.26,4.39,4.57,69,0.36229999999999996
+987,"Noeuv, Amira",ETHN 103 - Environmental Racism (A00),S223,3.53,6.43,4.79,4.68,4.81,35,0.2
+988,"Man, Simeon S",ETHN 103A - United States & Pacific World (A),WI22,,-1,4.21,-1.0,-1.0,-1,-0.01
+989,"Man, Simeon S",ETHN 103A - United States & Pacific World (A),FA20,,-1,2.83,-1.0,-1.0,-1,-0.01
+990,"Fuste, Jose Ignacio","ETHN 104 - Race, Space, & Segregation (A00)",WI24,3.83,4.00,4.83,4.72,4.93,68,0.3529
+991,"Choi, Esther Min","ETHN 104 - Race, Space, & Segregation (A00)",S123,4.0,5.00,4.36,4.38,4.62,35,0.2857
+992,"Hankins, Sarah E.","ETHN 108 - Race, Culture & Social Change (A00)",SP24,3.68,5.09,4.3,4.32,4.43,34,0.3235
+993,"McFee, Rochelle Alexia",ETHN 109 - Race & Social Movements (A00),S223,3.7,5.56,4.28,3.97,4.23,35,0.2571
+994,"Klann, Mary Cameron",ETHN 112A - NativeAm& Indigenous Hist US I (A00),WI24,4.0,3.67,4.81,4.89,4.91,35,0.2571
+995,"Werner, Bradley T.",ETHN 113A - Decolonizing Geology (A00),SP24,3.74,3.00,5.0,5.0,5.0,14,0.2143
+996,"Frank, Ross H.",ETHN 114A - Representing Native America (A00),WI24,3.68,5.00,4.67,4.33,4.58,10,0.3
+997,"Frank, Ross H.",ETHN 114B - Rep Native Am -Exhibit Design (B),WI15,,-1,4.5,-1.0,-1.0,-1,-0.01
+998,"Steelman, Katherine Wallis",ETHN 116 - US-Mexico Bordr/Comp. Perspect (A00),WI24,3.84,3.86,4.86,4.75,4.71,32,0.2188
+999,"Choi, Esther Min",ETHN 117 - Organic Social Movements (A00),FA23,4.0,5.00,4.43,4.5,4.84,27,0.5185000000000001
+1000,"Assefafeleke, Christine Abine",ETHN 118 - Contemprary Immigration Issues (A00),S123,3.27,5.71,4.5,4.14,4.61,31,0.2258
+1001,"Espiritu, Yen",ETHN 118 - Contemprary Immigration Issues (A00),SP23,3.45,5.50,4.67,4.53,4.7,48,0.8333
+1002,"Alvarez, Luis A",ETHN 120D - Race & Oral Hist. in San Diego (A00),SP24,3.92,5.67,5.0,5.0,5.0,21,0.1429
+1003,"Espiritu, Yen",ETHN 120D - Race & Oral Hist. in San Diego (A00),SP23,4.0,5.00,4.8,4.15,4.5,15,0.3333
+1004,"Choi, Esther Min",ETHN 121R - R-Contemp Asian American Hist (A00),FA23,4.0,5.00,4.73,4.73,4.84,35,0.4571
+1005,"Tran, Ly Thi Hai",ETHN 122 - Asian American Cult & Identity (A00),FA23,4.0,5.45,4.57,4.48,4.53,34,0.3235
+1006,"Tran, Ly Thi Hai",ETHN 123 - Asian American Politics (A),WI23,,3.61 (B+),3.5,-1.0,-1.0,-1,-0.01
+1007,"Tran, Ly Thi Hai",ETHN 123 - Asian American Politics (A),SP22,,3.59 (B+),3.21,-1.0,-1.0,-1,-0.01
+1008,"Ho, Lisa",ETHN 123 - Asian American Politics (A),FA18,,3.81 (A-),3.21,-1.0,-1.0,-1,-0.01
+1009,"Villegas, Mark Redondo",ETHN 123 - Asian American Politics (A),SP17,,3.59 (B+),6.24,-1.0,-1.0,-1,-0.01
+1010,"Lin, Chien-Ting",ETHN 123 - Asian American Politics (A),FA14,,-1,8.5,-1.0,-1.0,-1,-0.01
+1011,"Ho, Lisa",ETHN 123 - Asian American Politics (A),S114,,-1,8.5,-1.0,-1.0,-1,-0.01
+1012,"Sasaki, Christen T",ETHN 125R - R-Asian American History (A00),SP24,3.83,3.00,4.82,4.8,4.84,51,0.29410000000000003
+1013,"Sasaki, Christen T",ETHN 125R - R-Asian American History (A00),FA23,3.73,5.38,4.54,4.39,4.67,51,0.2549
+1014,"Tran, Ly Thi Hai",ETHN 126 - Comp Filip&Viet Am Ident&Cmnty (A00),SP24,3.89,4.00,4.6,4.3,4.56,34,0.29410000000000003
+1015,"Martin Sandino, Amanda Maria Yoland",ETHN 127 - Sexuality & Nation (A00),SP24,3.96,3.00,4.25,4.22,4.45,27,0.3333
+1016,"McFee, Rochelle Alexia",ETHN 127 - Sexuality & Nation (A00),S123,3.92,5.36,4.23,3.95,4.09,15,0.9333
+1017,"Frank, Ross H.",ETHN 130 - Social & Econ Hist/Southwest I (A00),SP23,2.74,7.50,3.88,4.09,4.29,18,0.3333
+1018,"Martin Sandino, Amanda Maria Yoland",ETHN 137 - Latina Issues & Cultural Prod. (A00),SP24,3.87,3.86,4.46,4.36,4.46,23,0.3043
+1019,"Gosin Wisniewski, Monika N.",ETHN 138 - Black & Latinx Crossings (A00),WI24,3.21,4.40,4.5,4.15,4.5,32,0.3125
+1020,"Perreira, Christopher Michael",ETHN 139 - Chicano Literature in English (A00),SP24,4.0,4.33,4.29,4.13,4.46,23,0.2609
+1021,"Espiritu, Yen",ETHN 140A - Refugee San Diego (A00),FA23,3.73,5.67,4.5,4.23,4.48,42,0.7143
+1022,"Tanaka, Elaine Gale-armon",ETHN 142 - Medcn/Race&Globl Poli/Inequity (A00),S223,3.68,7.50,4.81,4.69,4.91,30,0.26670000000000005
+1023,"Marez, Curtis F.",ETHN 143 - Chicana/o Film & Media Studies (A00),SP24,3.87,3.50,4.56,4.56,4.78,43,0.18600000000000003
+1024,"Jolivette, Andrew J",ETHN 144M - Antiracist Medicine/HealthCare (A00),SP24,4.0,3.13,4.45,4.38,4.33,65,0.2462
+1025,"Browne, Errol Tsekani",ETHN 149 - African Amrcn Hist/the 20th C. (A00),FA23,3.42,5.00,4.43,4.0,4.14,18,0.3889
+1026,"Taylor-Garcia, Daphne","ETHN 150 - Visuality, Sexuality, and Race (A00)",SP24,3.91,4.50,4.56,4.63,4.75,16,0.25
+1027,"Taylor-Garcia, Daphne","ETHN 150 - Visuality, Sexuality, and Race (A00)",SP23,3.94,6.25,4.97,4.97,4.94,14,0.5714
+1028,"Martinez-Matsuda, Veronica",ETHN 153 - Citizenship & Civil Rts/20th c (A00),SP24,3.51,3.80,4.79,4.7,4.8,25,0.2
+1029,"Martinez-Matsuda, Veronica",ETHN 154 - History of Mexican America (A00),WI24,3.01,4.50,4.75,4.38,4.63,21,0.1905
+1030,"Castaneda, Miguel Angel",ETHN 154 - History of Mexican America (A00),S123,3.46,5.00,4.55,4.47,4.32,8,0.625
+1031,"Patel, Shaista",ETHN 163E - Decolonial Theory (A00),WI24,3.84,4.83,4.71,4.54,4.74,25,0.48
+1032,"Man, Simeon S",ETHN 163J - Asian American Social Movemnts (A00),S223,3.86,5.00,5.0,5.0,5.0,8,0.375
+1033,"Browne, Errol Tsekani",ETHN 164 - African Americans & Mass Media (A00),WI24,3.64,3.50,4.56,4.03,4.19,23,0.3478
+1034,"Batarseh, Amanda Alicia",ETHN 166 - Topic:Arab/Muslim Amer Identy (A00),FA23,3.95,5.00,4.67,4.78,4.69,20,0.45
+1035,"Patel, Shaista",ETHN 167A - Decolonial Muslim Feminisms (A00),FA23,2.99,5.00,4.83,4.71,4.83,17,0.3529
+1036,"Streeby, Shelley",ETHN 168 - Comparative Ethnic Literature (A),WI23,,3.65 (B+),4.0,-1.0,-1.0,-1,-0.01
+1037,"Walkiewicz, Kathryn A",ETHN 168 - Comparative Ethnic Literature (A),FA20,,3.38 (B+),6.0,-1.0,-1.0,-1,-0.01
+1038,"Streeby, Shelley",ETHN 168 - Comparative Ethnic Literature (A),SP20,,4.00 (A),4.72,-1.0,-1.0,-1,-0.01
+1039,"Nicolazzo, Sarah E.",ETHN 168 - Comparative Ethnic Literature (A),FA18,,-1,5.17,-1.0,-1.0,-1,-0.01
+1040,"Suzuki, Erin M.",ETHN 168 - Comparative Ethnic Literature (A),SP18,,-1,4.5,-1.0,-1.0,-1,-0.01
+1041,"Walkiewicz, Kathryn A",ETHN 168 - Comparative Ethnic Literature (A),SP17,,-1,9.5,-1.0,-1.0,-1,-0.01
+1042,"Perez, Crystal Roxana Ramirez",ETHN 168 - Comparative Ethnic Literature (A),S216,,-1,5.83,-1.0,-1.0,-1,-0.01
+1043,"Arvin, Maile R",ETHN 168   - Comparative Ethnic Literature  (A),S111,,-1,4.9,-1.0,-1.0,-1,-0.01
+1044,"Mariscal, George",ETHN 168 - Comparative Ethnic Literature  (A),WI10,,3.13 (B),4.5,-1.0,-1.0,-1,-0.01
+1045,"Mariscal, George",ETHN 168 - Comparative Ethnic Literature  (A),SU08,,-1,6.0,-1.0,-1.0,-1,-0.01
+1046,"Mariscal, George",ETHN 168 - Comparative Ethnic Literature  (A),SU07,,-1,5.03,-1.0,-1.0,-1,-0.01
+1047,"Browne, Errol Tsekani",ETHN 170 - Slavery and the Atlantic World (A00),WI24,3.69,3.50,4.88,4.69,4.44,15,0.26670000000000005
+1048,"Childs, Dennis R.",ETHN 174 - Themes/Afro-Americn Literature (A00),FA23,2.58,7.78,4.58,4.39,4.33,14,0.6429
+1049,"Borgo, David Garcia",ETHN 178R - Blues: An Oral Tradition (A00),FA23,3.7,5.36,4.58,4.45,4.66,29,0.4828
+1050,"Richards, Stephanie F",ETHN 179 - Discover Jazz (A00),SP24,3.75,3.67,4.17,4.08,4.5,22,0.13640000000000002
+1051,"Dresser, Mark Stuart",ETHN 179 - Discover Jazz (A00),WI24,3.5,4.45,3.89,3.95,4.25,22,0.5
+1052,"Rassooli, Nima","ETHN 182 - Race, Gender, Sexuality Sci Fi (A00)",S223,3.72,5.63,4.34,4.35,4.49,35,0.4571
+1053,"Steelman, Katherine Wallis","ETHN 183 - Gender,Race,Ethnicity & Class (A00)",SP24,4.0,3.40,4.75,4.63,4.63,17,0.29410000000000003
+1054,"Perez, Roy",ETHN 186 - Queer of Color Performance (A00),SP24,4.0,4.20,4.95,4.8,4.95,15,0.3333
+1055,"Beardsley, Steven Thomas",ETHN 187 - Latinx Sexualities (A),FA22,,-1,3.5,-1.0,-1.0,-1,-0.01
+1056,"Perez, Roy",ETHN 187 - Latinx Sexualities (A),FA21,,-1,3.17,-1.0,-1.0,-1,-0.01
+1057,"Hidalgo, Melissa Martha",ETHN 187 - Latinx Sexualities (A),SP19,,-1,3.83,-1.0,-1.0,-1,-0.01
+1058,"Zarate, Salvador Elias",ETHN 187 - Latinx Sexualities (A),SP18,,-1,5.75,-1.0,-1.0,-1,-0.01
+1059,"De Leon, Justin",ETHN 187 - Latina/o Sexualities (A),WI17,,-1,4.75,-1.0,-1.0,-1,-0.01
+1060,"Hernandez, Jillian",ETHN 187 - Latina/o Sexualities (A),FA15,,3.94 (A-),5.83,-1.0,-1.0,-1,-0.01
+1061,"Yanez, Angelica M",ETHN 187 - Latina/o Sexualities (A),FA14,,-1,6.75,-1.0,-1.0,-1,-0.01
+1062,"Hernandez, Jillian",ETHN 187 - Latina/o Sexualities (A),SP14,,3.59 (B+),7.17,-1.0,-1.0,-1,-0.01
+1063,"Museus, Samuel David",ETHN 189 - Special Topics/Ethnic Studies (A00),SP24,3.93,1.67,5.0,5.0,4.94,29,0.1379
+1064,"Museus, Samuel David",ETHN 189 - Special Topics/Ethnic Studies (A00),FA23,3.92,5.00,4.88,4.77,4.88,19,0.31579999999999997
+1065,"Browne, Errol Tsekani",ETHN 189 - Special Topics/Ethnic Studies (B00),FA23,3.38,6.67,4.88,4.46,4.38,16,0.375
+1066,"Klann, Mary Cameron",ETHN 189 - Special Topics/Ethnic Studies (C00),FA23,4.0,6.43,4.79,4.85,4.93,21,0.3333
+1067,"Anderson, Cheryl",FMPH 40 - Introduction to Public Health (A00),WI24,3.23,4.10,4.09,3.88,4.26,87,0.6897
+1068,"Trinidad, Dennis Ryan",FMPH 40 - Introduction to Public Health (A00),FA23,3.53,5.10,4.31,4.37,4.67,228,0.8553000000000001
+1069,"Trinidad, Dennis Ryan",FMPH 40 - Introduction to Public Health (B00),FA23,3.52,5.29,4.38,4.4,4.59,229,0.8253
+1070,"Reddy, Divya Kotha",FMPH 50 - Primary Care and Public Health (A00),WI24,3.08,4.41,4.4,4.25,4.46,163,0.33130000000000004
+1071,"Larsen, Britta Ann",FMPH 50 - Primary Care and Public Health (A00),FA23,3.37,5.83,4.67,4.55,4.68,253,0.047400000000000005
+1072,"Larsen, Britta Ann",FMPH 95 - Medical School Prep 101 (A00),SP24,,2.43,4.42,4.29,4.43,33,0.2121
+1073,"Larsen, Britta Ann",FMPH 95 - Medical School Prep 101 (A00),WI24,,1.63,4.48,4.36,4.6,40,0.425
+1074,"Tan, Gene Brian",FMPH 101 - Epidemiology (A00),SP24,3.17,4.53,4.53,4.41,4.57,69,0.2464
+1075,"Tan, Gene Brian",FMPH 101 - Epidemiology (A00),WI24,3.19,4.50,4.4,4.32,4.73,67,0.3582
+1076,"Miller, Lindsay Morgan",FMPH 101 - Epidemiology (B00),WI24,2.94,4.45,3.43,3.45,4.1,67,0.3284
+1077,"Brouwer, Kimberly",FMPH 101 - Epidemiology (A00),FA23,3.07,6.09,4.51,4.48,4.64,75,0.44
+1078,"Rana, Brinda Kanti",FMPH 102 - Biostatistics in Public Health (A00),SP24,3.3,5.32,3.97,4.07,4.36,66,0.3788
+1079,"Rana, Brinda Kanti",FMPH 102 - Biostatistics in Public Health (B00),SP24,3.15,5.80,3.78,3.89,4.3,67,0.23879999999999998
+1080,"Rana, Brinda Kanti",FMPH 102 - Biostatistics in Public Health (A00),WI24,3.3,5.11,3.88,3.92,3.93,60,0.3
+1081,"Rana, Brinda Kanti",FMPH 102 - Biostatistics in Public Health (A00),FA23,3.3,6.47,3.6,3.71,4.07,69,0.4928
+1082,"Campbell, Chadwick Karl",FMPH 110 - Health Behavior & Chronic Dis (A00),SP24,3.95,4.33,4.67,4.79,4.75,68,0.1765
+1083,"Zoumas-Morse, Christine E.",FMPH 110 - Health Behavior & Chronic Dis (B00),SP24,3.97,3.94,4.67,4.58,4.67,47,0.383
+1084,"Hartman, Sheri R",FMPH 110 - Health Behavior & Chronic Dis (A00),WI24,3.72,3.65,4.44,4.31,4.55,70,0.4571
+1085,"Hartman, Sheri R",FMPH 110 - Health Behavior & Chronic Dis (B00),WI24,3.6,4.87,4.15,4.15,4.47,68,0.4559
+1086,"Zoumas-Morse, Christine E.",FMPH 110 - Health Behavior & Chronic Dis (A00),FA23,3.77,5.23,4.45,4.44,4.63,69,0.6377
+1087,"Nguyen-Grozavu, France T.",FMPH 120 - Health Policies/Healthy Lfesty (A00),SP24,3.19,6.57,3.58,3.72,4.28,78,0.30770000000000003
+1088,"Nguyen-Grozavu, France T.",FMPH 120 - Health Policies/Healthy Lfesty (A00),WI24,3.2,5.48,3.2,3.37,3.91,73,0.2877
+1089,"McMenamin, Sara B",FMPH 120 - Health Policies/Healthy Lfesty (A00),FA23,3.66,6.72,4.28,4.25,4.61,71,0.4507
+1090,"McMenamin, Sara B",FMPH 120 - Health Policies/Healthy Lfesty (B00),FA23,3.63,6.00,4.1,4.18,4.7,70,0.2857
+1091,"Gould, Carlos Francisco",FMPH 130 - Environment & Occuption Health (A00),SP24,3.49,4.49,4.03,3.83,4.55,64,0.5468999999999999
+1092,"Ciborowski, Haley Minae",FMPH 130 - Environment & Occuption Health (B00),SP24,3.65,5.03,4.25,4.03,4.53,74,0.8514
+1093,"Kayser, Georgia Lyn",FMPH 130 - Environment & Occuption Health (A00),WI24,3.63,4.55,4.07,4.04,4.35,79,0.9114
+1094,"Kayser, Georgia Lyn",FMPH 130 - Environment & Occuption Health (A00),FA23,3.63,5.49,4.38,4.39,4.53,68,0.6029
+1095,"Fielding-Miller, Rebecca",FMPH 155 - Qualitative Research (A00),SP24,3.04,6.47,4.14,4.03,4.33,30,0.5333
+1096,"Zoumas-Morse, Christine E.",FMPH 161 - ClinicalNutrition/PublicHealth (A00),SP24,3.88,3.32,4.99,4.93,4.99,35,0.5429
+1097,"Zoumas-Morse, Christine E.",FMPH 161 - ClinicalNutrition/PublicHealth (A00),WI24,3.9,2.80,4.8,4.7,4.82,35,0.3143
+1098,"Zoumas-Morse, Christine E.",FMPH 161 - ClinicalNutrition/PublicHealth (A00),FA23,3.9,5.18,4.85,4.82,4.89,67,0.8358
+1099,"Eikey, Elizabeth Victoria",FMPH 191 - Topics in Public Health (A00),SP24,3.86,3.74,4.67,4.65,4.87,34,0.7941
+1100,"Harrell, Maralee Mae",FMPH 191 - Topics in Public Health (A00),WI24,3.62,3.00,4.36,4.47,4.5,27,0.40740000000000004
+1101,"Ryan, Margaret Angela Kapp",FMPH 191 - Topics in Public Health (B00),WI24,3.86,4.00,4.63,4.57,4.64,31,0.4516
+1102,"Campbell, Chadwick Karl",FMPH 191 - Topics in Public Health (A00),FA23,3.88,5.77,4.85,4.56,4.69,26,0.5
+1103,"Harrell, Maralee Mae",FMPH 191 - Topics in Public Health (B00),FA23,3.8,6.07,4.3,4.45,4.52,34,0.4118
+1104,"Larsen, Britta Ann",FMPH 193 - Public Health Capstone I (A00),WI24,3.97,3.71,4.31,4.53,4.59,31,1.0
+1105,"Marquez, Becky",FMPH 193 - Public Health Capstone I (B00),WI24,3.99,3.80,4.61,4.47,4.6,30,0.7000000000000001
+1106,"Nguyen-Grozavu, France T.",FMPH 193 - Public Health Capstone I (C00),WI24,3.97,4.60,4.59,4.68,4.61,32,0.6563
+1107,"Stone, Matthew David",FMPH 193 - Public Health Capstone I (D00),WI24,3.84,4.12,4.41,4.52,4.58,30,0.8333
+1108,"White, Anne Elizabeth Clar",FMPH 193 - Public Health Capstone I (E00),WI24,3.81,4.30,4.54,4.67,4.76,30,0.7667
+1109,"Zoumas-Morse, Christine E.",FMPH 193 - Public Health Capstone I (F00),WI24,3.96,3.57,4.54,4.75,4.86,28,0.25
+1110,"Romero, Sally Ann Dominick",FMPH 193 - Public Health Capstone I (A00),FA23,3.95,5.45,4.86,4.84,4.91,33,0.3333
+1111,"Larsen, Britta Ann",FMPH 194 - Public Health Capstone II (A00),SP24,3.95,3.60,4.74,4.72,4.73,31,0.6452
+1112,"Marquez, Becky",FMPH 194 - Public Health Capstone II (B00),SP24,3.98,4.04,4.57,4.65,4.79,30,0.9
+1113,"Nguyen-Grozavu, France T.",FMPH 194 - Public Health Capstone II (C00),SP24,3.95,4.52,4.5,4.64,4.61,32,0.8125
+1114,"Stone, Matthew David",FMPH 194 - Public Health Capstone II (D00),SP24,3.91,4.66,4.7,4.78,4.83,29,1.0
+1115,"White, Anne Elizabeth Clar",FMPH 194 - Public Health Capstone II (E00),SP24,3.91,5.00,4.65,4.61,4.75,30,1.0
+1116,"Zoumas-Morse, Christine E.",FMPH 194 - Public Health Capstone II (F00),SP24,3.94,5.25,5.0,4.97,5.0,29,0.2759
+1117,"Romero, Sally Ann Dominick",FMPH 194 - Public Health Capstone II (A00),WI24,3.98,4.69,4.56,4.58,4.63,33,0.39390000000000003
+1118,"Romero, Sally Ann Dominick",FMPH 194 - Public Health Capstone II (C00),SP23,3.98,5.83,4.85,4.84,4.89,34,0.5294
+1119,"Rahimi, Babak",FILM 87 - First-year Seminar (A00),SP24,,1.50,5.0,5.0,5.0,21,0.381
+1120,"Rahimi, Babak",FILM 87 - First-year Seminar (B00),SP24,,2.33,4.09,4.0,4.27,16,0.1875
+1121,"Rahimi, Babak",FILM 87 - First-year Seminar (A00),WI24,,1.55,4.71,4.75,4.78,20,0.55
+1122,"Rahimi, Babak",FILM 87 - First-year Seminar (B00),WI24,,1.00,4.46,4.54,4.54,20,0.3
+1123,"Rahimi, Babak",FILM 87 - First-year Seminar (A00),FA23,,0.00,4.63,4.38,4.75,20,0.35000000000000003
+1124,"Rahimi, Babak",FILM 87 - First-year Seminar (B00),FA23,,2.78,4.53,4.35,4.59,19,0.4737
+1125,"Elwardani, Nile Regina",GLBH 20 - Introduction to Global Health (A00),SP24,3.17,3.61,4.13,4.11,4.45,142,0.7183
+1126,"Elwardani, Nile Regina",GLBH 20 - Introduction to Global Health (A00),WI24,3.35,3.68,3.92,3.65,4.28,139,0.7842
+1127,"Walkover, Lillian B",GLBH 20 - Introduction to Global Health (A00),FA23,3.44,5.35,4.19,4.11,4.42,167,0.6826000000000001
+1128,"Stewart, Alexander B",GLBH 20 - Introduction to Global Health (A00),S123,3.61,5.00,4.36,4.22,4.28,31,0.2903
+1129,"Bhavsar, Radhika",GLBH 100 - Special Topics/Global Health (A00),SP24,3.84,3.23,4.73,4.72,4.78,48,0.9375
+1130,"Villarino, Margarita",GLBH 100 - Special Topics/Global Health (B00),SP24,3.9,2.69,4.46,4.46,4.4,44,0.29550000000000004
+1131,"Jenkins, Janis A.",GLBH 100 - Special Topics/Global Health (C00),SP24,3.8,4.67,4.67,4.67,4.83,7,0.8571
+1132,"Mishra, Jyoti",GLBH 100 - Special Topics/Global Health (D00),SP24,4.0,3.67,5.0,5.0,5.0,19,0.31579999999999997
+1133,"Elwardani, Nile Regina",GLBH 100 - Special Topics/Global Health (C00),FA23,3.28,5.45,3.9,3.69,4.4,57,0.5789
+1134,"Bhavsar, Radhika",GLBH 100 - Special Topics/Global Health (A00),SP23,3.79,5.28,4.45,4.54,4.7,42,0.8571
+1135,"Villarino, Margarita",GLBH 100 - Special Topics/Global Health (D00),SP23,3.68,5.00,3.63,3.53,4.16,37,0.27030000000000004
+1136,"Sloane, Julia Kathryn",GLBH 101 - Aging: Culture&Health/Hum Dev (A00),SP24,3.72,3.33,4.82,4.89,4.86,38,0.18420000000000003
+1137,"Burgos, Jose L.",GLBH 102 - Global Health Epidemiology (A00),WI24,3.73,6.47,4.34,4.17,4.36,27,0.7037000000000001
+1138,"Wilson, Brenda K",GLBH 104 - Humanities Ethics Professional (A00),WI24,3.82,4.33,4.67,4.52,4.75,34,0.3529
+1139,"Wilson, Brenda K",GLBH 107 - Health/Refugees&DisplacedPop (A00),SP24,3.82,4.11,4.69,4.58,4.69,49,0.1837
+1140,"Olivas Hernandez, Olga Lid",GLBH 108 - Hispanic and Latinx Issues/GH (A00),WI24,3.89,3.40,4.7,4.7,4.74,28,0.35710000000000003
+1141,"Burgos, Jose L.",GLBH 111 - Health Frontiers in Tijuana (A00),SP24,3.98,4.20,4.65,4.7,4.8,18,0.2778
+1142,"Burgos, Jose L.",GLBH 111 - Health Frontiers in Tijuana (B00),SP24,3.99,5.00,4.88,4.62,4.83,23,0.43479999999999996
+1143,"Burgos, Jose L.",GLBH 111 - Health Frontiers in Tijuana (A00),WI24,3.98,5.63,4.83,4.72,4.73,22,0.8636
+1144,"Burgos, Jose L.",GLBH 111 - Health Frontiers in Tijuana (B00),WI24,3.99,8.08,4.92,4.54,4.85,14,0.8571
+1145,"Burgos, Jose L.",GLBH 111 - Health Frontiers in Tijuana (A00),FA23,3.98,6.67,5.0,5.0,4.92,13,0.23079999999999998
+1146,"Burgos, Jose L.",GLBH 111 - Health Frontiers in Tijuana (B00),FA23,3.98,6.25,5.0,5.0,5.0,15,0.26670000000000005
+1147,"Burgos, Jose L.",GLBH 111 - Health Frontiers in Tijuana (A00),S223,3.98,8.33,5.0,5.0,5.0,9,0.3333
+1148,"Burgos, Jose L.",GLBH 111 - Health Frontiers in Tijuana (A00),S123,3.98,7.50,4.94,5.0,5.0,9,0.44439999999999996
+1149,"Wilson, Brenda K",GLBH 113 - Women's Health/Global Persp (A00),WI24,3.65,4.25,4.72,4.52,4.72,44,0.3636
+1150,"Olivas Hernandez, Olga Lid",GLBH 114 - Latin American Health&Healing (A00),FA23,3.91,5.45,4.45,4.39,4.52,47,0.23399999999999999
+1151,"Walkover, Lillian B",GLBH 114W - CSI: GlobalHealthCommunication (A00),SP24,3.85,3.71,4.3,4.48,4.73,15,0.9333
+1152,"Villarino, Margarita",GLBH 116 - Infectious Disease (A00),FA23,3.79,5.42,4.26,4.15,4.56,36,0.3333
+1153,"Wilson, Brenda K",GLBH 118 - Intro to GH Humanities (A00),SP24,3.38,4.50,4.0,3.69,4.13,26,0.15380000000000002
+1154,"Csordas, Thomas J.",GLBH 139 - Native American Health (A00),WI24,3.51,3.40,4.7,4.42,4.53,17,0.29410000000000003
+1155,"Sanghvi, Reema I",GLBH 141 - Clinical Perspectives in GH (A00),FA23,3.83,5.50,4.8,4.7,4.85,11,0.9091
+1156,"Stewart, Alexander B",GLBH 147 - Global Health and Environment (A00),SP24,3.61,4.45,4.64,4.57,4.76,38,0.5789
+1157,"Olivas Hernandez, Olga Lid",GLBH 148 - Global Health&Cultrl Diversity (A00),SP24,3.76,3.96,4.51,4.68,4.77,107,0.215
+1158,"Walkover, Lillian B",GLBH 148 - Global Health&Cultrl Diversity (A00),WI24,3.37,4.18,4.32,4.23,4.52,89,0.809
+1159,"Wilson, Brenda K",GLBH 148 - Global Health&Cultrl Diversity (A00),FA23,3.36,5.71,4.12,3.93,4.27,105,0.6667000000000001
+1160,"Olivas Hernandez, Olga Lid",GLBH 148 - Global Health&Cultrl Diversity (A00),S123,3.87,6.11,4.67,4.58,4.71,39,0.23079999999999998
+1161,"Sloane, Julia Kathryn",GLBH 150 - Culture and Mental Health (A00),WI24,3.68,4.11,4.44,4.14,4.53,33,0.2727
+1162,"Ismail, Ramsey",GLBH 150 - Culture and Mental Health (A00),S123,2.68,7.92,4.35,4.21,4.42,15,0.8
+1163,"Sanchez, Giselle",GLBH 150A - Horizons Honors Thesis Sem I (A00),WI24,4.0,5.67,4.58,4.75,4.78,12,0.5
+1164,"Sanchez, Giselle",GLBH 150B - Horizons Honors Thesis Sem II (A00),SP24,4.0,6.14,4.86,4.69,4.86,12,0.5833
+1165,"Mackey, Timothy Ken",GLBH 160 - Global Health Policy (A00),WI24,3.69,5.00,4.62,4.56,4.61,55,0.3091
+1166,"Jenkins, Janis A.",GLBH 171R - Global Mental Health (A00),FA23,3.82,6.47,4.65,4.6,4.66,21,0.8095
+1167,"Burgos, Jose L.",GLBH 181 - Essentials of Global Health (A00),SP24,3.88,3.74,4.28,4.22,4.32,172,0.7674
+1168,"Villarino, Margarita",GLBH 181 - Essentials of Global Health (A00),WI24,3.88,3.21,3.08,3.27,3.85,119,0.4118
+1169,"Burgos, Jose L.",GLBH 181 - Essentials of Global Health (A00),FA23,3.89,5.52,4.32,4.19,4.39,201,0.9204000000000001
+1170,"Card, Alan",GLBH 181 - Essentials of Global Health (A00),S123,4.0,6.00,4.45,4.53,4.42,38,0.2632
+1171,"Siapno, Jacqueline A",GSS 20 - Intro to Global South Studies (A00),SP24,3.97,3.00,3.9,3.85,4.36,33,0.303
+1172,"Siapno, Jacqueline A",GSS 20 - Intro to Global South Studies (A00),FA23,3.97,5.00,4.54,4.43,4.69,38,0.6053000000000001
+1173,"Siapno, Jacqueline A",GSS 20 - Intro to Global South Studies (B00),FA23,3.87,5.45,4.28,4.07,4.38,32,0.34380000000000005
+1174,"Kokinis, Troy Andreas",GSS 22 - LatinAm Carib History Culture (A00),WI24,3.91,6.00,4.44,4.23,4.47,25,0.32
+1175,"Batarseh, Amanda Alicia",GSS 25 - Middle East History & Culture (A00),SP24,3.8,3.62,4.86,4.84,4.88,39,0.7436
+1176,"Siapno, Jacqueline A",GSS 27 - SE Asia History & Culture (A00),WI24,3.87,3.25,3.44,3.39,4.07,29,0.2759
+1177,"Binkin, Nancy Jeanne",PH 196BH - Honors Practicum II (A00),SP24,4.0,11.00,4.9,4.75,4.91,19,0.7895000000000001
+1178,"Prestholdt, Jeremy",HIAF 111 - Modern Africa Since 1880 (A00),WI24,3.39,4.20,4.38,4.32,4.5,65,0.23079999999999998
+1179,"Gyamfi, Bright",HIAF 112 - West Africa Since 1880 (A00),WI24,3.94,5.42,4.9,4.94,4.85,19,0.6315999999999999
+1180,"Prestholdt, Jeremy",HIAF 113 - SmallWars GloblOrdr/Afrca&Asia (A00),SP24,3.22,3.91,4.76,4.59,4.8,68,0.3382
+1181,"Gyamfi, Bright",HIAF 114 - Black Internationalism (A00),SP24,3.71,4.76,4.9,4.76,4.84,56,0.6071
+1182,"Matsumura, Wendy Y",HIEA 112 - Japan:Mid-19th C.-US Occupatn (A00),FA23,3.83,5.45,4.56,4.45,4.57,117,0.29059999999999997
+1183,"Matsumura, Wendy Y",HIEA 114 - Postwar Japan (A00),FA23,3.78,5.36,4.47,4.36,4.45,102,0.2745
+1184,"Matsumura, Wendy Y",HIEA 115 - Social&Cultural/20th C Japan (A00),WI24,3.95,3.67,4.69,4.61,4.71,69,0.2754
+1185,"Schneewind, Sarah",HIEA 124 - Life in Ming China (1368-1644) (A00),WI24,3.06,5.89,4.33,4.19,4.11,37,0.2432
+1186,"Kletzer, Benjamin Nathan",HIEA 132 - Hist/People's Republic/China (A00),SP24,3.57,6.00,4.77,4.67,4.71,32,0.75
+1187,"Lu, Weijing",HIEA 137 - Women & Family/Chinese History (A00),FA23,2.75,5.00,4.34,4.0,4.36,54,0.20370000000000002
+1188,"Lu, Weijing",HIEA 138 - Women & the Chinese Revolution (A00),WI24,3.1,6.00,4.58,4.18,4.4,33,0.303
+1189,"Henry, Todd A.",HIEA 154 - Korean History Through Film (A00),SP24,3.25,5.95,4.41,4.24,4.48,49,0.4082
+1190,"Lu, Weijing",HIEA 171 - Society & Culture/Premod China (A),FA22,,-1,8.5,-1.0,-1.0,-1,-0.01
+1191,"Lu, Weijing",HIEA 171 - Society & Culture/Premod China (A),FA21,,-1,6.5,-1.0,-1.0,-1,-0.01
+1192,"Lu, Weijing",HIEA 171 - Society & Culture/Premod China (A),SP21,,-1,6.5,-1.0,-1.0,-1,-0.01
+1193,"Lu, Weijing",HIEA 171 - Society & Culture/Premod China (A),SP20,,-1,7.5,-1.0,-1.0,-1,-0.01
+1194,"Lu, Weijing",HIEA 171 - Society & Culture/Premod China (A),SP19,,-1,4.0,-1.0,-1.0,-1,-0.01
+1195,"Lu, Weijing",HIEA 171 - Society & Culture/Premod China (A),SP17,,-1,7.07,-1.0,-1.0,-1,-0.01
+1196,"Lu, Weijing",HIEA 171 - Society & Culture/Premod China (A),FA12,,-1,6.5,-1.0,-1.0,-1,-0.01
+1197,"Lu, Weijing",HIEA 171 - Society & Culture/Premod China (A),FA10,,-1,7.5,-1.0,-1.0,-1,-0.01
+1198,"Henry, Todd A.",HIEA 180 - Topics/Modern Korean History (A00),FA23,3.58,8.33,4.89,4.83,4.85,12,0.75
+1199,"Watts, Edward J.",HIEU 102 - Roman History (A00),WI24,3.47,4.24,4.5,4.46,4.62,117,0.3248
+1200,"Crum, Matthew Stephen",HIEU 104 - Byzantine Empire (A00),S223,3.91,6.67,4.96,4.88,5.0,14,0.4286
+1201,"Demetriou, Denise","HIEU 106 - Egypt, Greece, and Rome (A00)",SP23,3.11,5.96,4.59,4.41,4.52,94,0.2766
+1202,"Balberg, Mira",HIEU 108 - Sex & Politics/Ancient World (A00),WI24,3.71,3.20,4.89,4.82,4.82,68,0.4412
+1203,"Hertz, Deborah",HIEU 109 - Nationalism in Europe (A00),WI24,3.89,2.41,4.03,4.0,4.31,56,0.3036
+1204,"Wood, Lauren Elizabeth",HIEU 111 - Europe in the Middle Ages (A00),S123,3.0,8.00,4.8,4.8,4.8,19,0.2632
+1205,"Wood, Lauren Elizabeth",HIEU 115 - The Pursuit of the Millenium (A00),S223,3.25,6.25,4.5,4.27,4.4,20,0.2
+1206,"Gallant, Thomas W.",HIEU 116B - Greece/Balkans/Age/Nationalism (A00),FA23,3.65,5.50,4.23,4.28,4.33,54,0.1852
+1207,"Gallant, Thomas W.",HIEU 116C - Greece/Balkans/20th Century (A00),WI24,3.54,2.91,4.75,4.6,4.57,73,0.31510000000000005
+1208,"Demetriou, Denise",HIEU 122 - Archaic Greek History (A00),FA23,3.21,6.94,4.7,4.61,4.63,50,0.36
+1209,"Westerfeld, Kevin John",HIEU 124 - The Age of Alexander (A00),S123,3.32,5.42,4.71,4.81,4.85,16,0.75
+1210,"Biess, Frank Peter",HIEU 128 - Europe since 1945 (A00),FA23,3.35,6.58,4.52,4.35,4.64,77,0.7403000000000001
+1211,"Polic, Ivana",HIEU 128 - Europe since 1945 (A00),S223,3.23,6.67,4.46,4.26,4.58,20,0.3
+1212,"Strasser, Ulrike",HIEU 139 - Sex and Gender 1500-1800 (A00),SP24,3.55,3.57,4.66,4.48,4.66,54,0.40740000000000004
+1213,"Radcliff, Pamela B.",HIEU 140 - EuroWomen/Gender 1800-present (A00),FA23,3.46,5.79,4.51,4.17,4.36,51,0.3725
+1214,"Strasser, Ulrike",HIEU 147 - Women&Gender/Early Mod Europe (A),WI14,,3.48 (B+),4.93,-1.0,-1.0,-1,-0.01
+1215,"Truant, Cynthia M",HIEU 147 - Women&Gender/Early Mod Europe  (A),FA10,,3.61 (B+),4.74,-1.0,-1.0,-1,-0.01
+1216,"Truant, Cynthia M",HIEU 147 - Women&Gender/Early Mod Europe  (A),WI08,,3.46 (B+),3.54,-1.0,-1.0,-1,-0.01
+1217,"Hansen, Jan Eric",HIEU 154 - Mod German/Bismarck to Hitler (A00),FA23,3.63,6.14,4.58,4.49,4.66,72,0.48610000000000003
+1218,"Demetriou, Denise",HIEU 160 - Topics/Ancient Greek History (A00),FA23,3.74,9.50,4.93,4.83,4.92,15,0.6667000000000001
+1219,"Hansen, Jan Eric",HIEU 171 - Topic/Twentieth Century Europe (A00),SP24,3.39,5.71,4.45,4.44,4.88,22,0.6364
+1220,"Hertz, Deborah",HIEU 176 - Politics in the Jewish Past (A00),SP24,3.79,3.75,4.66,4.5,4.69,14,0.5714
+1221,"Gallant, Thomas W.",HIEU 183 - Social Hist/Mediterranean (A00),SP24,3.79,4.33,4.54,4.37,4.57,23,0.39130000000000004
+1222,"Ivey, James Alexander",HIGL 127 - Sport in the Modern World (A00),SP24,3.87,4.00,4.73,4.71,4.73,36,0.3333
+1223,"Murillo, Dana V.",HILA 100 - Conquest/Empire: The Americas (A00),FA23,2.98,6.43,4.52,4.55,4.73,46,0.3043
+1224,"Cowan, Benjamin A",HILA 102 - Latin America/Twentieth Centry (A00),WI24,3.31,3.75,4.66,4.32,4.45,52,0.30770000000000003
