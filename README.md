@@ -16,7 +16,7 @@ This project involves scraping, cleaning, and analyzing course evaluation data f
 - Google Chrome
 - Anaconda or Miniconda
 - Required Python packages: `selenium`, `pandas`, `beautifulsoup4`
-- Cookies from a SET session. Export a cookie json file while logged into SET page and create a json file called `academicaffairs.ucsd.edu.cookies.json` copy and paste cookie information into json file. Extension I used here: ([https://chromewebstore.google.com/detail/export-cookie-json-file-f/nmckokihipjgplolmcmjakknndddifde?pli=1](link))
+- Cookies from a SET session. Export a cookie json file while logged into SET page and create a json file called `academicaffairs.ucsd.edu.cookies.json` copy and paste cookie information into json file. Extension I used here: ([link](https://chromewebstore.google.com/detail/export-cookie-json-file-f/nmckokihipjgplolmcmjakknndddifde?pli=1))
 
 ### Setup
 1. **Clone the repository:**
@@ -52,4 +52,4 @@ This project involves scraping, cleaning, and analyzing course evaluation data f
 If you wish to contribute to this project, please fork the repository and submit a pull request. For major changes, please open an issue to discuss what you would like to change.
 
 ## Thanks to ...
-[https://www.reddit.com/r/UCSD/comments/14uh5q5/since_capes_is_being_retired_i_scraped_all_its/](This) reddit post about scraping CAPEs to inspire me to scrape SET.
+[This reddit post](https://www.reddit.com/r/UCSD/comments/14uh5q5/since_capes_is_being_retired_i_scraped_all_its/) about scraping CAPEs to inspire me to scrape SET.
