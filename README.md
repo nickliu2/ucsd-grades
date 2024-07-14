@@ -15,7 +15,7 @@ This project involves scraping, cleaning, and analyzing course evaluation data f
 - Python 3.7 or higher
 - Google Chrome
 - Anaconda or Miniconda
-- Required Python packages: `selenium`, `pandas`, `beautifulsoup4`
+- Required Python packages: `selenium`, `pandas`, `beautifulsoup4`, `notebook`
 - Cookies from a SET session. Export a cookie json file while logged into SET page and create a json file called `academicaffairs.ucsd.edu.cookies.json` copy and paste cookie information into json file. Extension I used here: ([link](https://chromewebstore.google.com/detail/export-cookie-json-file-f/nmckokihipjgplolmcmjakknndddifde?pli=1))
 
 ### Setup
