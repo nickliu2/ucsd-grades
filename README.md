@@ -1,7 +1,7 @@
-# UCSD Course Evaluation Analysis Project
+# UCSD SET Project
 
 ## Overview
-This project involves scraping, cleaning, and analyzing course evaluation data from the newly introduced Student Evaluation of Teaching website (SET). The goal is to create a comprehensive dataset that can be used for various analyses, such as understanding instructor performance, course difficulty, and student satisfaction.
+This project involves scraping, cleaning, and analyzing course evaluation data from the newly introduced Student Evaluation of Teaching website (SET). The goal is to create a comprehensive dataset that can be used for various analyses, such as understanding instructor performance, course difficulty, and student satisfaction. **Data from SET from S123 to WI24** is in `SET_WI24.csv`.
 
 ## Features
 - Scraping detailed course evaluation data from the UCSD SET.
@@ -34,9 +34,6 @@ This project involves scraping, cleaning, and analyzing course evaluation data f
     ```
     conda activate ucsd-grades
     ```
-
-## Usage
-
 
 ## Process Documentation
 - **Data Scraping:** Used Selenium and BeautifulSoup to automate the extraction of course evaluation data from the UCSD SET website. This involved navigating through multiple pages, handling cookies, and extracting data from tables.
