@@ -40,11 +40,6 @@ This project involves scraping, cleaning, and analyzing course evaluation data f
 - **Data Cleaning:** Processed the raw data to handle missing values, convert data types, and ensure consistency. This step ensures that the data is ready for analysis.
 - **Data Collection:** Successfully collected approximately 5000 course evaluations from several hundred tables, with each table corresponding to a different course.
 
-## Future Work
-- **Analysis:** Perform some analysis on the courses from S123 - WI24 (SET's lifetime) vs S107 - Sp23 (CAPE's lifetime)
-- **Dashboard Development:** Create an interactive dashboard using tools like Tableau, Plotly Dash, or Streamlit to visualize and explore the data.
-- **Deployment:** Deploy the dashboard or website to a platform for students to easily assess the latest SET data using HTML, CSS and JS. (NEXT GOAL)
-
 ## Contributing
 If you wish to contribute to this project, please fork the repository and submit a pull request. For major changes, please open an issue to discuss what you would like to change.
 
